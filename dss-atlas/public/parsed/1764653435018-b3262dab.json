@@ -1,0 +1,133 @@
+{
+  "claims": [
+    {
+      "claim_id": "1764653435018-b3262dab-1-1",
+      "document": "/uploads/1764653435018-b3262dab-sample_claims_maharashtra_multi.pdf",
+      "page": 1,
+      "name": "Bhimrao Patil",
+      "village": "Gadchiroli Village 1",
+      "district": "Gadchiroli",
+      "state": "Maharashtra",
+      "nature_of_claim": "IFR",
+      "extent_ha": 2.1,
+      "lat": 19.1234,
+      "lon": 79.1234,
+      "structured_json_found": false,
+      "raw_text": "Claimant: Bhimrao Patil...",
+      "extraction_confidence": 0.85,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    },
+    {
+      "claim_id": "1764653435018-b3262dab-1-2",
+      "document": "/uploads/1764653435018-b3262dab-sample_claims_maharashtra_multi.pdf",
+      "page": 1,
+      "name": "Suresh Gonda",
+      "village": "Gadchiroli Village 1",
+      "district": "Gadchiroli",
+      "state": "Maharashtra",
+      "nature_of_claim": "IFR",
+      "extent_ha": 1.5,
+      "lat": 19.1256,
+      "lon": 79.1256,
+      "structured_json_found": false,
+      "raw_text": "Claimant: Suresh Gonda...",
+      "extraction_confidence": 0.88,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1764653435018-b3262dab-1",
+        "properties": {
+          "claim_id": "1764653435018-b3262dab-1",
+          "name": "Bhimrao Patil",
+          "village": "Gadchiroli Village 1",
+          "district": "Gadchiroli",
+          "state": "Maharashtra",
+          "extent_ha": 2.1,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0.85
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            79.1234,
+            19.1234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "1764653435018-b3262dab-2",
+        "properties": {
+          "claim_id": "1764653435018-b3262dab-2",
+          "name": "Suresh Gonda",
+          "village": "Gadchiroli Village 1",
+          "district": "Gadchiroli",
+          "state": "Maharashtra",
+          "extent_ha": 1.5,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0.88
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            79.1256,
+            19.1256
+          ]
+        }
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 2,
+    "valid": 2,
+    "invalid": 0,
+    "missingCoordinates": 0,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "sample_claims_maharashtra_multi.pdf",
+    "fileSize": 4307,
+    "checksum": "sha256:59add502b26b96488e4100ae8bc31a2d45a0169a70bb0bd229881b8ec2140b0b",
+    "processedAt": "2025-12-02T05:30:35.022Z"
+  }
+}

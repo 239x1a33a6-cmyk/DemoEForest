@@ -1,0 +1,147 @@
+{
+  "claims": [
+    {
+      "claim_id": "1764653421487-8b131f35-1-1",
+      "document": "/uploads/1764653421487-8b131f35-sample_claims_odisha_multi.pdf",
+      "page": 1,
+      "name": "Rama K. Nanda",
+      "spouse": "Sita Nanda",
+      "father": "Late X. Nanda",
+      "address": "House 101, Village-101, Odisha",
+      "village": "Village-101",
+      "gp": "GP-11",
+      "tehsil": "Tehsil-1",
+      "district": "Kandhamal",
+      "state": "Odisha",
+      "nature_of_claim": "Habitation and self-cultivation",
+      "extent_ha": 1.25,
+      "lat": 20.123456,
+      "lon": 84.123456,
+      "disputed": "No",
+      "evidence": "Community testimony; tenancy records",
+      "structured_json_found": true,
+      "raw_text": "Sample data for Rama K. Nanda...",
+      "extraction_confidence": 0.95,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    },
+    {
+      "claim_id": "1764653421487-8b131f35-1-2",
+      "document": "/uploads/1764653421487-8b131f35-sample_claims_odisha_multi.pdf",
+      "page": 1,
+      "name": "Shyam S. Pradhan",
+      "spouse": "Radha Pradhan",
+      "father": "Late Y. Pradhan",
+      "address": "House 102, Village-101, Odisha",
+      "village": "Village-101",
+      "gp": "GP-11",
+      "tehsil": "Tehsil-1",
+      "district": "Kandhamal",
+      "state": "Odisha",
+      "nature_of_claim": "Self-cultivation",
+      "extent_ha": 0.8,
+      "lat": 20.124567,
+      "lon": 84.124567,
+      "disputed": "No",
+      "evidence": "Voter ID",
+      "structured_json_found": true,
+      "raw_text": "Sample data for Shyam S. Pradhan...",
+      "extraction_confidence": 0.92,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1764653421487-8b131f35-1",
+        "properties": {
+          "claim_id": "1764653421487-8b131f35-1",
+          "name": "Rama K. Nanda",
+          "village": "Village-101",
+          "district": "Kandhamal",
+          "state": "Odisha",
+          "extent_ha": 1.25,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": true,
+          "extraction_confidence": 0.95
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.123456,
+            20.123456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "1764653421487-8b131f35-2",
+        "properties": {
+          "claim_id": "1764653421487-8b131f35-2",
+          "name": "Shyam S. Pradhan",
+          "village": "Village-101",
+          "district": "Kandhamal",
+          "state": "Odisha",
+          "extent_ha": 0.8,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": true,
+          "extraction_confidence": 0.92
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.124567,
+            20.124567
+          ]
+        }
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 2,
+    "valid": 2,
+    "invalid": 0,
+    "missingCoordinates": 0,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "sample_claims_odisha_multi.pdf",
+    "fileSize": 4086,
+    "checksum": "sha256:068de6cf221bf83a6d236701641add134b4e27343f022a2143c3caf58e76867f",
+    "processedAt": "2025-12-02T05:30:21.490Z"
+  }
+}

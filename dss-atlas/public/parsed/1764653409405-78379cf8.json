@@ -1,0 +1,133 @@
+{
+  "claims": [
+    {
+      "claim_id": "1764653409405-78379cf8-1-1",
+      "document": "/uploads/1764653409405-78379cf8-sample_claims_mixed_states.pdf",
+      "page": 1,
+      "name": "Arjun Singh",
+      "village": "Village MP 1",
+      "district": "Mandla",
+      "state": "Madhya Pradesh",
+      "nature_of_claim": "IFR",
+      "extent_ha": 1.1,
+      "lat": 22.5678,
+      "lon": 80.5678,
+      "structured_json_found": false,
+      "raw_text": "Claimant: Arjun Singh...",
+      "extraction_confidence": 0.89,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    },
+    {
+      "claim_id": "1764653409405-78379cf8-1-2",
+      "document": "/uploads/1764653409405-78379cf8-sample_claims_mixed_states.pdf",
+      "page": 1,
+      "name": "Lakshmi Devi",
+      "village": "Village CG 1",
+      "district": "Bastar",
+      "state": "Chhattisgarh",
+      "nature_of_claim": "IFR",
+      "extent_ha": 0.9,
+      "lat": 19.5678,
+      "lon": 81.5678,
+      "structured_json_found": false,
+      "raw_text": "Claimant: Lakshmi Devi...",
+      "extraction_confidence": 0.87,
+      "validation": {
+        "missing_fields": [],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": false,
+        "explanations": []
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1764653409405-78379cf8-1",
+        "properties": {
+          "claim_id": "1764653409405-78379cf8-1",
+          "name": "Arjun Singh",
+          "village": "Village MP 1",
+          "district": "Mandla",
+          "state": "Madhya Pradesh",
+          "extent_ha": 1.1,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0.89
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.5678,
+            22.5678
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "1764653409405-78379cf8-2",
+        "properties": {
+          "claim_id": "1764653409405-78379cf8-2",
+          "name": "Lakshmi Devi",
+          "village": "Village CG 1",
+          "district": "Bastar",
+          "state": "Chhattisgarh",
+          "extent_ha": 0.9,
+          "validation": {
+            "missing_fields": [],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": false,
+            "explanations": []
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0.87
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.5678,
+            19.5678
+          ]
+        }
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 2,
+    "valid": 2,
+    "invalid": 0,
+    "missingCoordinates": 0,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "sample_claims_mixed_states.pdf",
+    "fileSize": 4161,
+    "checksum": "sha256:833c5a69ae3f28faa632690eb99f551a4d815ce07dd28a25525be92ce1d5e581",
+    "processedAt": "2025-12-02T05:30:09.409Z"
+  }
+}

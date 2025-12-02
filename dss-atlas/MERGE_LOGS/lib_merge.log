@@ -1,0 +1,16 @@
+Transfer starting: 12 files
+Skip existing 'expandedMockData.ts'
+Skip existing 'mockData.ts'
+./
+assetService.ts
+claimsGenerator.ts
+csvLoader.ts
+db.ts
+districtCentroids.ts
+exportUtils.ts
+fraService.ts
+geoJsonData.ts
+mapUtils.ts
+
+sent 65864 bytes  received 224 bytes  16119024 bytes/sec
+total size is 91219  speedup is 1.38

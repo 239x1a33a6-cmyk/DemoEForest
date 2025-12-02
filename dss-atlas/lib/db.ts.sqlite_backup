@@ -1,0 +1,250 @@
+import sqlite3 from 'sqlite3';
+import { open, Database } from 'sqlite';
+import path from 'path';
+
+// Database configuration
+const dbPath = path.join(process.cwd(), 'fra_atlas.db');
+
+let dbInstance: Database | null = null;
+
+/**
+ * Get database connection
+ */
+export async function getDb(): Promise<Database> {
+    if (dbInstance) {
+        return dbInstance;
+    }
+
+    dbInstance = await open({
+        filename: dbPath,
+        driver: sqlite3.Database
+    });
+
+    // Enable foreign keys and WAL mode for better concurrency
+    await dbInstance.run('PRAGMA foreign_keys = ON');
+    await dbInstance.run('PRAGMA journal_mode = WAL');
+    await dbInstance.run('PRAGMA busy_timeout = 5000');
+
+    // Initialize schema if needed
+    await initSchema(dbInstance);
+
+    console.log('✅ SQLite database connected');
+    return dbInstance;
+}
+
+/**
+ * Initialize database schema
+ */
+async function initSchema(db: Database) {
+    // Table 1: claims
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS claims (
+            id TEXT PRIMARY KEY,
+            claim_id TEXT NOT NULL UNIQUE,
+            claim_type TEXT NOT NULL,
+            geojson TEXT NOT NULL,
+            current_flags TEXT,
+            current_confidence REAL NOT NULL,
+            saved_by TEXT NOT NULL,
+            saved_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            version INTEGER DEFAULT 1
+        );
+        CREATE INDEX IF NOT EXISTS idx_claims_claim_id ON claims(claim_id);
+        CREATE INDEX IF NOT EXISTS idx_claims_saved_at ON claims(saved_at DESC);
+    `);
+
+    // Table 2: claim_versions
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS claim_versions (
+            id TEXT PRIMARY KEY,
+            claim_db_id TEXT NOT NULL,
+            version INTEGER NOT NULL,
+            geojson TEXT NOT NULL,
+            flags TEXT,
+            confidence REAL NOT NULL,
+            saved_by TEXT NOT NULL,
+            saved_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY(claim_db_id) REFERENCES claims(id) ON DELETE CASCADE,
+            UNIQUE(claim_db_id, version)
+        );
+        CREATE INDEX IF NOT EXISTS idx_claim_versions_claim_db_id ON claim_versions(claim_db_id);
+    `);
+
+    // Table 3: admin
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS admin (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            hashed_password TEXT NOT NULL,
+            created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            salt_version TEXT DEFAULT 'v1'
+        );
+    `);
+
+    // Table 4: audit_log
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS audit_log (
+            id TEXT PRIMARY KEY,
+            action TEXT NOT NULL,
+            user_identifier TEXT,
+            ip_address TEXT,
+            success INTEGER NOT NULL,
+            details TEXT,
+            created_at TEXT DEFAULT CURRENT_TIMESTAMP
+        );
+        CREATE INDEX IF NOT EXISTS idx_audit_log_created_at ON audit_log(created_at DESC);
+    `);
+
+    // ========================================
+    // STATIC CFR DATASET MODULE TABLES
+    // ========================================
+
+    // Table 5: static_cfr_dataset
+    // Stores cleaned Excel data with calculated CFR metrics
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS static_cfr_dataset (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            district TEXT NOT NULL,
+            taluka TEXT NOT NULL,
+            village TEXT NOT NULL,
+            village_code_2011 TEXT NOT NULL UNIQUE,
+            latitude REAL,
+            longitude REAL,
+            total_geographical_area REAL,
+            calculated_gis_area REAL,
+            total_households INTEGER,
+            total_population INTEGER,
+            sc_population INTEGER,
+            st_population INTEGER,
+            village_type TEXT,
+            cfr_type TEXT,
+            forest_inside_boundary REAL,
+            potential_cfr_buffer REAL,
+            total_cfr_potential REAL,
+            -- Calculated fields
+            eligible_cfr INTEGER NOT NULL DEFAULT 0,
+            cfr_priority_score REAL,
+            cfr_priority_category TEXT,
+            cfr_gap REAL,
+            -- Metadata
+            uploaded_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            data_quality_flags TEXT
+        );
+        CREATE INDEX IF NOT EXISTS idx_static_cfr_district ON static_cfr_dataset(district);
+        CREATE INDEX IF NOT EXISTS idx_static_cfr_taluka ON static_cfr_dataset(taluka);
+        CREATE INDEX IF NOT EXISTS idx_static_cfr_priority ON static_cfr_dataset(cfr_priority_category);
+        CREATE INDEX IF NOT EXISTS idx_static_cfr_eligible ON static_cfr_dataset(eligible_cfr);
+    `);
+
+    // Table 6: static_district_summary
+    // District-level aggregations
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS static_district_summary (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            district TEXT NOT NULL UNIQUE,
+            total_villages INTEGER NOT NULL,
+            eligible_villages INTEGER NOT NULL,
+            total_population INTEGER,
+            st_population INTEGER,
+            sc_population INTEGER,
+            total_cfr_potential REAL,
+            total_forest_inside REAL,
+            total_cfr_gap REAL,
+            high_priority_count INTEGER,
+            medium_priority_count INTEGER,
+            low_priority_count INTEGER,
+            updated_at TEXT DEFAULT CURRENT_TIMESTAMP
+        );
+    `);
+
+    // Table 7: static_taluka_summary
+    // Taluka-level aggregations
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS static_taluka_summary (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            district TEXT NOT NULL,
+            taluka TEXT NOT NULL,
+            total_villages INTEGER NOT NULL,
+            eligible_villages INTEGER NOT NULL,
+            total_population INTEGER,
+            st_population INTEGER,
+            sc_population INTEGER,
+            total_cfr_potential REAL,
+            total_forest_inside REAL,
+            total_cfr_gap REAL,
+            high_priority_count INTEGER,
+            medium_priority_count INTEGER,
+            low_priority_count INTEGER,
+            updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            UNIQUE(district, taluka)
+        );
+        CREATE INDEX IF NOT EXISTS idx_static_taluka_district ON static_taluka_summary(district);
+    `);
+
+    // Table 8: static_cfr_priority_summary
+    // Priority category summaries
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS static_cfr_priority_summary (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            priority_category TEXT NOT NULL UNIQUE,
+            village_count INTEGER NOT NULL,
+            total_population INTEGER,
+            st_population INTEGER,
+            sc_population INTEGER,
+            total_cfr_potential REAL,
+            avg_priority_score REAL,
+            updated_at TEXT DEFAULT CURRENT_TIMESTAMP
+        );
+    `);
+
+    // Table 9: static_auth
+    // Stores hashed password for static mode access
+    await db.exec(`
+        CREATE TABLE IF NOT EXISTS static_auth (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            hashed_password TEXT NOT NULL,
+            created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            updated_at TEXT DEFAULT CURRENT_TIMESTAMP
+        );
+    `);
+}
+
+/**
+ * Execute a query (wrapper to match previous pg API style roughly)
+ * Note: SQLite uses ? for parameters, not $1, $2
+ */
+export async function query(text: string, params: any[] = []) {
+    const db = await getDb();
+
+    // Check if it's a SELECT query
+    if (text.trim().toUpperCase().startsWith('SELECT')) {
+        const rows = await db.all(text, params);
+        return { rows, rowCount: rows.length };
+    } else {
+        // INSERT, UPDATE, DELETE
+        const result = await db.run(text, params);
+        return {
+            rows: [],
+            rowCount: result.changes,
+            lastID: result.lastID
+        };
+    }
+}
+
+/**
+ * Execute a transaction
+ */
+export async function transaction<T>(
+    callback: (db: Database) => Promise<T>
+): Promise<T> {
+    const db = await getDb();
+    try {
+        await db.run('BEGIN TRANSACTION');
+        const result = await callback(db);
+        await db.run('COMMIT');
+        return result;
+    } catch (error) {
+        await db.run('ROLLBACK');
+        throw error;
+    }
+}

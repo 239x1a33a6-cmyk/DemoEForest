@@ -1,0 +1,2230 @@
+id,holder_name,status,land_area_acres,latitude,longitude,village,district,state
+TG_ADI_001,Debu Bai,APPROVED,2.1,19.4404,78.7576,Village_400,Adilabad,Telangana
+TG_ADI_002,Rakesh Debbarma,PENDING,2.3,19.5244,78.7218,Village_493,Adilabad,Telangana
+TG_ADI_003,Pushpa Ho,PENDING,1.3,19.787,78.5927,Village_657,Adilabad,Telangana
+TG_ADI_004,Shyam Ekka,PENDING,2.6,19.2729,78.4919,Village_930,Adilabad,Telangana
+TG_ADI_005,Biru Lambada,PENDING,1.4,19.5535,78.8788,Village_690,Adilabad,Telangana
+TG_ADI_006,Sabita Bhil,PENDING,2.8,19.2901,78.3582,Village_296,Adilabad,Telangana
+TG_ADI_007,Savitri Debbarma,APPROVED,3.0,19.4956,78.4808,Village_285,Adilabad,Telangana
+TG_ADI_008,Ajay Koya,APPROVED,0.8,19.4754,78.5569,Village_769,Adilabad,Telangana
+TG_ADI_009,Mohan Pradhan,PENDING,1.8,19.5535,78.3856,Village_892,Adilabad,Telangana
+TG_ADI_010,Gouranga Santhal,APPROVED,0.8,19.621,78.5081,Village_515,Adilabad,Telangana
+TG_ADI_011,Amar Majhi,APPROVED,1.9,19.5423,78.3316,Village_677,Adilabad,Telangana
+TG_ADI_012,Mallesh Oraon,APPROVED,2.1,19.5679,78.7877,Village_786,Adilabad,Telangana
+TG_ADI_013,Kamalamma Korku,PENDING,2.1,19.9056,78.3266,Village_648,Adilabad,Telangana
+TG_ADI_014,Soni Nayak,APPROVED,2.4,19.308,78.8122,Village_917,Adilabad,Telangana
+TG_ADI_015,Sabita Santhal,APPROVED,1.1,19.8049,78.6007,Village_833,Adilabad,Telangana
+TG_ADI_016,Roshan Birhor,PENDING,2.2,19.5984,78.7487,Village_812,Adilabad,Telangana
+TG_ADI_017,Mallesh Birhor,APPROVED,1.2,19.3483,78.6965,Village_377,Adilabad,Telangana
+TG_ADI_018,Sarla Meena,APPROVED,1.6,19.1813,78.4078,Village_939,Adilabad,Telangana
+TG_ADI_019,Devraj Meena,APPROVED,2.8,19.6819,78.3065,Village_312,Adilabad,Telangana
+TG_HYD_001,Kamini Naik,APPROVED,1.6,17.4199,78.5141,Village_554,Hyderabad,Telangana
+TG_HYD_002,Linga Naik,PENDING,1.9,17.4728,78.5162,Village_809,Hyderabad,Telangana
+TG_HYD_003,Rinku Koya,PENDING,2.6,17.4053,78.4758,Village_879,Hyderabad,Telangana
+TG_HYD_004,Lopa Gond,PENDING,0.7,17.4442,78.5113,Village_460,Hyderabad,Telangana
+TG_HYD_005,Meena Lambada,APPROVED,1.6,17.2991,78.4669,Village_358,Hyderabad,Telangana
+TG_HYD_006,Manoj Lambada,APPROVED,2.7,17.4147,78.5059,Village_620,Hyderabad,Telangana
+TG_HYD_007,Raghu Lambada,APPROVED,0.7,17.3981,78.4929,Village_562,Hyderabad,Telangana
+TG_HYD_008,Lakshmi Koya,PENDING,0.8,17.3684,78.4323,Village_211,Hyderabad,Telangana
+TG_HYD_009,Sanjay Munda,APPROVED,1.6,17.4302,78.5138,Village_611,Hyderabad,Telangana
+TG_HYD_010,Sita Singh,APPROVED,0.5,17.3502,78.4601,Village_400,Hyderabad,Telangana
+TG_HYD_011,Rinku Nayak,APPROVED,2.5,17.3965,78.4325,Village_686,Hyderabad,Telangana
+TG_HYD_012,Mallaiah Lambada,APPROVED,2.5,17.389,78.4149,Village_320,Hyderabad,Telangana
+TG_HYD_013,Mohan Kharia,APPROVED,0.5,17.3917,78.4019,Village_202,Hyderabad,Telangana
+TG_HYD_014,Amar Sahariya,APPROVED,1.4,17.4224,78.4541,Village_370,Hyderabad,Telangana
+TG_HYD_015,Pinki Oraon,APPROVED,1.8,17.4626,78.504,Village_334,Hyderabad,Telangana
+TG_HYD_016,Rakhi Korku,APPROVED,0.5,17.4478,78.5174,Village_284,Hyderabad,Telangana
+TG_HYD_017,Pothuraju Kondh,APPROVED,1.9,17.4236,78.4946,Village_731,Hyderabad,Telangana
+TG_HYD_018,Shyam Kharia,APPROVED,0.7,17.4326,78.4335,Village_218,Hyderabad,Telangana
+TG_HYD_019,Reang Sahariya,APPROVED,2.8,17.376,78.405,Village_367,Hyderabad,Telangana
+TG_HYD_020,Durga Baiga,PENDING,1.4,17.3494,78.4608,Village_258,Hyderabad,Telangana
+TG_JAG_001,Kamini Nayak,APPROVED,1.6,18.8405,78.6793,Village_195,Jagitial,Telangana
+TG_JAG_002,Amar Oraon,APPROVED,2.5,18.6982,78.9898,Village_755,Jagitial,Telangana
+TG_JAG_003,Durga Nayak,APPROVED,0.5,18.7991,78.8759,Village_521,Jagitial,Telangana
+TG_JAG_004,Raghu Korku,APPROVED,2.1,18.8369,78.8945,Village_750,Jagitial,Telangana
+TG_JAG_005,Santosh Santhal,PENDING,2.0,18.6637,78.8516,Village_791,Jagitial,Telangana
+TG_JAG_006,Ramesh Majhi,PENDING,2.9,18.8706,78.6695,Village_759,Jagitial,Telangana
+TG_JAG_007,Shyam Oraon,APPROVED,2.2,18.8514,78.9199,Village_396,Jagitial,Telangana
+TG_JAG_008,Roshan Kharia,PENDING,0.6,19.0284,78.8587,Village_601,Jagitial,Telangana
+TG_JAG_009,Lali Meena,PENDING,2.2,18.8076,79.1191,Village_717,Jagitial,Telangana
+TG_JAG_010,Anji Birhor,PENDING,1.0,18.676,78.7068,Village_824,Jagitial,Telangana
+TG_JAG_011,Rakesh Pradhan,APPROVED,1.0,18.7399,78.9475,Village_284,Jagitial,Telangana
+TG_JAG_012,Rinku Meena,APPROVED,2.7,18.7414,79.0174,Village_506,Jagitial,Telangana
+TG_JAG_013,Devi Kondh,APPROVED,2.7,18.9533,79.0563,Village_812,Jagitial,Telangana
+TG_JAG_014,Radhika Ekka,PENDING,1.8,18.7504,78.6222,Village_614,Jagitial,Telangana
+TG_JAN_001,Raghu Sahariya,APPROVED,1.7,17.8683,79.066,Village_545,Jangoan,Telangana
+TG_JAN_002,Sumita Oraon,PENDING,2.1,17.781,79.3878,Village_518,Jangoan,Telangana
+TG_JAN_003,Rupali Baiga,PENDING,2.2,17.8101,79.1914,Village_333,Jangoan,Telangana
+TG_JAN_004,Gita Birhor,APPROVED,1.7,17.8372,79.437,Village_973,Jangoan,Telangana
+TG_JAN_005,Ajay Singh,PENDING,1.0,17.6014,79.3589,Village_217,Jangoan,Telangana
+TG_JAN_006,Sarita Kharia,APPROVED,2.3,17.7182,79.1009,Village_627,Jangoan,Telangana
+TG_JAN_007,Manisha Ho,PENDING,0.5,17.8566,79.4656,Village_926,Jangoan,Telangana
+TG_JAN_008,Mallesh Bai,APPROVED,1.2,17.9737,79.2429,Village_269,Jangoan,Telangana
+TG_JAN_009,Ramkali Koya,PENDING,2.4,17.7879,79.2328,Village_169,Jangoan,Telangana
+TG_JAN_010,Subhash Koya,PENDING,2.3,17.9329,79.2196,Village_121,Jangoan,Telangana
+TG_JAN_011,Pushpa Gond,APPROVED,1.2,17.559,79.2264,Village_306,Jangoan,Telangana
+TG_JAN_012,Sarla Koya,PENDING,2.9,17.8193,79.0436,Village_763,Jangoan,Telangana
+TG_JAN_013,Ajay Gond,PENDING,2.2,17.9299,79.2776,Village_111,Jangoan,Telangana
+TG_JAN_014,Radhika Meena,APPROVED,2.7,17.6487,79.5082,Village_448,Jangoan,Telangana
+TG_JAN_015,Amar Majhi,PENDING,2.5,17.9025,79.1867,Village_760,Jangoan,Telangana
+TG_JAN_016,Veera Nayak,APPROVED,1.8,17.6123,79.4315,Village_591,Jangoan,Telangana
+TG_JAN_017,Sumita Korku,PENDING,0.9,17.7564,79.0036,Village_126,Jangoan,Telangana
+TG_JAN_018,Pratap Meena,APPROVED,1.7,17.6927,79.3143,Village_398,Jangoan,Telangana
+TG_MUL_001,Debu Debbarma,APPROVED,2.8,18.2932,80.3995,Village_510,Mulugu,Telangana
+TG_MUL_002,Harish Birhor,PENDING,2.5,18.4601,80.4769,Village_928,Mulugu,Telangana
+TG_MUL_003,Devi Singh,PENDING,0.5,18.1908,80.4578,Village_423,Mulugu,Telangana
+TG_MUL_004,Devraj Santhal,APPROVED,2.2,18.4028,80.6635,Village_964,Mulugu,Telangana
+TG_MUL_005,Kamini Majhi,APPROVED,1.2,18.3945,80.0299,Village_555,Mulugu,Telangana
+TG_MUL_006,Arjun Koya,PENDING,2.7,18.5143,80.3031,Village_264,Mulugu,Telangana
+TG_MUL_007,Subal Kondh,APPROVED,1.8,18.4621,80.3288,Village_164,Mulugu,Telangana
+TG_MUL_008,Guddu Koya,APPROVED,2.6,18.3848,80.4968,Village_709,Mulugu,Telangana
+TG_MUL_009,Anitha Oraon,PENDING,1.9,18.099,80.3276,Village_871,Mulugu,Telangana
+TG_MUL_010,Lali Meena,PENDING,2.4,18.2565,80.1207,Village_450,Mulugu,Telangana
+TG_MUL_011,Chotu Oraon,APPROVED,2.4,18.1842,80.299,Village_715,Mulugu,Telangana
+TG_MUL_012,Laxman Oraon,APPROVED,2.6,18.3612,80.0462,Village_213,Mulugu,Telangana
+TG_MUL_013,Arjun Baiga,PENDING,1.7,18.4618,80.3807,Village_321,Mulugu,Telangana
+TG_MUL_014,Debu Munda,APPROVED,0.6,18.4874,80.6101,Village_632,Mulugu,Telangana
+TG_MUL_015,Sabita Sahariya,APPROVED,1.0,18.2202,80.6009,Village_867,Mulugu,Telangana
+TG_MUL_016,Rita Nayak,PENDING,2.7,18.2673,80.4632,Village_988,Mulugu,Telangana
+TG_JOG_001,Debu Bhil,PENDING,1.2,16.2616,77.5247,Village_307,Jogulamba Gadwal,Telangana
+TG_JOG_002,Meera Meena,PENDING,0.7,16.0838,77.5105,Village_585,Jogulamba Gadwal,Telangana
+TG_JOG_003,Savitri Debbarma,APPROVED,1.6,16.142,77.912,Village_645,Jogulamba Gadwal,Telangana
+TG_JOG_004,Ajay Pradhan,PENDING,0.8,16.2667,77.6385,Village_546,Jogulamba Gadwal,Telangana
+TG_JOG_005,Kumari Majhi,APPROVED,1.1,16.1389,77.9038,Village_180,Jogulamba Gadwal,Telangana
+TG_JOG_006,Ramkali Majhi,PENDING,2.8,16.1935,77.9102,Village_134,Jogulamba Gadwal,Telangana
+TG_JOG_007,Lukra Kondh,APPROVED,1.2,15.9197,77.6907,Village_464,Jogulamba Gadwal,Telangana
+TG_JOG_008,Meera Koya,PENDING,1.6,16.026,78.0408,Village_687,Jogulamba Gadwal,Telangana
+TG_JOG_009,Ramkali Baiga,APPROVED,2.7,16.2756,77.5745,Village_831,Jogulamba Gadwal,Telangana
+TG_JOG_010,Rita Meena,APPROVED,1.3,16.0202,77.7719,Village_564,Jogulamba Gadwal,Telangana
+TG_JOG_011,Lopa Pradhan,PENDING,1.1,16.0111,77.7069,Village_335,Jogulamba Gadwal,Telangana
+TG_JOG_012,Rupali Nayak,APPROVED,1.9,16.1668,77.7637,Village_304,Jogulamba Gadwal,Telangana
+TG_JOG_013,Manoj Birhor,PENDING,2.3,16.2601,77.5138,Village_679,Jogulamba Gadwal,Telangana
+TG_JOG_014,Chotu Ekka,APPROVED,1.0,16.0491,77.5883,Village_174,Jogulamba Gadwal,Telangana
+TG_JOG_015,Lali Lambada,APPROVED,0.9,16.0165,77.7227,Village_552,Jogulamba Gadwal,Telangana
+TG_JOG_016,Rinku Kondh,APPROVED,1.7,16.0521,77.6048,Village_791,Jogulamba Gadwal,Telangana
+TG_JOG_017,Krishna Singh,APPROVED,1.2,15.9143,78.0183,Village_228,Jogulamba Gadwal,Telangana
+TG_JOG_018,Sabita Gond,PENDING,2.6,16.2469,77.5802,Village_145,Jogulamba Gadwal,Telangana
+TG_JOG_019,Chotu Kondh,PENDING,0.6,16.115,77.9171,Village_250,Jogulamba Gadwal,Telangana
+TG_JOG_020,Linga Koya,APPROVED,2.1,16.1998,77.5049,Village_740,Jogulamba Gadwal,Telangana
+TG_KAM_001,Kalia Pradhan,PENDING,1.4,18.4185,77.6417,Village_997,Kamareddy,Telangana
+TG_KAM_002,Reang Debbarma,APPROVED,1.1,18.192,78.0789,Village_286,Kamareddy,Telangana
+TG_KAM_003,Devraj Bai,APPROVED,0.6,18.21,77.9062,Village_955,Kamareddy,Telangana
+TG_KAM_004,Narayan Lambada,APPROVED,0.9,18.2454,77.7905,Village_707,Kamareddy,Telangana
+TG_KAM_005,Shanti Munda,APPROVED,2.1,18.3277,78.3375,Village_900,Kamareddy,Telangana
+TG_KAM_006,Amar Kondh,PENDING,2.5,18.3045,77.6924,Village_820,Kamareddy,Telangana
+TG_KAM_007,Savitri Meena,APPROVED,1.5,18.3263,78.0171,Village_315,Kamareddy,Telangana
+TG_KAM_008,Ramesh Majhi,PENDING,2.6,18.349,77.9235,Village_314,Kamareddy,Telangana
+TG_KAM_009,Sanjay Majhi,APPROVED,0.9,18.2333,78.0283,Village_598,Kamareddy,Telangana
+TG_KAM_010,Sunitha Majhi,APPROVED,2.0,18.2851,78.3027,Village_424,Kamareddy,Telangana
+TG_KAM_011,Raghu Gond,APPROVED,0.7,18.4316,77.756,Village_715,Kamareddy,Telangana
+TG_KAM_012,Pratap Meena,APPROVED,2.9,18.2698,77.8264,Village_753,Kamareddy,Telangana
+TG_KAM_013,Rakhi Bhil,APPROVED,0.7,18.4304,77.9949,Village_444,Kamareddy,Telangana
+TG_KAR_001,Saroja Sahariya,APPROVED,1.0,18.3186,79.3463,Village_438,Karimnagar,Telangana
+TG_KAR_002,Krishna Baiga,PENDING,2.6,18.4635,79.2078,Village_551,Karimnagar,Telangana
+TG_KAR_003,Rinku Singh,APPROVED,1.4,18.5434,79.083,Village_710,Karimnagar,Telangana
+TG_KAR_004,Saroja Birhor,APPROVED,1.3,18.3423,79.2079,Village_802,Karimnagar,Telangana
+TG_KAR_005,Lakshmi Pradhan,APPROVED,2.9,18.1816,79.3162,Village_751,Karimnagar,Telangana
+TG_KAR_006,Pratap Baiga,PENDING,2.1,18.3964,79.5156,Village_361,Karimnagar,Telangana
+TG_KAR_007,Raghu Koya,APPROVED,0.5,18.437,79.2784,Village_362,Karimnagar,Telangana
+TG_KAR_008,Soma Ho,PENDING,2.0,18.3572,79.3357,Village_132,Karimnagar,Telangana
+TG_KAR_009,Harish Santhal,APPROVED,0.9,18.5328,79.0085,Village_799,Karimnagar,Telangana
+TG_KAR_010,Arjun Munda,APPROVED,0.6,18.656,79.0572,Village_882,Karimnagar,Telangana
+TG_KAR_011,Kamini Nayak,PENDING,2.3,18.3714,79.3733,Village_656,Karimnagar,Telangana
+TG_KAR_012,Biru Naik,APPROVED,2.3,18.609,78.9728,Village_281,Karimnagar,Telangana
+TG_KAR_013,Meera Bai,PENDING,0.8,18.484,79.0856,Village_680,Karimnagar,Telangana
+TG_KHA_001,Babulal Munda,APPROVED,2.8,17.2973,80.418,Village_637,Khammam,Telangana
+TG_KHA_002,Meena Santhal,APPROVED,0.5,17.3199,80.8587,Village_807,Khammam,Telangana
+TG_KHA_003,Sunil Kondh,APPROVED,1.9,16.8929,80.4052,Village_614,Khammam,Telangana
+TG_KHA_004,Nita Kharia,PENDING,0.5,17.3945,80.3153,Village_994,Khammam,Telangana
+TG_KHA_005,Rakhi Kondh,PENDING,1.4,17.1564,80.3262,Village_443,Khammam,Telangana
+TG_KHA_006,Ramkali Baiga,APPROVED,0.6,17.2929,80.2853,Village_705,Khammam,Telangana
+TG_KHA_007,Santosh Ekka,PENDING,1.0,17.0878,80.701,Village_774,Khammam,Telangana
+TG_KHA_008,Narayan Santhal,PENDING,1.8,17.2903,80.3645,Village_518,Khammam,Telangana
+TG_KHA_009,Laxman Debbarma,PENDING,2.1,17.3421,80.1284,Village_585,Khammam,Telangana
+TG_KHA_010,Lukra Sahariya,APPROVED,2.0,17.1485,80.7854,Village_924,Khammam,Telangana
+TG_KHA_011,Gita Kondh,PENDING,2.2,17.193,80.8243,Village_663,Khammam,Telangana
+TG_KHA_012,Lopa Kharia,PENDING,1.5,17.2422,80.3655,Village_921,Khammam,Telangana
+TG_KHA_013,Gita Birhor,APPROVED,0.9,17.4712,80.3081,Village_988,Khammam,Telangana
+TG_KUM_001,Saroja Debbarma,PENDING,1.6,19.5518,79.2802,Village_320,Kumuram Bheem Asifabad,Telangana
+TG_KUM_002,Kishore Nayak,PENDING,2.2,19.1715,79.2295,Village_492,Kumuram Bheem Asifabad,Telangana
+TG_KUM_003,Sarita Kondh,PENDING,0.8,19.3263,79.739,Village_178,Kumuram Bheem Asifabad,Telangana
+TG_KUM_004,Radhika Korku,PENDING,0.6,19.417,79.881,Village_254,Kumuram Bheem Asifabad,Telangana
+TG_KUM_005,Guddu Oraon,PENDING,0.9,19.289,79.38,Village_978,Kumuram Bheem Asifabad,Telangana
+TG_KUM_006,Linga Baiga,APPROVED,2.3,19.3957,79.585,Village_649,Kumuram Bheem Asifabad,Telangana
+TG_KUM_007,Santosh Singh,APPROVED,1.8,19.5069,79.0767,Village_280,Kumuram Bheem Asifabad,Telangana
+TG_KUM_008,Subhash Oraon,PENDING,2.7,19.3972,79.113,Village_674,Kumuram Bheem Asifabad,Telangana
+TG_KUM_009,Sanjay Kondh,PENDING,2.0,19.5801,79.6855,Village_337,Kumuram Bheem Asifabad,Telangana
+TG_KUM_010,Sunitha Bai,APPROVED,0.8,19.4937,79.9093,Village_581,Kumuram Bheem Asifabad,Telangana
+TG_KUM_011,Ramkali Kharia,PENDING,2.2,19.4921,79.4926,Village_937,Kumuram Bheem Asifabad,Telangana
+TG_KUM_012,Manisha Koya,PENDING,1.6,19.356,78.8944,Village_361,Kumuram Bheem Asifabad,Telangana
+TG_KUM_013,Chotu Sahariya,PENDING,1.7,19.5098,79.452,Village_307,Kumuram Bheem Asifabad,Telangana
+TG_KUM_014,Guddu Munda,PENDING,2.6,19.4261,79.1329,Village_159,Kumuram Bheem Asifabad,Telangana
+TG_MAH_001,Kalia Santhal,APPROVED,1.6,17.6627,79.8453,Village_621,Mahabubabad,Telangana
+TG_MAH_002,Asha Ekka,PENDING,1.8,17.3294,79.8087,Village_689,Mahabubabad,Telangana
+TG_MAH_003,Krishna Bhil,PENDING,1.3,17.4745,79.7794,Village_983,Mahabubabad,Telangana
+TG_MAH_004,Kamli Pradhan,PENDING,1.2,17.9,80.0461,Village_223,Mahabubabad,Telangana
+TG_MAH_005,Harish Baiga,PENDING,0.6,17.6297,80.1134,Village_278,Mahabubabad,Telangana
+TG_MAH_006,Sunil Pradhan,PENDING,1.2,17.7727,79.9298,Village_556,Mahabubabad,Telangana
+TG_MAH_007,Subhash Sahariya,APPROVED,1.3,17.8594,80.2429,Village_937,Mahabubabad,Telangana
+TG_MAH_008,Babulal Korku,APPROVED,2.6,17.3528,79.8012,Village_386,Mahabubabad,Telangana
+TG_MAH_009,Mohan Koya,PENDING,2.2,17.7043,79.954,Village_505,Mahabubabad,Telangana
+TG_MAH_010,Sita Ekka,APPROVED,1.3,17.6384,79.6564,Village_788,Mahabubabad,Telangana
+TG_MAH_001,Sonali Majhi,PENDING,2.2,16.7928,77.7741,Village_246,Mahabubnagar,Telangana
+TG_MAH_002,Savitri Kondh,APPROVED,2.7,16.8854,78.0833,Village_759,Mahabubnagar,Telangana
+TG_MAH_003,Nita Majhi,PENDING,1.4,16.8586,77.8032,Village_185,Mahabubnagar,Telangana
+TG_MAH_004,Sunil Singh,APPROVED,0.5,16.7296,77.7892,Village_293,Mahabubnagar,Telangana
+TG_MAH_005,Sarla Sahariya,APPROVED,0.8,16.9201,78.0766,Village_549,Mahabubnagar,Telangana
+TG_MAH_006,Arjun Ekka,PENDING,1.1,16.7624,78.1503,Village_203,Mahabubnagar,Telangana
+TG_MAH_007,Jayant Koya,PENDING,2.8,16.5153,77.7911,Village_109,Mahabubnagar,Telangana
+TG_MAH_008,Babulal Ekka,PENDING,1.8,16.9242,77.9224,Village_681,Mahabubnagar,Telangana
+TG_MAH_009,Anjali Koya,APPROVED,2.2,16.7576,78.1726,Village_844,Mahabubnagar,Telangana
+TG_MAH_010,Chandan Pradhan,PENDING,2.4,16.8507,78.2862,Village_641,Mahabubnagar,Telangana
+TG_MAH_011,Lopa Birhor,APPROVED,2.4,16.7617,77.6882,Village_215,Mahabubnagar,Telangana
+TG_MAH_012,Radhika Birhor,APPROVED,3.0,16.9438,77.9777,Village_977,Mahabubnagar,Telangana
+TG_MAH_013,Arjun Koya,APPROVED,1.9,16.8418,78.3136,Village_990,Mahabubnagar,Telangana
+TG_MAN_001,Lakshmi Ho,APPROVED,1.8,18.8504,79.5831,Village_728,Mancherial,Telangana
+TG_MAN_002,Lopa Oraon,APPROVED,1.6,19.1201,79.8028,Village_535,Mancherial,Telangana
+TG_MAN_003,Ramkali Nayak,APPROVED,0.8,19.0104,79.1405,Village_298,Mancherial,Telangana
+TG_MAN_004,Pratap Meena,APPROVED,2.8,18.7957,79.6195,Village_871,Mancherial,Telangana
+TG_MAN_005,Nita Bai,APPROVED,2.7,19.0931,79.3375,Village_683,Mancherial,Telangana
+TG_MAN_006,Anji Kharia,APPROVED,2.0,18.857,79.4701,Village_780,Mancherial,Telangana
+TG_MAN_007,Shyam Meena,APPROVED,1.0,19.1317,79.7153,Village_918,Mancherial,Telangana
+TG_MAN_008,Santosh Sahariya,PENDING,0.5,19.0229,79.5179,Village_441,Mancherial,Telangana
+TG_MAN_009,Shanti Ekka,PENDING,2.4,19.1098,79.3735,Village_734,Mancherial,Telangana
+TG_MAN_010,Nita Kondh,PENDING,2.3,19.1237,78.91,Village_857,Mancherial,Telangana
+TG_MAN_011,Debu Santhal,APPROVED,0.7,18.8442,79.7632,Village_276,Mancherial,Telangana
+TG_MED_001,Sita Meena,PENDING,2.5,17.9855,78.1271,Village_725,Medak,Telangana
+TG_MED_002,Rathnam Ekka,APPROVED,1.4,17.8904,78.0076,Village_124,Medak,Telangana
+TG_MED_003,Harish Singh,APPROVED,2.6,17.9435,78.109,Village_976,Medak,Telangana
+TG_MED_004,Ram Bhil,PENDING,1.8,17.9443,78.417,Village_834,Medak,Telangana
+TG_MED_005,Prakash Gond,PENDING,1.2,18.1028,78.1966,Village_947,Medak,Telangana
+TG_MED_006,Sabita Naik,APPROVED,0.8,17.9344,78.1294,Village_462,Medak,Telangana
+TG_MED_007,Mohan Birhor,PENDING,0.9,17.9148,78.1403,Village_756,Medak,Telangana
+TG_MED_008,Rekha Korku,APPROVED,1.3,18.0964,78.5392,Village_926,Medak,Telangana
+TG_MED_009,Biru Baiga,PENDING,1.2,18.094,78.2842,Village_107,Medak,Telangana
+TG_MED_010,Narayan Oraon,PENDING,1.1,18.1262,78.3339,Village_280,Medak,Telangana
+TG_MED_011,Veera Debbarma,APPROVED,2.9,17.9602,78.1721,Village_162,Medak,Telangana
+TG_MED_012,Meena Lambada,PENDING,0.8,17.8648,78.2302,Village_498,Medak,Telangana
+TG_MED_013,Sonali Oraon,APPROVED,2.1,17.9747,78.4561,Village_634,Medak,Telangana
+TG_MED_014,Krishna Bai,PENDING,0.5,17.9872,78.2855,Village_765,Medak,Telangana
+TG_MED_015,Lali Munda,APPROVED,1.6,17.9712,78.2593,Village_192,Medak,Telangana
+TG_MED_016,Sarla Kharia,PENDING,1.9,17.9906,78.0393,Village_875,Medak,Telangana
+TG_MED_017,Nita Singh,PENDING,0.9,17.8939,78.451,Village_207,Medak,Telangana
+TG_MED_018,Reena Pradhan,PENDING,2.2,17.8341,78.13,Village_772,Medak,Telangana
+TG_MED_001,Shyam Ho,APPROVED,0.9,17.4473,78.4247,Village_933,Medchal Malkajgiri,Telangana
+TG_MED_002,Anitha Gond,APPROVED,2.4,17.5154,78.5165,Village_457,Medchal Malkajgiri,Telangana
+TG_MED_003,Kishore Majhi,PENDING,1.7,17.3897,78.5944,Village_595,Medchal Malkajgiri,Telangana
+TG_MED_004,Jayant Korku,PENDING,1.4,17.5088,78.6734,Village_262,Medchal Malkajgiri,Telangana
+TG_MED_005,Rakesh Kharia,APPROVED,1.2,17.6065,78.5061,Village_706,Medchal Malkajgiri,Telangana
+TG_MED_006,Durga Debbarma,PENDING,1.2,17.3706,78.564,Village_894,Medchal Malkajgiri,Telangana
+TG_MED_007,Ramkali Birhor,APPROVED,0.7,17.4168,78.6971,Village_423,Medchal Malkajgiri,Telangana
+TG_MED_008,Lakshmi Birhor,APPROVED,1.3,17.6203,78.4219,Village_882,Medchal Malkajgiri,Telangana
+TG_MED_009,Shanti Nayak,PENDING,2.4,17.5429,78.3737,Village_612,Medchal Malkajgiri,Telangana
+TG_MED_010,Meera Sahariya,APPROVED,3.0,17.5878,78.6413,Village_657,Medchal Malkajgiri,Telangana
+TG_MED_011,Soma Santhal,APPROVED,2.0,17.4392,78.6195,Village_780,Medchal Malkajgiri,Telangana
+TG_MED_012,Sunil Kondh,PENDING,2.0,17.4625,78.6901,Village_714,Medchal Malkajgiri,Telangana
+TG_MED_013,Meera Debbarma,PENDING,2.0,17.544,78.4972,Village_653,Medchal Malkajgiri,Telangana
+TG_MED_014,Harish Koya,APPROVED,2.1,17.4159,78.7006,Village_280,Medchal Malkajgiri,Telangana
+TG_MED_015,Devraj Baiga,APPROVED,2.8,17.6252,78.4772,Village_854,Medchal Malkajgiri,Telangana
+TG_NAG_001,Kiran Debbarma,PENDING,2.5,16.7099,78.617,Village_730,Nagarkurnool,Telangana
+TG_NAG_002,Rinku Singh,PENDING,2.0,16.3771,78.951,Village_842,Nagarkurnool,Telangana
+TG_NAG_003,Pinki Debbarma,PENDING,1.5,16.7939,78.5748,Village_196,Nagarkurnool,Telangana
+TG_NAG_004,Kishore Kharia,PENDING,1.4,16.3069,78.2781,Village_817,Nagarkurnool,Telangana
+TG_NAG_005,Shanti Baiga,PENDING,1.6,16.161,78.8779,Village_954,Nagarkurnool,Telangana
+TG_NAG_006,Ramkali Naik,PENDING,0.6,16.3606,78.7568,Village_457,Nagarkurnool,Telangana
+TG_NAG_007,Rekha Munda,APPROVED,1.7,16.1685,78.4001,Village_507,Nagarkurnool,Telangana
+TG_NAG_008,Santi Sahariya,PENDING,2.3,16.0554,78.7288,Village_894,Nagarkurnool,Telangana
+TG_NAG_009,Sarla Nayak,PENDING,1.6,16.2279,79.1066,Village_355,Nagarkurnool,Telangana
+TG_NAG_010,Subhash Nayak,PENDING,2.0,16.6156,78.1771,Village_500,Nagarkurnool,Telangana
+TG_NAG_011,Linga Ekka,PENDING,2.3,16.1852,78.6157,Village_895,Nagarkurnool,Telangana
+TG_NAG_012,Gouranga Meena,PENDING,2.9,16.1398,78.825,Village_616,Nagarkurnool,Telangana
+TG_NAG_013,Sita Ekka,APPROVED,0.8,16.2301,78.2247,Village_891,Nagarkurnool,Telangana
+TG_NAG_014,Sita Nayak,APPROVED,2.6,16.0766,78.5799,Village_285,Nagarkurnool,Telangana
+TG_NAG_015,Reena Oraon,PENDING,0.8,16.4086,78.2827,Village_365,Nagarkurnool,Telangana
+TG_NAL_001,Sonali Santhal,PENDING,2.2,17.0431,79.3391,Village_204,Nalgonda,Telangana
+TG_NAL_002,Gita Sahariya,PENDING,2.6,16.764,79.3889,Village_707,Nalgonda,Telangana
+TG_NAL_003,Mallesh Munda,PENDING,0.7,16.9382,79.4621,Village_355,Nalgonda,Telangana
+TG_NAL_004,Sunitha Bai,APPROVED,1.4,16.6883,79.564,Village_855,Nalgonda,Telangana
+TG_NAL_005,Gopal Birhor,PENDING,2.0,16.4767,79.1881,Village_524,Nalgonda,Telangana
+TG_NAL_006,Ram Pradhan,APPROVED,0.9,16.9262,78.873,Village_662,Nalgonda,Telangana
+TG_NAL_007,Debu Koya,APPROVED,0.7,17.0524,79.5896,Village_526,Nalgonda,Telangana
+TG_NAL_008,Kishore Ho,PENDING,1.0,16.4886,79.0361,Village_193,Nalgonda,Telangana
+TG_NAL_009,Radha Naik,PENDING,2.2,17.3544,79.2641,Village_507,Nalgonda,Telangana
+TG_NAL_010,Linga Kharia,PENDING,1.0,16.7,79.13,Village_446,Nalgonda,Telangana
+TG_NAL_011,Pothuraju Naik,APPROVED,0.8,16.9275,78.8746,Village_477,Nalgonda,Telangana
+TG_NAL_012,Jiten Meena,APPROVED,2.6,16.5302,78.9798,Village_863,Nalgonda,Telangana
+TG_NAL_013,Devraj Gond,PENDING,1.8,16.6315,78.9248,Village_845,Nalgonda,Telangana
+TG_NIR_001,Chandan Gond,PENDING,2.9,19.116,78.5251,Village_330,Nirmal,Telangana
+TG_NIR_002,Sarla Gond,APPROVED,2.7,19.2962,77.898,Village_286,Nirmal,Telangana
+TG_NIR_003,Rakhi Koya,APPROVED,1.1,18.9817,78.1542,Village_724,Nirmal,Telangana
+TG_NIR_004,Pratap Gond,PENDING,2.5,19.1583,78.0925,Village_299,Nirmal,Telangana
+TG_NIR_005,Sarla Baiga,APPROVED,2.5,19.0902,78.1672,Village_605,Nirmal,Telangana
+TG_NIR_006,Subhash Birhor,APPROVED,1.2,18.9834,78.1094,Village_682,Nirmal,Telangana
+TG_NIR_007,Shyam Munda,APPROVED,2.8,18.8979,77.8868,Village_445,Nirmal,Telangana
+TG_NIR_008,Rakhi Ho,APPROVED,2.6,18.8904,77.967,Village_637,Nirmal,Telangana
+TG_NIR_009,Savitri Majhi,APPROVED,1.0,19.1858,78.2343,Village_985,Nirmal,Telangana
+TG_NIR_010,Sonali Santhal,PENDING,1.4,19.2233,78.1773,Village_832,Nirmal,Telangana
+TG_NIR_011,Sarita Birhor,APPROVED,0.9,19.1206,78.6562,Village_142,Nirmal,Telangana
+TG_NIR_012,Akash Debbarma,PENDING,3.0,19.3078,78.7045,Village_844,Nirmal,Telangana
+TG_NIR_013,Debu Lambada,APPROVED,0.8,19.0617,78.5191,Village_117,Nirmal,Telangana
+TG_NIR_014,Asha Lambada,PENDING,2.4,19.0874,78.2267,Village_379,Nirmal,Telangana
+TG_NIR_015,Bikash Kharia,PENDING,1.6,19.1489,78.8478,Village_364,Nirmal,Telangana
+TG_NIR_016,Gita Debbarma,APPROVED,2.8,19.0331,78.0154,Village_232,Nirmal,Telangana
+TG_NIR_017,Rathnam Ho,PENDING,1.3,19.0623,78.7644,Village_774,Nirmal,Telangana
+TG_NIR_018,Kishore Majhi,APPROVED,2.5,19.3055,77.9325,Village_657,Nirmal,Telangana
+TG_NIZ_001,Raghu Koya,APPROVED,0.6,18.6261,78.5579,Village_324,Nizamabad,Telangana
+TG_NIZ_002,Shyam Koya,APPROVED,1.5,18.6157,78.1407,Village_247,Nizamabad,Telangana
+TG_NIZ_003,Santi Lambada,APPROVED,2.2,18.9117,78.1586,Village_847,Nizamabad,Telangana
+TG_NIZ_004,Amar Singh,PENDING,1.6,18.5053,78.1611,Village_100,Nizamabad,Telangana
+TG_NIZ_005,Pothuraju Koya,PENDING,1.1,18.7668,78.1934,Village_988,Nizamabad,Telangana
+TG_NIZ_006,Harish Pradhan,APPROVED,2.3,18.5346,78.0803,Village_975,Nizamabad,Telangana
+TG_NIZ_007,Raghu Sahariya,PENDING,1.4,18.521,77.9239,Village_243,Nizamabad,Telangana
+TG_NIZ_008,Amar Birhor,APPROVED,1.7,18.9985,78.1839,Village_754,Nizamabad,Telangana
+TG_NIZ_009,Shanti Ekka,APPROVED,2.4,18.8121,77.9631,Village_370,Nizamabad,Telangana
+TG_NIZ_010,Lali Korku,PENDING,2.7,18.608,78.0939,Village_922,Nizamabad,Telangana
+TG_NIZ_011,Ramesh Bai,APPROVED,0.8,18.5318,77.7886,Village_119,Nizamabad,Telangana
+TG_NIZ_012,Dinesh Kharia,PENDING,3.0,18.7911,77.9074,Village_522,Nizamabad,Telangana
+TG_NIZ_013,Manisha Santhal,APPROVED,2.0,18.6191,78.2516,Village_191,Nizamabad,Telangana
+TG_NIZ_014,Kishore Munda,APPROVED,2.3,18.6078,78.2674,Village_342,Nizamabad,Telangana
+TG_NIZ_015,Sumita Bhil,APPROVED,1.3,18.8532,78.2225,Village_974,Nizamabad,Telangana
+TG_PED_001,Ram Nayak,PENDING,0.8,18.7348,79.2828,Village_707,Peddapalli,Telangana
+TG_PED_002,Roshan Kharia,APPROVED,1.7,18.7296,79.1917,Village_508,Peddapalli,Telangana
+TG_PED_003,Chotu Baiga,APPROVED,1.5,18.685,79.1374,Village_649,Peddapalli,Telangana
+TG_PED_004,Akash Meena,APPROVED,2.6,18.7169,79.5664,Village_885,Peddapalli,Telangana
+TG_PED_005,Reang Koya,APPROVED,2.4,18.6955,79.7743,Village_949,Peddapalli,Telangana
+TG_PED_006,Gita Ekka,PENDING,1.3,18.5052,79.2692,Village_797,Peddapalli,Telangana
+TG_PED_007,Anji Lambada,APPROVED,1.4,18.5755,79.3934,Village_497,Peddapalli,Telangana
+TG_PED_008,Gita Naik,PENDING,0.8,18.6692,79.4126,Village_904,Peddapalli,Telangana
+TG_PED_009,Rakhi Gond,APPROVED,2.1,18.65,79.5535,Village_997,Peddapalli,Telangana
+TG_PED_010,Lali Pradhan,PENDING,2.1,18.5949,79.2162,Village_121,Peddapalli,Telangana
+TG_PED_011,Durga Sahariya,APPROVED,1.7,18.4958,79.2396,Village_477,Peddapalli,Telangana
+TG_PED_012,Sumita Debbarma,APPROVED,2.6,18.5841,79.2357,Village_537,Peddapalli,Telangana
+TG_PED_013,Gouranga Korku,APPROVED,1.0,18.5144,79.4503,Village_148,Peddapalli,Telangana
+TG_PED_014,Anjali Majhi,PENDING,0.8,18.5486,79.5258,Village_434,Peddapalli,Telangana
+TG_PED_015,Ajay Bhil,PENDING,0.6,18.6227,79.5733,Village_183,Peddapalli,Telangana
+TG_PED_016,Anji Meena,PENDING,1.2,18.7044,79.523,Village_646,Peddapalli,Telangana
+TG_PED_017,Gopal Gond,PENDING,0.6,18.6568,79.4355,Village_531,Peddapalli,Telangana
+TG_PED_018,Radhika Lambada,PENDING,1.8,18.6708,79.4214,Village_440,Peddapalli,Telangana
+TG_PED_019,Anjali Korku,APPROVED,2.4,18.7641,79.5086,Village_851,Peddapalli,Telangana
+TG_PED_020,Gopal Bai,PENDING,1.4,18.6969,79.644,Village_163,Peddapalli,Telangana
+TG_RAJ_001,Subal Nayak,APPROVED,2.4,18.5508,78.6382,Village_276,Rajanna Sircilla,Telangana
+TG_RAJ_002,Sita Debbarma,APPROVED,0.9,18.2158,78.7247,Village_576,Rajanna Sircilla,Telangana
+TG_RAJ_003,Sanjay Ho,APPROVED,0.7,18.5928,78.6513,Village_789,Rajanna Sircilla,Telangana
+TG_RAJ_004,Subhash Singh,PENDING,1.8,18.4853,78.5719,Village_624,Rajanna Sircilla,Telangana
+TG_RAJ_005,Roshan Ekka,APPROVED,1.1,18.5639,78.8281,Village_308,Rajanna Sircilla,Telangana
+TG_RAJ_006,Rakesh Munda,APPROVED,2.5,18.3018,78.6842,Village_535,Rajanna Sircilla,Telangana
+TG_RAJ_007,Rathnam Gond,PENDING,2.0,18.2488,78.736,Village_540,Rajanna Sircilla,Telangana
+TG_RAJ_008,Ramkali Bai,APPROVED,1.7,18.45,78.6745,Village_234,Rajanna Sircilla,Telangana
+TG_RAJ_009,Rekha Bhil,APPROVED,1.2,18.3075,78.9426,Village_942,Rajanna Sircilla,Telangana
+TG_RAJ_010,Asha Munda,PENDING,0.9,18.4288,78.7121,Village_408,Rajanna Sircilla,Telangana
+TG_RAJ_011,Radha Nayak,APPROVED,2.8,18.3993,78.8308,Village_857,Rajanna Sircilla,Telangana
+TG_RAJ_012,Lakshmi Koya,PENDING,0.6,18.5747,78.6509,Village_618,Rajanna Sircilla,Telangana
+TG_RAJ_013,Ram Naik,APPROVED,2.9,18.5944,78.696,Village_521,Rajanna Sircilla,Telangana
+TG_RAJ_014,Laxman Debbarma,APPROVED,1.8,18.6247,78.7548,Village_991,Rajanna Sircilla,Telangana
+TG_RAJ_015,Shanti Bai,APPROVED,1.1,18.5329,78.8721,Village_502,Rajanna Sircilla,Telangana
+TG_RAJ_016,Reena Singh,PENDING,2.6,18.2562,78.662,Village_501,Rajanna Sircilla,Telangana
+TG_RAJ_017,Santosh Lambada,APPROVED,2.9,18.4326,78.8179,Village_752,Rajanna Sircilla,Telangana
+TG_RAJ_018,Asha Lambada,PENDING,2.8,18.4961,78.7033,Village_308,Rajanna Sircilla,Telangana
+TG_RAJ_019,Laxman Birhor,PENDING,2.9,18.3801,78.8052,Village_390,Rajanna Sircilla,Telangana
+TG_RAJ_020,Amar Korku,APPROVED,1.1,18.2682,78.6146,Village_500,Rajanna Sircilla,Telangana
+TG_RAN_001,Sonali Bai,PENDING,1.1,16.9269,78.5654,Village_218,Ranga Reddy,Telangana
+TG_RAN_002,Pinki Sahariya,APPROVED,2.7,17.0093,78.7165,Village_519,Ranga Reddy,Telangana
+TG_RAN_003,Subal Munda,PENDING,2.4,16.9399,78.6052,Village_205,Ranga Reddy,Telangana
+TG_RAN_004,Asha Korku,PENDING,1.4,17.2499,78.4384,Village_414,Ranga Reddy,Telangana
+TG_RAN_005,Bhagwan Naik,PENDING,2.1,17.222,78.3513,Village_646,Ranga Reddy,Telangana
+TG_RAN_006,Akash Gond,PENDING,2.5,17.3764,78.6819,Village_149,Ranga Reddy,Telangana
+TG_RAN_007,Sonali Gond,APPROVED,2.0,17.2308,78.1759,Village_870,Ranga Reddy,Telangana
+TG_RAN_008,Rinku Oraon,APPROVED,1.1,16.8692,78.4222,Village_566,Ranga Reddy,Telangana
+TG_RAN_009,Chandan Gond,APPROVED,0.7,17.3692,78.5995,Village_125,Ranga Reddy,Telangana
+TG_RAN_010,Sonali Koya,APPROVED,1.0,17.2068,78.2662,Village_675,Ranga Reddy,Telangana
+TG_RAN_011,Sunitha Sahariya,PENDING,2.0,17.3233,78.6619,Village_370,Ranga Reddy,Telangana
+TG_RAN_012,Meera Sahariya,PENDING,0.7,17.1353,78.2542,Village_278,Ranga Reddy,Telangana
+TG_RAN_013,Raghu Koya,APPROVED,1.8,17.3555,78.3406,Village_942,Ranga Reddy,Telangana
+TG_SAN_001,Arjun Birhor,PENDING,0.5,17.8838,77.5979,Village_151,Sangareddy,Telangana
+TG_SAN_002,Subal Sahariya,APPROVED,0.8,17.6861,77.6044,Village_210,Sangareddy,Telangana
+TG_SAN_003,Kalia Lambada,PENDING,1.8,18.0413,77.6806,Village_125,Sangareddy,Telangana
+TG_SAN_004,Harish Oraon,APPROVED,1.1,17.6266,78.3866,Village_523,Sangareddy,Telangana
+TG_SAN_005,Kishore Gond,APPROVED,2.5,17.8142,77.6146,Village_551,Sangareddy,Telangana
+TG_SAN_006,Gouranga Singh,PENDING,2.4,17.6653,78.1739,Village_157,Sangareddy,Telangana
+TG_SAN_007,Lopa Ho,APPROVED,0.6,17.4888,78.032,Village_313,Sangareddy,Telangana
+TG_SAN_008,Sarita Pradhan,APPROVED,1.0,17.8459,78.0591,Village_334,Sangareddy,Telangana
+TG_SAN_009,Chotu Munda,PENDING,1.0,17.8944,77.8283,Village_218,Sangareddy,Telangana
+TG_SAN_010,Kamalamma Oraon,PENDING,1.8,17.7983,77.7166,Village_504,Sangareddy,Telangana
+TG_SAN_011,Chandan Lambada,APPROVED,2.0,18.0508,77.8162,Village_160,Sangareddy,Telangana
+TG_SAN_012,Chotu Naik,PENDING,1.7,17.9913,77.7919,Village_503,Sangareddy,Telangana
+TG_SAN_013,Sarita Debbarma,PENDING,2.8,18.2716,77.6755,Village_527,Sangareddy,Telangana
+TG_SAN_014,Veera Pradhan,APPROVED,1.0,17.8005,78.0894,Village_375,Sangareddy,Telangana
+TG_SAN_015,Soni Oraon,APPROVED,2.2,17.6668,78.0633,Village_159,Sangareddy,Telangana
+TG_SAN_016,Biru Birhor,APPROVED,2.5,17.5507,78.1467,Village_138,Sangareddy,Telangana
+TG_SID_001,Anjali Nayak,APPROVED,2.0,17.9581,78.6537,Village_198,Siddipet,Telangana
+TG_SID_002,Kamini Naik,PENDING,1.4,18.2295,78.9758,Village_979,Siddipet,Telangana
+TG_SID_003,Rakhi Oraon,APPROVED,2.7,18.1509,79.047,Village_630,Siddipet,Telangana
+TG_SID_004,Asha Kondh,APPROVED,1.1,18.2308,78.6224,Village_935,Siddipet,Telangana
+TG_SID_005,Debu Ho,APPROVED,0.9,17.9456,79.1178,Village_980,Siddipet,Telangana
+TG_SID_006,Rupali Bai,APPROVED,1.8,18.1104,79.157,Village_160,Siddipet,Telangana
+TG_SID_007,Mallesh Santhal,PENDING,2.2,17.8624,78.5541,Village_565,Siddipet,Telangana
+TG_SID_008,Mohan Bai,PENDING,1.4,17.9896,78.9998,Village_894,Siddipet,Telangana
+TG_SID_009,Radhika Meena,APPROVED,2.5,18.0953,78.5775,Village_860,Siddipet,Telangana
+TG_SID_010,Gita Kondh,PENDING,2.7,17.7717,78.7369,Village_985,Siddipet,Telangana
+TG_SID_011,Shanti Nayak,APPROVED,2.0,17.9884,79.1177,Village_427,Siddipet,Telangana
+TG_SID_012,Lali Santhal,APPROVED,0.8,18.1576,79.2423,Village_976,Siddipet,Telangana
+TG_SID_013,Ramesh Ho,APPROVED,2.7,18.1245,79.0438,Village_440,Siddipet,Telangana
+TG_SID_014,Jayant Naik,PENDING,1.1,18.1506,79.0428,Village_869,Siddipet,Telangana
+TG_SUR_001,Subhash Naik,APPROVED,1.6,16.9299,80.042,Village_286,Suryapet,Telangana
+TG_SUR_002,Rathnam Oraon,APPROVED,1.5,17.2726,79.5104,Village_506,Suryapet,Telangana
+TG_SUR_003,Rekha Oraon,PENDING,2.4,17.0843,79.9644,Village_329,Suryapet,Telangana
+TG_SUR_004,Devraj Kondh,PENDING,0.8,17.3413,79.4719,Village_645,Suryapet,Telangana
+TG_SUR_005,Meera Koya,PENDING,2.3,17.377,79.5957,Village_699,Suryapet,Telangana
+TG_SUR_006,Veera Kharia,PENDING,2.7,17.233,79.5311,Village_393,Suryapet,Telangana
+TG_SUR_007,Sunitha Kharia,APPROVED,0.8,16.8257,80.0392,Village_462,Suryapet,Telangana
+TG_SUR_008,Ramkali Naik,PENDING,1.1,16.8527,79.9699,Village_846,Suryapet,Telangana
+TG_SUR_009,Babulal Meena,PENDING,2.4,16.9841,79.6422,Village_318,Suryapet,Telangana
+TG_SUR_010,Shyam Pradhan,APPROVED,2.0,17.2365,79.5716,Village_335,Suryapet,Telangana
+TG_VIK_001,Prakash Lambada,PENDING,1.5,17.1963,77.7122,Village_873,Vikarabad,Telangana
+TG_VIK_002,Rakhi Gond,APPROVED,2.1,17.4145,77.6571,Village_665,Vikarabad,Telangana
+TG_VIK_003,Mohan Munda,APPROVED,0.8,17.2953,77.8897,Village_677,Vikarabad,Telangana
+TG_VIK_004,Sabita Korku,PENDING,1.8,17.4138,77.5154,Village_535,Vikarabad,Telangana
+TG_VIK_005,Ajay Santhal,APPROVED,1.3,17.1261,77.8989,Village_845,Vikarabad,Telangana
+TG_VIK_006,Subal Ho,PENDING,2.2,17.006,77.6446,Village_332,Vikarabad,Telangana
+TG_VIK_007,Ram Naik,APPROVED,2.5,17.1982,77.7747,Village_789,Vikarabad,Telangana
+TG_VIK_008,Meera Lambada,APPROVED,2.0,17.0535,77.5144,Village_711,Vikarabad,Telangana
+TG_VIK_009,Krishna Gond,APPROVED,1.7,17.1207,77.7123,Village_906,Vikarabad,Telangana
+TG_VIK_010,Bhagwan Sahariya,APPROVED,1.4,17.1566,77.4135,Village_430,Vikarabad,Telangana
+TG_VIK_011,Pushpa Koya,PENDING,2.8,17.2114,77.6267,Village_780,Vikarabad,Telangana
+TG_WAN_001,Lopa Bai,APPROVED,2.5,16.323,78.0397,Village_723,Wanaparthy,Telangana
+TG_WAN_002,Akash Munda,APPROVED,2.1,16.3231,78.1605,Village_611,Wanaparthy,Telangana
+TG_WAN_003,Gita Bhil,APPROVED,2.2,16.3075,77.9295,Village_376,Wanaparthy,Telangana
+TG_WAN_004,Soni Debbarma,APPROVED,2.5,16.4014,78.2415,Village_510,Wanaparthy,Telangana
+TG_WAN_005,Kamini Bhil,APPROVED,1.7,16.3426,78.2829,Village_686,Wanaparthy,Telangana
+TG_WAN_006,Pinki Singh,APPROVED,1.2,16.3988,78.0546,Village_519,Wanaparthy,Telangana
+TG_WAN_007,Rakhi Nayak,APPROVED,2.4,16.3918,78.0223,Village_362,Wanaparthy,Telangana
+TG_WAN_008,Chandan Kondh,PENDING,1.3,16.204,78.0969,Village_832,Wanaparthy,Telangana
+TG_WAN_009,Meera Nayak,PENDING,2.9,16.4056,77.8634,Village_437,Wanaparthy,Telangana
+TG_WAN_010,Anitha Kondh,APPROVED,1.4,16.2882,78.0308,Village_611,Wanaparthy,Telangana
+TG_WAN_011,Jiten Ekka,PENDING,1.3,16.3523,78.0987,Village_252,Wanaparthy,Telangana
+TG_WAN_012,Sumita Kondh,PENDING,2.8,16.3708,77.8921,Village_334,Wanaparthy,Telangana
+TG_WAN_013,Ramkali Ekka,PENDING,0.5,16.0026,78.153,Village_981,Wanaparthy,Telangana
+TG_WAR_001,Raju Singh,PENDING,2.6,17.9891,79.9492,Village_862,Warangal Rural,Telangana
+TG_WAR_002,Bhagwan Ho,PENDING,0.8,18.0094,79.8154,Village_786,Warangal Rural,Telangana
+TG_WAR_003,Rekha Sahariya,APPROVED,2.2,17.7648,79.7653,Village_471,Warangal Rural,Telangana
+TG_WAR_004,Kishore Birhor,APPROVED,2.4,17.6498,79.6517,Village_781,Warangal Rural,Telangana
+TG_WAR_005,Sonali Bai,APPROVED,1.2,17.7048,79.6139,Village_718,Warangal Rural,Telangana
+TG_WAR_006,Anjali Bhil,APPROVED,2.1,17.9969,79.9073,Village_939,Warangal Rural,Telangana
+TG_WAR_007,Santosh Lambada,PENDING,1.3,17.6561,79.5512,Village_578,Warangal Rural,Telangana
+TG_WAR_008,Raju Singh,PENDING,2.5,18.1696,79.621,Village_132,Warangal Rural,Telangana
+TG_WAR_009,Linga Lambada,PENDING,0.6,18.045,79.7844,Village_637,Warangal Rural,Telangana
+TG_WAR_010,Sanjay Singh,PENDING,2.8,17.8264,79.625,Village_865,Warangal Rural,Telangana
+TG_WAR_011,Shanti Singh,PENDING,2.9,18.0881,79.6176,Village_102,Warangal Rural,Telangana
+TG_WAR_012,Sarla Debbarma,PENDING,2.1,17.7345,79.5358,Village_604,Warangal Rural,Telangana
+TG_WAR_001,Harish Korku,PENDING,1.8,18.0569,79.5589,Village_389,Warangal Urban,Telangana
+TG_WAR_002,Mallaiah Kondh,PENDING,1.5,18.0244,79.4079,Village_714,Warangal Urban,Telangana
+TG_WAR_003,Dinesh Lambada,APPROVED,1.9,18.0679,79.4231,Village_689,Warangal Urban,Telangana
+TG_WAR_004,Pothuraju Koya,APPROVED,2.2,17.951,79.3059,Village_527,Warangal Urban,Telangana
+TG_WAR_005,Pothuraju Oraon,APPROVED,1.9,18.1058,79.3104,Village_215,Warangal Urban,Telangana
+TG_WAR_006,Durga Kondh,PENDING,0.7,18.0306,79.4088,Village_461,Warangal Urban,Telangana
+TG_WAR_007,Manoj Bai,PENDING,2.7,18.1294,79.5927,Village_118,Warangal Urban,Telangana
+TG_WAR_008,Pushpa Nayak,PENDING,2.2,18.1763,79.5744,Village_222,Warangal Urban,Telangana
+TG_WAR_009,Bhagwan Korku,APPROVED,2.5,17.8341,79.5195,Village_856,Warangal Urban,Telangana
+TG_WAR_010,Rakesh Debbarma,PENDING,2.1,18.0834,79.5144,Village_453,Warangal Urban,Telangana
+TG_WAR_011,Lukra Pradhan,PENDING,1.4,17.8157,79.5806,Village_672,Warangal Urban,Telangana
+TG_WAR_012,Lopa Santhal,APPROVED,1.8,18.0219,79.5548,Village_709,Warangal Urban,Telangana
+TG_WAR_013,Narayan Debbarma,PENDING,3.0,17.9952,79.274,Village_738,Warangal Urban,Telangana
+TG_WAR_014,Pratap Korku,PENDING,1.9,17.8284,79.5211,Village_431,Warangal Urban,Telangana
+TG_WAR_015,Ramkali Bai,PENDING,0.6,18.0813,79.6029,Village_976,Warangal Urban,Telangana
+TG_WAR_016,Sarita Nayak,APPROVED,0.5,17.9902,79.4567,Village_315,Warangal Urban,Telangana
+TG_WAR_017,Rakesh Gond,PENDING,2.4,18.1363,79.3498,Village_951,Warangal Urban,Telangana
+TG_WAR_018,Sanjay Koya,APPROVED,1.0,17.9375,79.559,Village_412,Warangal Urban,Telangana
+TG_WAR_019,Roshan Koya,PENDING,1.1,18.1556,79.524,Village_129,Warangal Urban,Telangana
+TG_YAD_001,Lukra Sahariya,PENDING,1.3,17.2086,78.9575,Village_835,Yadadri Bhuvanagiri,Telangana
+TG_YAD_002,Rekha Debbarma,APPROVED,0.8,17.7888,78.9347,Village_866,Yadadri Bhuvanagiri,Telangana
+TG_YAD_003,Kiran Majhi,PENDING,0.9,17.418,79.329,Village_541,Yadadri Bhuvanagiri,Telangana
+TG_YAD_004,Mohan Baiga,APPROVED,1.5,17.1017,78.8276,Village_126,Yadadri Bhuvanagiri,Telangana
+TG_YAD_005,Shyam Korku,APPROVED,3.0,17.5694,78.8842,Village_615,Yadadri Bhuvanagiri,Telangana
+TG_YAD_006,Devi Kharia,PENDING,2.2,17.2868,78.9991,Village_696,Yadadri Bhuvanagiri,Telangana
+TG_YAD_007,Gita Baiga,APPROVED,2.6,17.2848,79.1156,Village_309,Yadadri Bhuvanagiri,Telangana
+TG_YAD_008,Sumita Debbarma,APPROVED,2.8,17.5297,79.0437,Village_159,Yadadri Bhuvanagiri,Telangana
+TG_YAD_009,Raju Kharia,APPROVED,1.7,17.3897,78.9131,Village_338,Yadadri Bhuvanagiri,Telangana
+TG_YAD_010,Laxman Nayak,PENDING,1.9,17.5315,78.8989,Village_156,Yadadri Bhuvanagiri,Telangana
+TG_YAD_011,Raju Kondh,PENDING,1.6,17.1282,78.9324,Village_600,Yadadri Bhuvanagiri,Telangana
+TG_BHA_001,Kiran Ekka,APPROVED,0.6,17.5099,80.6785,Village_868,Bhadradri Kothagudem,Telangana
+TG_BHA_002,Raju Oraon,PENDING,0.6,17.9677,80.4873,Village_284,Bhadradri Kothagudem,Telangana
+TG_BHA_003,Ramesh Debbarma,PENDING,1.1,17.9032,80.8377,Village_315,Bhadradri Kothagudem,Telangana
+TG_BHA_004,Manisha Meena,APPROVED,1.8,17.868,80.395,Village_150,Bhadradri Kothagudem,Telangana
+TG_BHA_005,Krishna Oraon,PENDING,1.7,18.018,80.6061,Village_361,Bhadradri Kothagudem,Telangana
+TG_BHA_006,Laxman Birhor,APPROVED,2.8,17.4731,80.7059,Village_439,Bhadradri Kothagudem,Telangana
+TG_BHA_007,Mallaiah Pradhan,APPROVED,1.4,17.5973,80.4244,Village_132,Bhadradri Kothagudem,Telangana
+TG_BHA_008,Debu Baiga,PENDING,1.9,17.6871,80.7088,Village_103,Bhadradri Kothagudem,Telangana
+TG_BHA_009,Gita Gond,APPROVED,2.9,17.8082,80.9581,Village_874,Bhadradri Kothagudem,Telangana
+TG_BHA_010,Devanna Ekka,PENDING,1.1,17.7399,80.8427,Village_169,Bhadradri Kothagudem,Telangana
+TG_BHA_011,Asha Nayak,PENDING,1.1,17.5418,80.7748,Village_346,Bhadradri Kothagudem,Telangana
+TG_BHA_012,Mallaiah Birhor,PENDING,2.0,17.668,80.4965,Village_800,Bhadradri Kothagudem,Telangana
+TG_BHA_013,Meera Koya,APPROVED,2.2,17.9513,80.5241,Village_912,Bhadradri Kothagudem,Telangana
+TG_BHA_014,Kalia Munda,APPROVED,2.1,18.1344,80.9326,Village_334,Bhadradri Kothagudem,Telangana
+TG_JAY_001,Narayan Singh,APPROVED,2.0,18.4375,80.0538,Village_433,Jayashankar,Telangana
+TG_JAY_002,Subhash Majhi,PENDING,2.5,18.2455,79.7761,Village_670,Jayashankar,Telangana
+TG_JAY_003,Gita Naik,APPROVED,2.3,18.3631,79.6909,Village_758,Jayashankar,Telangana
+TG_JAY_004,Pinki Kharia,APPROVED,2.3,18.7376,79.9615,Village_278,Jayashankar,Telangana
+TG_JAY_005,Sarita Santhal,APPROVED,1.3,18.1813,79.8163,Village_331,Jayashankar,Telangana
+TG_JAY_006,Soma Kondh,PENDING,1.5,18.4146,79.6274,Village_672,Jayashankar,Telangana
+TG_JAY_007,Sonali Singh,PENDING,2.7,18.6224,80.0977,Village_700,Jayashankar,Telangana
+TG_JAY_008,Nita Nayak,PENDING,0.9,18.4199,80.1896,Village_634,Jayashankar,Telangana
+TG_JAY_009,Sumita Korku,PENDING,2.5,18.5761,79.9331,Village_483,Jayashankar,Telangana
+TG_JAY_010,Gita Ho,APPROVED,1.1,18.6097,80.2508,Village_403,Jayashankar,Telangana
+TG_JAY_011,Raghu Gond,APPROVED,1.4,18.2006,79.8132,Village_785,Jayashankar,Telangana
+TG_JAY_012,Chotu Meena,PENDING,1.1,18.6859,80.0438,Village_369,Jayashankar,Telangana
+TG_JAY_013,Debu Lambada,PENDING,2.0,18.2294,79.7273,Village_329,Jayashankar,Telangana
+TG_JAY_014,Raghu Ekka,PENDING,1.6,18.4957,80.2232,Village_468,Jayashankar,Telangana
+TG_JAY_015,Gita Oraon,APPROVED,2.1,18.4924,80.1596,Village_666,Jayashankar,Telangana
+TG_JAY_016,Lali Bhil,PENDING,2.7,18.3565,79.6351,Village_571,Jayashankar,Telangana
+TG_JAY_017,Subal Sahariya,PENDING,0.9,18.5284,80.0002,Village_202,Jayashankar,Telangana
+TG_JAY_018,Soni Meena,APPROVED,0.8,18.2882,79.6509,Village_202,Jayashankar,Telangana
+TG_NAR_001,Sarita Nayak,APPROVED,1.6,16.747,77.58,Village_702,Narayanpet,Telangana
+TG_NAR_002,Santi Koya,APPROVED,1.9,16.6557,77.7279,Village_457,Narayanpet,Telangana
+TG_NAR_003,Pratap Bhil,PENDING,0.8,16.6981,77.7456,Village_156,Narayanpet,Telangana
+TG_NAR_004,Pushpa Bai,PENDING,2.5,16.6765,77.601,Village_998,Narayanpet,Telangana
+TG_NAR_005,Ramkali Munda,APPROVED,2.2,17.0356,77.7193,Village_517,Narayanpet,Telangana
+TG_NAR_006,Jayant Sahariya,APPROVED,2.3,16.38,77.5218,Village_776,Narayanpet,Telangana
+TG_NAR_007,Manoj Singh,APPROVED,2.9,16.6616,77.698,Village_469,Narayanpet,Telangana
+TG_NAR_008,Babulal Debbarma,PENDING,1.1,16.6071,77.6227,Village_434,Narayanpet,Telangana
+TG_NAR_009,Anitha Santhal,APPROVED,0.9,16.7665,77.6446,Village_268,Narayanpet,Telangana
+TG_NAR_010,Harish Pradhan,PENDING,1.3,16.8843,77.6642,Village_408,Narayanpet,Telangana
+TG_NAR_011,Arjun Kharia,APPROVED,2.2,16.47,77.6599,Village_174,Narayanpet,Telangana
+TG_NAR_012,Subhash Kondh,PENDING,1.0,16.6722,77.4766,Village_468,Narayanpet,Telangana
+TG_NAR_013,Ajay Bai,APPROVED,2.2,16.767,77.6114,Village_199,Narayanpet,Telangana
+TG_NAR_014,Rakesh Singh,PENDING,2.8,16.8441,77.6804,Village_404,Narayanpet,Telangana
+TG_NAR_015,Chotu Nayak,APPROVED,1.9,16.4422,77.6484,Village_315,Narayanpet,Telangana
+TG_NAR_016,Gopal Birhor,APPROVED,2.8,16.5432,77.4973,Village_584,Narayanpet,Telangana
+MP_BUR_001,Ajay Lambada,APPROVED,1.0,21.4748,76.3939,Village_692,Burhanpur,Madhya Pradesh
+MP_BUR_002,Raju Majhi,APPROVED,1.6,21.3392,76.2734,Village_359,Burhanpur,Madhya Pradesh
+MP_BUR_003,Radha Ho,APPROVED,2.3,21.357,76.1812,Village_476,Burhanpur,Madhya Pradesh
+MP_BUR_004,Subhash Lambada,PENDING,2.5,21.1422,76.3528,Village_367,Burhanpur,Madhya Pradesh
+MP_BUR_005,Meena Sahariya,APPROVED,3.0,21.119,76.2306,Village_984,Burhanpur,Madhya Pradesh
+MP_BUR_006,Sarla Oraon,APPROVED,3.0,21.5467,76.0834,Village_219,Burhanpur,Madhya Pradesh
+MP_BUR_007,Rakhi Korku,PENDING,1.0,21.4642,76.4315,Village_440,Burhanpur,Madhya Pradesh
+MP_BUR_008,Anitha Bai,APPROVED,0.8,21.4542,76.5992,Village_353,Burhanpur,Madhya Pradesh
+MP_BUR_009,Rathnam Bai,PENDING,2.9,21.1629,76.2666,Village_905,Burhanpur,Madhya Pradesh
+MP_BUR_010,Laxman Munda,APPROVED,0.5,21.1641,76.2362,Village_788,Burhanpur,Madhya Pradesh
+MP_BUR_011,Arjun Koya,APPROVED,2.3,21.2341,76.4562,Village_515,Burhanpur,Madhya Pradesh
+MP_BUR_012,Rinku Pradhan,PENDING,1.8,21.3037,76.157,Village_254,Burhanpur,Madhya Pradesh
+MP_MOR_001,Pratap Majhi,APPROVED,2.2,26.0673,77.749,Village_827,Morena,Madhya Pradesh
+MP_MOR_002,Nita Majhi,APPROVED,2.0,26.4593,77.6792,Village_763,Morena,Madhya Pradesh
+MP_MOR_003,Pratap Bai,PENDING,0.9,26.5776,77.8966,Village_788,Morena,Madhya Pradesh
+MP_MOR_004,Raja Koya,PENDING,1.7,26.6674,78.265,Village_948,Morena,Madhya Pradesh
+MP_MOR_005,Manoj Ekka,PENDING,1.7,26.3712,78.0515,Village_481,Morena,Madhya Pradesh
+MP_MOR_006,Rakhi Ho,PENDING,2.9,26.5523,77.9391,Village_445,Morena,Madhya Pradesh
+MP_MOR_007,Ram Kharia,APPROVED,1.1,26.3626,77.5284,Village_806,Morena,Madhya Pradesh
+MP_MOR_008,Roshan Oraon,APPROVED,0.6,26.6817,78.1246,Village_806,Morena,Madhya Pradesh
+MP_MOR_009,Bhagwan Sahariya,PENDING,1.3,26.2365,77.3528,Village_724,Morena,Madhya Pradesh
+MP_MOR_010,Manoj Meena,APPROVED,0.6,26.2849,77.9849,Village_357,Morena,Madhya Pradesh
+MP_MOR_011,Radha Sahariya,PENDING,0.8,26.4052,77.5025,Village_603,Morena,Madhya Pradesh
+MP_MOR_012,Babulal Ho,APPROVED,1.4,26.4157,78.1004,Village_358,Morena,Madhya Pradesh
+MP_MOR_013,Narayan Oraon,APPROVED,2.7,26.3431,77.4462,Village_590,Morena,Madhya Pradesh
+MP_MOR_014,Babulal Bai,APPROVED,2.1,26.3905,77.63,Village_918,Morena,Madhya Pradesh
+MP_MOR_015,Saroja Majhi,APPROVED,1.0,26.1818,77.2669,Village_829,Morena,Madhya Pradesh
+MP_MOR_016,Santosh Naik,APPROVED,2.8,26.4271,77.7258,Village_373,Morena,Madhya Pradesh
+MP_MOR_017,Devraj Baiga,PENDING,1.9,26.6771,78.2064,Village_986,Morena,Madhya Pradesh
+MP_MOR_018,Bhagwan Kharia,PENDING,2.1,26.5545,77.8396,Village_152,Morena,Madhya Pradesh
+MP_BHI_001,Rupali Debbarma,APPROVED,2.4,26.5604,78.7983,Village_309,Bhind,Madhya Pradesh
+MP_BHI_002,Subal Naik,APPROVED,2.4,26.4347,78.3055,Village_886,Bhind,Madhya Pradesh
+MP_BHI_003,Chandan Bai,APPROVED,2.1,26.6393,78.833,Village_876,Bhind,Madhya Pradesh
+MP_BHI_004,Pinki Sahariya,APPROVED,1.3,26.3558,78.4642,Village_786,Bhind,Madhya Pradesh
+MP_BHI_005,Reang Singh,APPROVED,3.0,26.6455,78.8198,Village_791,Bhind,Madhya Pradesh
+MP_BHI_006,Radhika Naik,PENDING,1.3,26.542,78.5649,Village_897,Bhind,Madhya Pradesh
+MP_BHI_007,Guddu Ho,PENDING,2.7,26.6535,78.6365,Village_867,Bhind,Madhya Pradesh
+MP_BHI_008,Rupali Birhor,PENDING,1.1,26.5433,78.5352,Village_461,Bhind,Madhya Pradesh
+MP_BHI_009,Rita Birhor,PENDING,1.9,26.0569,78.8412,Village_150,Bhind,Madhya Pradesh
+MP_BHI_010,Rathnam Meena,APPROVED,2.2,26.6069,78.6818,Village_240,Bhind,Madhya Pradesh
+MP_BHI_011,Devraj Naik,APPROVED,2.5,26.6848,78.6003,Village_870,Bhind,Madhya Pradesh
+MP_BHI_012,Durga Ekka,APPROVED,0.6,26.5512,78.7513,Village_578,Bhind,Madhya Pradesh
+MP_BHI_013,Raja Kharia,APPROVED,1.8,26.3366,78.6488,Village_244,Bhind,Madhya Pradesh
+MP_GWA_001,Devi Nayak,PENDING,0.6,26.3074,78.1982,Village_759,Gwalior,Madhya Pradesh
+MP_GWA_002,Ramesh Baiga,PENDING,1.7,26.1815,77.7721,Village_206,Gwalior,Madhya Pradesh
+MP_GWA_003,Kishore Singh,APPROVED,2.1,26.0961,78.6101,Village_991,Gwalior,Madhya Pradesh
+MP_GWA_004,Debu Debbarma,PENDING,1.2,26.2485,77.9429,Village_187,Gwalior,Madhya Pradesh
+MP_GWA_005,Reang Ekka,PENDING,1.6,26.0033,78.3267,Village_310,Gwalior,Madhya Pradesh
+MP_GWA_006,Harish Pradhan,PENDING,1.4,26.0649,78.3279,Village_291,Gwalior,Madhya Pradesh
+MP_GWA_007,Pratap Birhor,PENDING,1.0,25.8813,78.4155,Village_665,Gwalior,Madhya Pradesh
+MP_GWA_008,Krishna Lambada,PENDING,2.4,26.2978,78.2362,Village_653,Gwalior,Madhya Pradesh
+MP_GWA_009,Devraj Munda,APPROVED,1.4,25.9716,78.2529,Village_721,Gwalior,Madhya Pradesh
+MP_GWA_010,Kamalamma Munda,PENDING,0.7,25.9256,78.2849,Village_123,Gwalior,Madhya Pradesh
+MP_GWA_011,Kalia Munda,APPROVED,0.6,25.7677,78.1004,Village_980,Gwalior,Madhya Pradesh
+MP_GWA_012,Meera Bhil,PENDING,2.8,25.7831,78.2367,Village_154,Gwalior,Madhya Pradesh
+MP_GWA_013,Harish Naik,APPROVED,1.2,25.8954,77.7844,Village_229,Gwalior,Madhya Pradesh
+MP_SHE_001,Meera Oraon,PENDING,0.9,25.374,76.8671,Village_896,Sheopur,Madhya Pradesh
+MP_SHE_002,Saroja Oraon,APPROVED,2.9,25.6315,77.2038,Village_975,Sheopur,Madhya Pradesh
+MP_SHE_003,Bikash Munda,PENDING,1.8,26.0044,76.8747,Village_587,Sheopur,Madhya Pradesh
+MP_SHE_004,Reena Nayak,APPROVED,1.3,25.6446,76.5541,Village_703,Sheopur,Madhya Pradesh
+MP_SHE_005,Roshan Bhil,APPROVED,2.1,25.3268,76.9481,Village_545,Sheopur,Madhya Pradesh
+MP_SHE_006,Sita Nayak,APPROVED,1.5,25.9479,77.0836,Village_440,Sheopur,Madhya Pradesh
+MP_SHE_007,Mallesh Bhil,PENDING,2.7,25.6427,76.7466,Village_505,Sheopur,Madhya Pradesh
+MP_SHE_008,Durga Birhor,APPROVED,0.9,25.8029,77.1512,Village_489,Sheopur,Madhya Pradesh
+MP_SHE_009,Durga Bai,PENDING,1.8,25.9303,77.4527,Village_701,Sheopur,Madhya Pradesh
+MP_SHE_010,Gouranga Kharia,PENDING,2.3,25.8931,76.888,Village_935,Sheopur,Madhya Pradesh
+MP_SHE_011,Subal Baiga,PENDING,0.7,25.518,76.95,Village_892,Sheopur,Madhya Pradesh
+MP_SHE_012,Meera Lambada,PENDING,0.6,25.5321,77.0247,Village_756,Sheopur,Madhya Pradesh
+MP_SHE_013,Pushpa Ekka,APPROVED,2.6,25.8345,77.3339,Village_896,Sheopur,Madhya Pradesh
+MP_SHE_014,Sarita Baiga,PENDING,1.5,25.7641,77.243,Village_761,Sheopur,Madhya Pradesh
+MP_SHE_015,Narayan Kondh,APPROVED,1.4,25.8202,76.6359,Village_733,Sheopur,Madhya Pradesh
+MP_SHE_016,Ram Koya,APPROVED,1.6,25.5072,76.6764,Village_589,Sheopur,Madhya Pradesh
+MP_SHI_001,Asha Ho,PENDING,1.7,25.5325,78.3043,Village_604,Shivpuri,Madhya Pradesh
+MP_SHI_002,Saroja Naik,APPROVED,0.8,25.67,77.8835,Village_325,Shivpuri,Madhya Pradesh
+MP_SHI_003,Radha Bai,APPROVED,1.2,25.6135,77.9128,Village_284,Shivpuri,Madhya Pradesh
+MP_SHI_004,Lukra Ho,PENDING,1.0,25.5765,78.084,Village_475,Shivpuri,Madhya Pradesh
+MP_SHI_005,Devraj Korku,PENDING,2.1,25.4494,78.3007,Village_130,Shivpuri,Madhya Pradesh
+MP_SHI_006,Raju Bhil,PENDING,2.3,25.5972,78.2312,Village_941,Shivpuri,Madhya Pradesh
+MP_SHI_007,Sunitha Bai,PENDING,2.5,25.4985,77.5259,Village_709,Shivpuri,Madhya Pradesh
+MP_SHI_008,Pratap Ho,PENDING,1.2,25.6443,78.1812,Village_186,Shivpuri,Madhya Pradesh
+MP_SHI_009,Savitri Pradhan,APPROVED,0.8,25.0153,78.0663,Village_459,Shivpuri,Madhya Pradesh
+MP_SHI_010,Sanjay Majhi,APPROVED,2.9,25.3832,77.3835,Village_709,Shivpuri,Madhya Pradesh
+MP_SHI_011,Raju Birhor,APPROVED,1.9,25.5589,77.8657,Village_347,Shivpuri,Madhya Pradesh
+MP_SHI_012,Harish Meena,PENDING,2.1,25.1671,77.7156,Village_760,Shivpuri,Madhya Pradesh
+MP_SHI_013,Pothuraju Debbarma,PENDING,1.1,24.8762,77.7248,Village_164,Shivpuri,Madhya Pradesh
+MP_TIK_001,Lakshmi Nayak,PENDING,3.0,24.9798,79.112,Village_269,Tikamgarh,Madhya Pradesh
+MP_TIK_002,Raghu Pradhan,PENDING,2.2,24.5874,78.9421,Village_925,Tikamgarh,Madhya Pradesh
+MP_TIK_003,Soni Debbarma,PENDING,0.6,25.0312,79.2951,Village_575,Tikamgarh,Madhya Pradesh
+MP_TIK_004,Debu Ho,APPROVED,0.7,24.5807,78.9264,Village_747,Tikamgarh,Madhya Pradesh
+MP_TIK_005,Gopal Singh,PENDING,1.4,24.9669,78.7808,Village_887,Tikamgarh,Madhya Pradesh
+MP_TIK_006,Veera Pradhan,PENDING,2.4,24.7245,79.0055,Village_259,Tikamgarh,Madhya Pradesh
+MP_TIK_007,Mohan Ekka,PENDING,2.2,24.7166,79.13,Village_483,Tikamgarh,Madhya Pradesh
+MP_TIK_008,Devi Meena,PENDING,2.8,25.173,78.981,Village_490,Tikamgarh,Madhya Pradesh
+MP_TIK_009,Akash Lambada,PENDING,0.9,24.998,79.2093,Village_432,Tikamgarh,Madhya Pradesh
+MP_TIK_010,Gita Sahariya,APPROVED,1.8,25.2494,79.0159,Village_203,Tikamgarh,Madhya Pradesh
+MP_TIK_011,Reang Birhor,APPROVED,1.3,25.1195,79.3064,Village_298,Tikamgarh,Madhya Pradesh
+MP_TIK_012,Mohan Kondh,APPROVED,1.5,24.8383,79.1085,Village_626,Tikamgarh,Madhya Pradesh
+MP_TIK_013,Soni Meena,PENDING,1.4,24.7334,78.8885,Village_360,Tikamgarh,Madhya Pradesh
+MP_TIK_014,Rakhi Meena,PENDING,1.9,24.6365,78.7657,Village_750,Tikamgarh,Madhya Pradesh
+MP_TIK_015,Sunil Bhil,APPROVED,0.8,25.1088,79.1216,Village_191,Tikamgarh,Madhya Pradesh
+MP_TIK_016,Rathnam Gond,PENDING,1.5,24.9074,79.3084,Village_779,Tikamgarh,Madhya Pradesh
+MP_TIK_017,Raju Birhor,APPROVED,1.1,24.7732,79.2413,Village_670,Tikamgarh,Madhya Pradesh
+MP_TIK_018,Sarita Lambada,APPROVED,1.0,25.061,79.1394,Village_320,Tikamgarh,Madhya Pradesh
+MP_TIK_019,Sabita Oraon,PENDING,2.1,24.8182,78.8393,Village_373,Tikamgarh,Madhya Pradesh
+MP_NEE_001,Radhika Lambada,PENDING,1.7,24.596,75.3672,Village_333,Neemuch,Madhya Pradesh
+MP_NEE_002,Sanjay Gond,PENDING,1.6,24.544,74.7542,Village_745,Neemuch,Madhya Pradesh
+MP_NEE_003,Shyam Gond,APPROVED,1.6,24.8857,75.1219,Village_737,Neemuch,Madhya Pradesh
+MP_NEE_004,Devi Santhal,PENDING,2.2,24.66,75.0351,Village_427,Neemuch,Madhya Pradesh
+MP_NEE_005,Ram Oraon,APPROVED,1.2,24.3534,75.0023,Village_688,Neemuch,Madhya Pradesh
+MP_NEE_006,Soma Bhil,PENDING,1.8,24.732,75.0873,Village_148,Neemuch,Madhya Pradesh
+MP_NEE_007,Debu Naik,PENDING,1.5,24.6825,75.1572,Village_184,Neemuch,Madhya Pradesh
+MP_NEE_008,Meera Munda,PENDING,1.9,24.3263,74.9727,Village_697,Neemuch,Madhya Pradesh
+MP_NEE_009,Rekha Lambada,APPROVED,1.1,24.4717,74.8029,Village_834,Neemuch,Madhya Pradesh
+MP_NEE_010,Chotu Lambada,APPROVED,2.9,24.61,74.862,Village_940,Neemuch,Madhya Pradesh
+MP_NEE_011,Subhash Bhil,PENDING,2.8,24.7905,75.0227,Village_625,Neemuch,Madhya Pradesh
+MP_NEE_012,Babulal Birhor,APPROVED,0.8,24.4506,75.4276,Village_764,Neemuch,Madhya Pradesh
+MP_NEE_013,Rekha Gond,PENDING,2.2,24.7708,75.1732,Village_209,Neemuch,Madhya Pradesh
+MP_NEE_014,Akash Bhil,PENDING,1.3,24.3163,75.2067,Village_165,Neemuch,Madhya Pradesh
+MP_NEE_015,Lopa Nayak,APPROVED,2.3,24.5345,75.1219,Village_723,Neemuch,Madhya Pradesh
+MP_NEE_016,Laxman Bai,PENDING,1.2,24.4374,75.3478,Village_675,Neemuch,Madhya Pradesh
+MP_NEE_017,Ram Singh,APPROVED,2.7,24.7085,74.9991,Village_415,Neemuch,Madhya Pradesh
+MP_NEE_018,Rinku Sahariya,APPROVED,2.0,24.5937,74.8708,Village_491,Neemuch,Madhya Pradesh
+MP_REW_001,Prakash Oraon,PENDING,2.9,24.6602,81.1735,Village_426,Rewa,Madhya Pradesh
+MP_REW_002,Raja Ekka,APPROVED,1.9,24.6736,81.8363,Village_614,Rewa,Madhya Pradesh
+MP_REW_003,Gita Bhil,APPROVED,1.6,24.6249,81.2444,Village_672,Rewa,Madhya Pradesh
+MP_REW_004,Gouranga Koya,PENDING,2.8,24.8687,81.717,Village_570,Rewa,Madhya Pradesh
+MP_REW_005,Chandan Bai,PENDING,0.5,24.3638,81.3662,Village_562,Rewa,Madhya Pradesh
+MP_REW_006,Sunil Baiga,PENDING,2.8,25.0625,81.6009,Village_711,Rewa,Madhya Pradesh
+MP_REW_007,Raju Birhor,APPROVED,0.9,24.9869,81.3384,Village_550,Rewa,Madhya Pradesh
+MP_REW_008,Mallesh Koya,PENDING,1.4,24.6683,82.047,Village_921,Rewa,Madhya Pradesh
+MP_REW_009,Devi Baiga,PENDING,0.9,24.4223,81.454,Village_534,Rewa,Madhya Pradesh
+MP_REW_010,Sunitha Ho,APPROVED,0.8,24.8441,81.777,Village_755,Rewa,Madhya Pradesh
+MP_SAT_001,Radha Santhal,PENDING,1.1,24.3554,81.0627,Village_329,Satna,Madhya Pradesh
+MP_SAT_002,Kiran Gond,APPROVED,2.7,24.7702,81.0829,Village_197,Satna,Madhya Pradesh
+MP_SAT_003,Radhika Bai,PENDING,1.0,24.3008,80.9234,Village_702,Satna,Madhya Pradesh
+MP_SAT_004,Sunitha Singh,PENDING,0.7,24.1264,81.0504,Village_447,Satna,Madhya Pradesh
+MP_SAT_005,Mallaiah Baiga,PENDING,1.5,25.0541,80.7196,Village_429,Satna,Madhya Pradesh
+MP_SAT_006,Babulal Bai,PENDING,2.2,24.7756,80.856,Village_523,Satna,Madhya Pradesh
+MP_SAT_007,Sarla Kondh,PENDING,1.4,24.3342,81.1466,Village_920,Satna,Madhya Pradesh
+MP_SAT_008,Lukra Baiga,PENDING,1.2,24.4899,80.7939,Village_343,Satna,Madhya Pradesh
+MP_SAT_009,Lukra Naik,APPROVED,2.3,24.7831,80.7857,Village_879,Satna,Madhya Pradesh
+MP_SAT_010,Devraj Baiga,PENDING,1.8,24.7742,80.6632,Village_820,Satna,Madhya Pradesh
+MP_SAT_011,Santosh Ekka,PENDING,2.1,24.5539,80.9615,Village_911,Satna,Madhya Pradesh
+MP_SAT_012,Chotu Meena,PENDING,1.3,24.5872,81.1551,Village_848,Satna,Madhya Pradesh
+MP_SAT_013,Devi Birhor,PENDING,1.3,24.9551,80.5543,Village_619,Satna,Madhya Pradesh
+MP_SAT_014,Kamli Birhor,APPROVED,1.4,24.4574,80.5976,Village_997,Satna,Madhya Pradesh
+MP_SAT_015,Sonali Ekka,APPROVED,2.1,24.3314,80.7325,Village_220,Satna,Madhya Pradesh
+MP_SAT_016,Pratap Debbarma,APPROVED,1.8,24.0344,80.7752,Village_582,Satna,Madhya Pradesh
+MP_SAT_017,Manisha Oraon,APPROVED,2.2,24.7275,81.0969,Village_321,Satna,Madhya Pradesh
+MP_GUN_001,Sanjay Pradhan,APPROVED,2.7,24.7596,77.3832,Village_716,Guna,Madhya Pradesh
+MP_GUN_002,Manoj Koya,PENDING,2.1,24.9126,77.031,Village_211,Guna,Madhya Pradesh
+MP_GUN_003,Ramkali Birhor,PENDING,1.5,24.7664,77.2847,Village_396,Guna,Madhya Pradesh
+MP_GUN_004,Bhagwan Singh,PENDING,0.6,24.4655,77.0962,Village_497,Guna,Madhya Pradesh
+MP_GUN_005,Raghu Pradhan,APPROVED,2.5,24.2866,77.1735,Village_636,Guna,Madhya Pradesh
+MP_GUN_006,Rita Oraon,APPROVED,2.3,25.037,77.2628,Village_310,Guna,Madhya Pradesh
+MP_GUN_007,Gita Santhal,APPROVED,2.9,24.2863,76.944,Village_709,Guna,Madhya Pradesh
+MP_GUN_008,Santosh Kondh,PENDING,1.8,23.9081,77.2267,Village_261,Guna,Madhya Pradesh
+MP_GUN_009,Radha Majhi,APPROVED,1.2,24.7031,77.4354,Village_408,Guna,Madhya Pradesh
+MP_GUN_010,Dinesh Oraon,PENDING,3.0,24.7972,77.2888,Village_898,Guna,Madhya Pradesh
+MP_GUN_011,Santosh Korku,PENDING,2.9,24.9512,77.139,Village_757,Guna,Madhya Pradesh
+MP_GUN_012,Akash Debbarma,PENDING,1.8,24.7006,77.452,Village_519,Guna,Madhya Pradesh
+MP_GUN_013,Biru Korku,PENDING,1.4,24.8288,77.2176,Village_260,Guna,Madhya Pradesh
+MP_GUN_014,Kiran Gond,APPROVED,0.5,24.8029,77.0306,Village_298,Guna,Madhya Pradesh
+MP_GUN_015,Soma Ho,PENDING,2.8,24.6562,77.3045,Village_889,Guna,Madhya Pradesh
+MP_GUN_016,Biru Birhor,APPROVED,0.6,24.7349,76.9028,Village_526,Guna,Madhya Pradesh
+MP_GUN_017,Sanjay Korku,PENDING,1.2,24.6423,77.1716,Village_105,Guna,Madhya Pradesh
+MP_GUN_018,Jiten Gond,APPROVED,1.0,24.0929,76.9837,Village_941,Guna,Madhya Pradesh
+MP_GUN_019,Nita Korku,PENDING,2.2,24.5024,77.2483,Village_480,Guna,Madhya Pradesh
+MP_ASH_001,Sita Birhor,PENDING,0.9,24.6617,77.533,Village_381,Ashoknagar,Madhya Pradesh
+MP_ASH_002,Subhash Ho,APPROVED,2.1,24.3284,77.9364,Village_791,Ashoknagar,Madhya Pradesh
+MP_ASH_003,Rupali Korku,PENDING,0.6,24.7387,78.187,Village_596,Ashoknagar,Madhya Pradesh
+MP_ASH_004,Kamalamma Baiga,PENDING,2.5,24.943,77.8831,Village_596,Ashoknagar,Madhya Pradesh
+MP_ASH_005,Pratap Munda,PENDING,1.0,24.901,77.9445,Village_379,Ashoknagar,Madhya Pradesh
+MP_ASH_006,Rathnam Birhor,PENDING,1.5,24.514,78.1576,Village_743,Ashoknagar,Madhya Pradesh
+MP_ASH_007,Chotu Gond,PENDING,1.8,24.8096,77.8293,Village_882,Ashoknagar,Madhya Pradesh
+MP_ASH_008,Gopal Debbarma,PENDING,2.2,24.5211,78.0015,Village_251,Ashoknagar,Madhya Pradesh
+MP_ASH_009,Kishore Majhi,PENDING,1.7,24.3794,77.7124,Village_843,Ashoknagar,Madhya Pradesh
+MP_ASH_010,Jiten Bai,PENDING,0.8,24.7616,78.1128,Village_378,Ashoknagar,Madhya Pradesh
+MP_ASH_011,Sarita Sahariya,PENDING,1.7,24.5092,77.7544,Village_360,Ashoknagar,Madhya Pradesh
+MP_ASH_012,Meera Majhi,PENDING,0.7,24.5535,78.0398,Village_186,Ashoknagar,Madhya Pradesh
+MP_ASH_013,Devanna Ho,APPROVED,0.7,24.8702,77.8476,Village_483,Ashoknagar,Madhya Pradesh
+MP_ASH_014,Ajay Kharia,PENDING,1.4,24.4575,78.2401,Village_120,Ashoknagar,Madhya Pradesh
+MP_ASH_015,Reena Bhil,APPROVED,2.0,24.5684,77.5526,Village_129,Ashoknagar,Madhya Pradesh
+MP_ASH_016,Debu Majhi,PENDING,2.9,24.6377,77.72,Village_698,Ashoknagar,Madhya Pradesh
+MP_ASH_017,Kiran Baiga,APPROVED,2.4,24.5369,77.7929,Village_841,Ashoknagar,Madhya Pradesh
+MP_MAN_001,Amar Kondh,APPROVED,2.6,24.3099,75.1401,Village_232,Mandsaur,Madhya Pradesh
+MP_MAN_002,Ramesh Bhil,APPROVED,0.8,24.5793,75.6205,Village_486,Mandsaur,Madhya Pradesh
+MP_MAN_003,Meena Kharia,PENDING,2.6,24.5408,75.8746,Village_724,Mandsaur,Madhya Pradesh
+MP_MAN_004,Gouranga Lambada,PENDING,1.7,24.1959,75.4812,Village_257,Mandsaur,Madhya Pradesh
+MP_MAN_005,Nita Oraon,APPROVED,1.7,24.0173,75.2957,Village_386,Mandsaur,Madhya Pradesh
+MP_MAN_006,Anjali Pradhan,PENDING,1.1,24.0869,75.6021,Village_107,Mandsaur,Madhya Pradesh
+MP_MAN_007,Sonali Koya,APPROVED,2.0,23.8164,74.9711,Village_672,Mandsaur,Madhya Pradesh
+MP_MAN_008,Santi Kharia,APPROVED,0.8,24.089,75.5606,Village_260,Mandsaur,Madhya Pradesh
+MP_MAN_009,Kumari Pradhan,APPROVED,1.7,23.9356,75.2621,Village_235,Mandsaur,Madhya Pradesh
+MP_MAN_010,Subhash Ekka,APPROVED,2.8,24.2733,75.5996,Village_874,Mandsaur,Madhya Pradesh
+MP_SIN_001,Subhash Meena,APPROVED,2.6,23.9108,82.6629,Village_134,Singrauli,Madhya Pradesh
+MP_SIN_002,Kiran Nayak,APPROVED,1.1,24.152,81.9348,Village_571,Singrauli,Madhya Pradesh
+MP_SIN_003,Soni Munda,PENDING,2.9,24.0625,82.2688,Village_509,Singrauli,Madhya Pradesh
+MP_SIN_004,Soma Pradhan,APPROVED,2.9,24.3371,82.2392,Village_995,Singrauli,Madhya Pradesh
+MP_SIN_005,Santi Majhi,PENDING,1.1,24.3722,82.2309,Village_510,Singrauli,Madhya Pradesh
+MP_SIN_006,Subhash Birhor,APPROVED,1.1,23.909,82.4086,Village_674,Singrauli,Madhya Pradesh
+MP_SIN_007,Durga Koya,APPROVED,2.8,24.1547,82.5433,Village_315,Singrauli,Madhya Pradesh
+MP_SIN_008,Gita Santhal,APPROVED,0.6,24.2012,82.2393,Village_341,Singrauli,Madhya Pradesh
+MP_SIN_009,Manisha Lambada,PENDING,0.9,24.1176,82.239,Village_687,Singrauli,Madhya Pradesh
+MP_SIN_010,Krishna Santhal,APPROVED,2.3,24.1716,82.3595,Village_647,Singrauli,Madhya Pradesh
+MP_SIN_011,Gopal Meena,PENDING,1.5,24.0226,82.0866,Village_241,Singrauli,Madhya Pradesh
+MP_SIN_012,Gopal Sahariya,PENDING,1.1,24.2868,82.1323,Village_808,Singrauli,Madhya Pradesh
+MP_SIN_013,Mallesh Naik,PENDING,1.3,24.1983,82.3252,Village_570,Singrauli,Madhya Pradesh
+MP_SIN_014,Mallaiah Gond,APPROVED,1.1,24.2689,82.5233,Village_212,Singrauli,Madhya Pradesh
+MP_SIN_015,Savitri Santhal,APPROVED,2.5,24.0681,82.5743,Village_337,Singrauli,Madhya Pradesh
+MP_SID_001,Lali Singh,APPROVED,2.4,23.8694,81.9855,Village_363,Sidhi,Madhya Pradesh
+MP_SID_002,Durga Birhor,PENDING,0.9,24.1938,81.4958,Village_603,Sidhi,Madhya Pradesh
+MP_SID_003,Dinesh Debbarma,PENDING,1.1,24.521,81.994,Village_983,Sidhi,Madhya Pradesh
+MP_SID_004,Narayan Kharia,PENDING,2.4,24.1403,81.5598,Village_911,Sidhi,Madhya Pradesh
+MP_SID_005,Anjali Debbarma,PENDING,0.7,23.9827,81.8919,Village_741,Sidhi,Madhya Pradesh
+MP_SID_006,Ramesh Singh,APPROVED,1.0,24.4246,82.0369,Village_827,Sidhi,Madhya Pradesh
+MP_SID_007,Chotu Ho,PENDING,0.6,23.858,82.0866,Village_315,Sidhi,Madhya Pradesh
+MP_SID_008,Laxman Birhor,APPROVED,2.1,24.1755,81.7978,Village_462,Sidhi,Madhya Pradesh
+MP_SID_009,Asha Bhil,PENDING,2.7,24.3295,81.458,Village_653,Sidhi,Madhya Pradesh
+MP_SID_010,Harish Debbarma,PENDING,2.8,24.3069,81.334,Village_898,Sidhi,Madhya Pradesh
+MP_SID_011,Veera Birhor,PENDING,0.7,24.5498,82.1393,Village_755,Sidhi,Madhya Pradesh
+MP_SID_012,Manisha Sahariya,APPROVED,2.1,23.949,81.6258,Village_595,Sidhi,Madhya Pradesh
+MP_SID_013,Anji Ho,APPROVED,0.7,23.8988,81.7315,Village_378,Sidhi,Madhya Pradesh
+MP_SID_014,Meera Kondh,APPROVED,0.9,23.8343,82.0507,Village_620,Sidhi,Madhya Pradesh
+MP_SID_015,Asha Gond,APPROVED,0.9,24.3113,81.6424,Village_451,Sidhi,Madhya Pradesh
+MP_SID_016,Soni Korku,PENDING,2.7,24.3519,81.6437,Village_224,Sidhi,Madhya Pradesh
+MP_SID_017,Kamli Sahariya,APPROVED,0.9,24.3894,82.1642,Village_404,Sidhi,Madhya Pradesh
+MP_SAG_001,Reena Debbarma,APPROVED,0.7,23.5248,79.0946,Village_492,Sagar,Madhya Pradesh
+MP_SAG_002,Kumari Meena,APPROVED,1.2,24.288,78.263,Village_345,Sagar,Madhya Pradesh
+MP_SAG_003,Debu Munda,PENDING,0.7,23.402,78.7771,Village_469,Sagar,Madhya Pradesh
+MP_SAG_004,Rupali Pradhan,PENDING,2.8,24.0719,78.3412,Village_827,Sagar,Madhya Pradesh
+MP_SAG_005,Dinesh Oraon,PENDING,1.0,23.9289,78.7936,Village_267,Sagar,Madhya Pradesh
+MP_SAG_006,Sunil Meena,PENDING,3.0,23.7375,79.0205,Village_328,Sagar,Madhya Pradesh
+MP_SAG_007,Sonali Sahariya,APPROVED,0.6,24.0834,78.4033,Village_502,Sagar,Madhya Pradesh
+MP_SAG_008,Shyam Kharia,APPROVED,0.9,24.3494,79.1456,Village_672,Sagar,Madhya Pradesh
+MP_SAG_009,Sunil Majhi,APPROVED,2.5,24.2853,78.4723,Village_986,Sagar,Madhya Pradesh
+MP_SAG_010,Raja Kharia,APPROVED,2.6,23.4797,78.9221,Village_972,Sagar,Madhya Pradesh
+MP_SAG_011,Jayant Majhi,APPROVED,1.8,23.8281,78.9966,Village_247,Sagar,Madhya Pradesh
+MP_SAG_012,Pinki Lambada,APPROVED,1.4,24.2091,78.1644,Village_542,Sagar,Madhya Pradesh
+MP_DAM_001,Soni Debbarma,APPROVED,0.9,23.6034,79.5162,Village_876,Damoh,Madhya Pradesh
+MP_DAM_002,Sonali Majhi,APPROVED,1.2,24.1358,79.3491,Village_991,Damoh,Madhya Pradesh
+MP_DAM_003,Sanjay Ekka,PENDING,1.5,24.1269,79.7177,Village_485,Damoh,Madhya Pradesh
+MP_DAM_004,Ramesh Birhor,PENDING,1.6,24.0577,79.2394,Village_330,Damoh,Madhya Pradesh
+MP_DAM_005,Lakshmi Debbarma,APPROVED,1.9,23.7224,79.4179,Village_349,Damoh,Madhya Pradesh
+MP_DAM_006,Asha Korku,PENDING,2.1,23.8222,79.2659,Village_341,Damoh,Madhya Pradesh
+MP_DAM_007,Chotu Sahariya,PENDING,2.3,23.8385,79.71,Village_797,Damoh,Madhya Pradesh
+MP_DAM_008,Kamli Lambada,APPROVED,1.3,23.4033,79.5778,Village_834,Damoh,Madhya Pradesh
+MP_DAM_009,Manoj Kharia,PENDING,0.9,23.9785,79.239,Village_817,Damoh,Madhya Pradesh
+MP_DAM_010,Prakash Ekka,APPROVED,0.7,23.4187,79.285,Village_402,Damoh,Madhya Pradesh
+MP_DAM_011,Savitri Bhil,APPROVED,0.9,23.5823,79.6686,Village_914,Damoh,Madhya Pradesh
+MP_DAM_012,Rakesh Korku,PENDING,1.2,24.2083,79.8028,Village_303,Damoh,Madhya Pradesh
+MP_SHA_001,Subhash Gond,PENDING,1.3,23.2868,76.6826,Village_334,Shajapur,Madhya Pradesh
+MP_SHA_002,Devraj Majhi,APPROVED,1.3,23.5751,76.4039,Village_159,Shajapur,Madhya Pradesh
+MP_SHA_003,Subhash Oraon,APPROVED,2.0,23.1885,76.7515,Village_742,Shajapur,Madhya Pradesh
+MP_SHA_004,Kamalamma Ekka,PENDING,1.0,23.2868,76.442,Village_474,Shajapur,Madhya Pradesh
+MP_SHA_005,Subhash Meena,PENDING,2.9,23.2893,76.3679,Village_507,Shajapur,Madhya Pradesh
+MP_SHA_006,Ramesh Naik,PENDING,2.9,23.3394,76.9065,Village_946,Shajapur,Madhya Pradesh
+MP_SHA_007,Sunitha Lambada,APPROVED,1.2,23.2704,76.5702,Village_230,Shajapur,Madhya Pradesh
+MP_SHA_008,Lopa Singh,PENDING,2.5,23.4437,76.9292,Village_751,Shajapur,Madhya Pradesh
+MP_SHA_009,Mohan Kharia,APPROVED,0.9,23.3527,76.3321,Village_139,Shajapur,Madhya Pradesh
+MP_SHA_010,Durga Lambada,APPROVED,2.6,23.3483,76.4316,Village_448,Shajapur,Madhya Pradesh
+MP_SHA_011,Sonali Nayak,APPROVED,1.7,23.3939,76.3779,Village_526,Shajapur,Madhya Pradesh
+MP_SHA_012,Reena Ho,PENDING,1.9,23.4755,76.6308,Village_556,Shajapur,Madhya Pradesh
+MP_SHA_013,Reena Ekka,PENDING,1.2,23.5108,76.354,Village_681,Shajapur,Madhya Pradesh
+MP_VID_001,Prakash Singh,APPROVED,2.1,23.9805,77.9399,Village_384,Vidisha,Madhya Pradesh
+MP_VID_002,Sumita Pradhan,PENDING,2.2,23.5206,78.1018,Village_105,Vidisha,Madhya Pradesh
+MP_VID_003,Prakash Gond,APPROVED,1.8,24.1363,77.6133,Village_976,Vidisha,Madhya Pradesh
+MP_VID_004,Rakhi Munda,PENDING,1.0,23.6811,77.6863,Village_320,Vidisha,Madhya Pradesh
+MP_VID_005,Meena Singh,APPROVED,1.7,23.6168,77.8655,Village_531,Vidisha,Madhya Pradesh
+MP_VID_006,Guddu Lambada,APPROVED,1.9,23.3835,77.9959,Village_135,Vidisha,Madhya Pradesh
+MP_VID_007,Lali Bai,APPROVED,2.4,23.8081,78.2661,Village_197,Vidisha,Madhya Pradesh
+MP_VID_008,Sumita Pradhan,PENDING,1.2,23.7259,78.0145,Village_250,Vidisha,Madhya Pradesh
+MP_VID_009,Soni Birhor,PENDING,0.6,23.8719,77.9107,Village_777,Vidisha,Madhya Pradesh
+MP_VID_010,Amar Meena,APPROVED,0.6,24.0048,77.8239,Village_470,Vidisha,Madhya Pradesh
+MP_RAJ_001,Rakhi Oraon,PENDING,2.2,23.694,76.429,Village_281,Rajgarh,Madhya Pradesh
+MP_RAJ_002,Soma Majhi,PENDING,0.5,23.9329,76.3828,Village_902,Rajgarh,Madhya Pradesh
+MP_RAJ_003,Raja Meena,PENDING,1.8,23.9799,77.1658,Village_960,Rajgarh,Madhya Pradesh
+MP_RAJ_004,Jayant Sahariya,PENDING,1.9,23.5591,76.8864,Village_656,Rajgarh,Madhya Pradesh
+MP_RAJ_005,Anjali Oraon,PENDING,2.6,23.6016,76.911,Village_896,Rajgarh,Madhya Pradesh
+MP_RAJ_006,Asha Oraon,PENDING,2.2,23.7049,77.1582,Village_219,Rajgarh,Madhya Pradesh
+MP_RAJ_007,Shyam Nayak,APPROVED,0.9,23.5427,76.9755,Village_524,Rajgarh,Madhya Pradesh
+MP_RAJ_008,Rakhi Nayak,PENDING,2.9,23.9458,76.9409,Village_186,Rajgarh,Madhya Pradesh
+MP_RAJ_009,Pinki Ekka,APPROVED,1.4,23.8621,76.4425,Village_313,Rajgarh,Madhya Pradesh
+MP_RAJ_010,Gita Baiga,APPROVED,0.7,23.7639,76.6835,Village_514,Rajgarh,Madhya Pradesh
+MP_RAJ_011,Anitha Gond,APPROVED,2.6,24.1565,76.3008,Village_185,Rajgarh,Madhya Pradesh
+MP_RAJ_012,Rupali Gond,APPROVED,2.8,23.6136,76.7245,Village_241,Rajgarh,Madhya Pradesh
+MP_RAJ_013,Rekha Majhi,PENDING,2.4,24.0432,76.5052,Village_847,Rajgarh,Madhya Pradesh
+MP_SHA_001,Bhagwan Oraon,APPROVED,1.7,23.4246,81.552,Village_769,Shahdol,Madhya Pradesh
+MP_SHA_002,Lakshmi Nayak,APPROVED,1.2,23.811,81.5533,Village_921,Shahdol,Madhya Pradesh
+MP_SHA_003,Radha Kondh,APPROVED,1.0,23.1885,81.3911,Village_368,Shahdol,Madhya Pradesh
+MP_SHA_004,Kishore Meena,PENDING,1.9,23.6876,81.4999,Village_699,Shahdol,Madhya Pradesh
+MP_SHA_005,Laxman Munda,PENDING,0.5,23.0972,81.4782,Village_248,Shahdol,Madhya Pradesh
+MP_SHA_006,Radha Bai,PENDING,0.8,23.2042,81.5929,Village_149,Shahdol,Madhya Pradesh
+MP_SHA_007,Ramesh Sahariya,PENDING,2.7,23.5125,81.7291,Village_550,Shahdol,Madhya Pradesh
+MP_SHA_008,Kamli Singh,PENDING,1.1,23.3935,81.3813,Village_639,Shahdol,Madhya Pradesh
+MP_SHA_009,Chandan Singh,PENDING,1.6,23.3642,81.6373,Village_479,Shahdol,Madhya Pradesh
+MP_SHA_010,Kishore Korku,APPROVED,0.7,23.4105,81.6573,Village_437,Shahdol,Madhya Pradesh
+MP_SHA_011,Debu Nayak,PENDING,2.7,23.4253,81.5446,Village_545,Shahdol,Madhya Pradesh
+MP_SHA_012,Kamini Munda,PENDING,2.5,23.2168,81.4247,Village_401,Shahdol,Madhya Pradesh
+MP_SHA_013,Reena Oraon,APPROVED,1.9,24.1149,81.5007,Village_694,Shahdol,Madhya Pradesh
+MP_KAT_001,Lopa Baiga,PENDING,2.3,23.9263,80.6803,Village_211,Katni,Madhya Pradesh
+MP_KAT_002,Rita Gond,PENDING,2.3,23.6891,80.3961,Village_533,Katni,Madhya Pradesh
+MP_KAT_003,Rakhi Gond,PENDING,2.4,23.5225,80.3907,Village_213,Katni,Madhya Pradesh
+MP_KAT_004,Subal Lambada,APPROVED,0.6,23.8495,80.0683,Village_822,Katni,Madhya Pradesh
+MP_KAT_005,Subhash Ho,APPROVED,0.5,23.7859,80.5875,Village_650,Katni,Madhya Pradesh
+MP_KAT_006,Pinki Ekka,APPROVED,1.8,23.6232,80.0331,Village_607,Katni,Madhya Pradesh
+MP_KAT_007,Lukra Lambada,APPROVED,0.9,23.8879,80.4619,Village_146,Katni,Madhya Pradesh
+MP_KAT_008,Santi Pradhan,PENDING,2.7,23.6277,80.0723,Village_351,Katni,Madhya Pradesh
+MP_KAT_009,Roshan Bai,PENDING,2.7,23.5193,80.2131,Village_886,Katni,Madhya Pradesh
+MP_KAT_010,Rakesh Ho,PENDING,1.6,23.8508,80.4611,Village_592,Katni,Madhya Pradesh
+MP_KAT_011,Gouranga Debbarma,APPROVED,1.0,23.7682,80.0904,Village_340,Katni,Madhya Pradesh
+MP_KAT_012,Gouranga Ekka,APPROVED,3.0,23.8518,80.0682,Village_236,Katni,Madhya Pradesh
+MP_KAT_013,Lali Lambada,APPROVED,2.7,23.6302,80.4826,Village_869,Katni,Madhya Pradesh
+MP_KAT_014,Durga Kondh,APPROVED,2.9,23.9747,80.487,Village_955,Katni,Madhya Pradesh
+MP_KAT_015,Manisha Oraon,PENDING,1.3,23.6201,80.3786,Village_253,Katni,Madhya Pradesh
+MP_KAT_016,Manoj Birhor,PENDING,1.3,23.558,80.3504,Village_319,Katni,Madhya Pradesh
+MP_KAT_017,Lukra Naik,APPROVED,0.5,23.5741,80.3603,Village_387,Katni,Madhya Pradesh
+MP_UMA_001,Asha Kondh,APPROVED,1.8,23.7897,81.0952,Village_657,Umaria,Madhya Pradesh
+MP_UMA_002,Amar Bai,PENDING,0.6,23.5728,80.6346,Village_757,Umaria,Madhya Pradesh
+MP_UMA_003,Ramkali Oraon,APPROVED,2.6,23.4733,80.6663,Village_181,Umaria,Madhya Pradesh
+MP_UMA_004,Anjali Pradhan,APPROVED,0.9,23.2699,81.0879,Village_397,Umaria,Madhya Pradesh
+MP_UMA_005,Durga Ekka,APPROVED,2.9,23.7241,81.0213,Village_148,Umaria,Madhya Pradesh
+MP_UMA_006,Rathnam Sahariya,APPROVED,0.7,23.3662,81.0766,Village_963,Umaria,Madhya Pradesh
+MP_UMA_007,Rinku Naik,APPROVED,1.4,23.4191,80.6151,Village_697,Umaria,Madhya Pradesh
+MP_UMA_008,Kamli Pradhan,APPROVED,2.0,23.8479,81.0694,Village_654,Umaria,Madhya Pradesh
+MP_UMA_009,Asha Baiga,PENDING,2.4,23.5021,80.9549,Village_575,Umaria,Madhya Pradesh
+MP_UMA_010,Biru Gond,PENDING,0.7,23.4975,80.7372,Village_249,Umaria,Madhya Pradesh
+MP_UMA_011,Lopa Ekka,APPROVED,0.5,23.5087,80.9185,Village_421,Umaria,Madhya Pradesh
+MP_UMA_012,Ram Gond,APPROVED,3.0,23.735,81.205,Village_561,Umaria,Madhya Pradesh
+MP_RAT_001,Shyam Meena,PENDING,1.7,23.7432,75.4359,Village_708,Ratlam,Madhya Pradesh
+MP_RAT_002,Nita Majhi,PENDING,1.3,23.636,74.9935,Village_109,Ratlam,Madhya Pradesh
+MP_RAT_003,Jayant Nayak,APPROVED,0.7,23.81,75.0741,Village_733,Ratlam,Madhya Pradesh
+MP_RAT_004,Kiran Bhil,PENDING,3.0,23.409,74.785,Village_171,Ratlam,Madhya Pradesh
+MP_RAT_005,Sumita Naik,PENDING,2.1,23.5913,75.0408,Village_240,Ratlam,Madhya Pradesh
+MP_RAT_006,Lakshmi Oraon,PENDING,1.8,23.5851,75.4687,Village_759,Ratlam,Madhya Pradesh
+MP_RAT_007,Babulal Ekka,APPROVED,2.9,23.4376,75.1022,Village_783,Ratlam,Madhya Pradesh
+MP_RAT_008,Devi Meena,PENDING,2.8,23.4479,74.7562,Village_855,Ratlam,Madhya Pradesh
+MP_RAT_009,Dinesh Sahariya,PENDING,2.7,23.4876,74.8934,Village_441,Ratlam,Madhya Pradesh
+MP_RAT_010,Shyam Kharia,APPROVED,1.9,23.6958,75.1434,Village_427,Ratlam,Madhya Pradesh
+MP_RAT_011,Raja Meena,PENDING,2.5,23.838,75.4787,Village_935,Ratlam,Madhya Pradesh
+MP_RAT_012,Lukra Baiga,PENDING,1.0,23.2701,75.0771,Village_461,Ratlam,Madhya Pradesh
+MP_RAT_013,Sumita Nayak,PENDING,3.0,23.2267,75.0383,Village_550,Ratlam,Madhya Pradesh
+MP_RAT_014,Dinesh Korku,APPROVED,0.8,23.3409,74.9415,Village_244,Ratlam,Madhya Pradesh
+MP_RAT_015,Rita Meena,PENDING,1.8,23.4202,75.0877,Village_779,Ratlam,Madhya Pradesh
+MP_RAT_016,Sita Bhil,APPROVED,1.3,23.7267,74.9349,Village_251,Ratlam,Madhya Pradesh
+MP_RAT_017,Meena Debbarma,APPROVED,1.1,23.5628,75.2633,Village_137,Ratlam,Madhya Pradesh
+MP_RAT_018,Kalia Munda,APPROVED,1.8,23.5698,75.1595,Village_704,Ratlam,Madhya Pradesh
+MP_BHO_001,Santi Meena,APPROVED,1.9,23.7171,77.5203,Village_796,Bhopal,Madhya Pradesh
+MP_BHO_002,Laxman Gond,APPROVED,0.6,23.3682,77.2443,Village_842,Bhopal,Madhya Pradesh
+MP_BHO_003,Devi Birhor,PENDING,2.7,23.4919,77.4574,Village_976,Bhopal,Madhya Pradesh
+MP_BHO_004,Bikash Bai,PENDING,2.7,23.3146,77.2462,Village_949,Bhopal,Madhya Pradesh
+MP_BHO_005,Rinku Gond,PENDING,1.3,23.8404,77.3745,Village_402,Bhopal,Madhya Pradesh
+MP_BHO_006,Santosh Bhil,PENDING,1.4,23.2559,77.2408,Village_326,Bhopal,Madhya Pradesh
+MP_BHO_007,Sanjay Bai,APPROVED,0.6,23.653,77.5042,Village_308,Bhopal,Madhya Pradesh
+MP_BHO_008,Prakash Naik,APPROVED,0.8,23.3072,77.4465,Village_891,Bhopal,Madhya Pradesh
+MP_BHO_009,Sabita Bhil,APPROVED,2.3,23.3007,77.35,Village_800,Bhopal,Madhya Pradesh
+MP_BHO_010,Babulal Birhor,APPROVED,0.8,23.3174,77.34,Village_374,Bhopal,Madhya Pradesh
+MP_BHO_011,Soma Singh,PENDING,0.8,23.174,77.4678,Village_291,Bhopal,Madhya Pradesh
+MP_BHO_012,Lukra Ho,APPROVED,2.7,23.3842,77.5427,Village_714,Bhopal,Madhya Pradesh
+MP_BHO_013,Kumari Lambada,APPROVED,1.6,23.3957,77.5354,Village_199,Bhopal,Madhya Pradesh
+MP_BHO_014,Jiten Nayak,PENDING,0.7,23.5562,77.3237,Village_686,Bhopal,Madhya Pradesh
+MP_BHO_015,Sonali Majhi,APPROVED,1.4,23.3951,77.3702,Village_521,Bhopal,Madhya Pradesh
+MP_BHO_016,Pushpa Bhil,PENDING,3.0,23.6566,77.4762,Village_828,Bhopal,Madhya Pradesh
+MP_BHO_017,Kamalamma Munda,PENDING,1.3,23.2335,77.2569,Village_128,Bhopal,Madhya Pradesh
+MP_BHO_018,Savitri Koya,APPROVED,0.8,23.3605,77.3325,Village_523,Bhopal,Madhya Pradesh
+MP_BHO_019,Manoj Ekka,PENDING,2.8,23.3639,77.5226,Village_978,Bhopal,Madhya Pradesh
+MP_UJJ_001,Rakhi Sahariya,PENDING,2.0,23.1344,75.3154,Village_742,Ujjain,Madhya Pradesh
+MP_UJJ_002,Savitri Kondh,APPROVED,2.0,23.2417,75.9751,Village_316,Ujjain,Madhya Pradesh
+MP_UJJ_003,Radhika Bhil,APPROVED,2.2,23.6257,75.721,Village_975,Ujjain,Madhya Pradesh
+MP_UJJ_004,Krishna Meena,APPROVED,2.8,23.1754,75.8761,Village_430,Ujjain,Madhya Pradesh
+MP_UJJ_005,Prakash Singh,APPROVED,3.0,23.4751,75.3177,Village_796,Ujjain,Madhya Pradesh
+MP_UJJ_006,Mallesh Birhor,PENDING,1.9,23.409,76.0275,Village_302,Ujjain,Madhya Pradesh
+MP_UJJ_007,Arjun Kharia,APPROVED,1.7,23.3589,75.4952,Village_314,Ujjain,Madhya Pradesh
+MP_UJJ_008,Manoj Oraon,PENDING,1.1,23.1059,75.6009,Village_135,Ujjain,Madhya Pradesh
+MP_UJJ_009,Dinesh Bhil,APPROVED,1.3,23.3282,75.217,Village_571,Ujjain,Madhya Pradesh
+MP_UJJ_010,Ram Gond,APPROVED,0.7,23.4582,75.6346,Village_570,Ujjain,Madhya Pradesh
+MP_UJJ_011,Santi Meena,APPROVED,1.0,23.4097,75.8795,Village_683,Ujjain,Madhya Pradesh
+MP_UJJ_012,Shanti Kondh,PENDING,0.5,22.9862,75.4068,Village_863,Ujjain,Madhya Pradesh
+MP_UJJ_013,Sunitha Nayak,PENDING,1.5,23.5415,75.5547,Village_586,Ujjain,Madhya Pradesh
+MP_UJJ_014,Jayant Kondh,PENDING,2.6,23.3886,75.9536,Village_846,Ujjain,Madhya Pradesh
+MP_UJJ_015,Arjun Pradhan,APPROVED,0.9,23.3424,75.851,Village_491,Ujjain,Madhya Pradesh
+MP_UJJ_016,Reena Gond,PENDING,1.9,23.1496,75.802,Village_402,Ujjain,Madhya Pradesh
+MP_UJJ_017,Dinesh Pradhan,APPROVED,0.6,23.1154,75.7258,Village_711,Ujjain,Madhya Pradesh
+MP_UJJ_018,Kumari Sahariya,PENDING,2.2,23.0465,75.8168,Village_407,Ujjain,Madhya Pradesh
+MP_UJJ_019,Durga Naik,PENDING,0.8,23.4719,75.7244,Village_459,Ujjain,Madhya Pradesh
+MP_UJJ_020,Shanti Ho,PENDING,2.3,23.575,75.819,Village_939,Ujjain,Madhya Pradesh
+MP_RAI_001,Biru Santhal,APPROVED,2.3,23.6405,78.3284,Village_783,Raisen,Madhya Pradesh
+MP_RAI_002,Lopa Ho,APPROVED,2.1,23.1556,78.656,Village_247,Raisen,Madhya Pradesh
+MP_RAI_003,Ram Oraon,APPROVED,1.6,23.2487,78.3988,Village_113,Raisen,Madhya Pradesh
+MP_RAI_004,Nita Bhil,PENDING,1.2,22.9554,78.3469,Village_555,Raisen,Madhya Pradesh
+MP_RAI_005,Gopal Kondh,PENDING,2.2,23.2753,77.5975,Village_283,Raisen,Madhya Pradesh
+MP_RAI_006,Bhagwan Nayak,PENDING,2.8,23.0356,77.7562,Village_407,Raisen,Madhya Pradesh
+MP_RAI_007,Savitri Ho,PENDING,2.1,23.2107,77.7486,Village_198,Raisen,Madhya Pradesh
+MP_RAI_008,Ramkali Naik,APPROVED,1.3,22.9879,77.778,Village_587,Raisen,Madhya Pradesh
+MP_RAI_009,Sumita Koya,PENDING,1.3,23.042,77.6634,Village_420,Raisen,Madhya Pradesh
+MP_RAI_010,Pratap Santhal,APPROVED,2.7,22.9525,77.5752,Village_650,Raisen,Madhya Pradesh
+MP_SEH_001,Chandan Oraon,PENDING,1.7,23.437,77.2067,Village_466,Sehore,Madhya Pradesh
+MP_SEH_002,Devraj Singh,PENDING,1.1,22.9551,77.115,Village_492,Sehore,Madhya Pradesh
+MP_SEH_003,Chotu Munda,PENDING,1.4,22.5618,77.3173,Village_912,Sehore,Madhya Pradesh
+MP_SEH_004,Santosh Singh,PENDING,1.7,23.0888,76.5956,Village_748,Sehore,Madhya Pradesh
+MP_SEH_005,Pothuraju Pradhan,APPROVED,1.3,23.4108,77.1919,Village_768,Sehore,Madhya Pradesh
+MP_SEH_006,Radha Ekka,APPROVED,1.9,22.9126,77.0618,Village_186,Sehore,Madhya Pradesh
+MP_SEH_007,Lali Sahariya,APPROVED,2.4,22.7896,77.4157,Village_169,Sehore,Madhya Pradesh
+MP_SEH_008,Reena Meena,PENDING,1.3,22.8219,77.0995,Village_914,Sehore,Madhya Pradesh
+MP_SEH_009,Gopal Kondh,PENDING,2.2,22.8381,77.4965,Village_905,Sehore,Madhya Pradesh
+MP_SEH_010,Rupali Oraon,PENDING,1.9,22.7714,77.2672,Village_137,Sehore,Madhya Pradesh
+MP_SEH_011,Mohan Majhi,PENDING,1.6,23.3478,77.0648,Village_427,Sehore,Madhya Pradesh
+MP_SEH_012,Dinesh Lambada,PENDING,2.7,23.1639,77.0549,Village_332,Sehore,Madhya Pradesh
+MP_SEH_013,Reang Debbarma,APPROVED,1.6,23.5686,77.1904,Village_209,Sehore,Madhya Pradesh
+MP_SEH_014,Reang Bhil,APPROVED,2.4,22.8184,76.5827,Village_221,Sehore,Madhya Pradesh
+MP_SEH_015,Kishore Majhi,APPROVED,2.5,22.7221,77.5787,Village_671,Sehore,Madhya Pradesh
+MP_SEH_016,Subhash Korku,PENDING,2.9,22.8185,77.5703,Village_922,Sehore,Madhya Pradesh
+MP_SEH_017,Santi Kondh,APPROVED,2.9,22.7724,77.3811,Village_993,Sehore,Madhya Pradesh
+MP_SEH_018,Debu Birhor,APPROVED,0.7,23.0253,76.5218,Village_632,Sehore,Madhya Pradesh
+MP_SEH_019,Raghu Gond,APPROVED,1.1,22.6231,77.4079,Village_354,Sehore,Madhya Pradesh
+MP_JAB_001,Rita Kharia,PENDING,2.7,23.541,80.1664,Village_199,Jabalpur,Madhya Pradesh
+MP_JAB_002,Sunitha Bai,PENDING,1.9,23.1307,80.0331,Village_164,Jabalpur,Madhya Pradesh
+MP_JAB_003,Santi Majhi,APPROVED,2.5,23.3114,80.1012,Village_637,Jabalpur,Madhya Pradesh
+MP_JAB_004,Santi Pradhan,APPROVED,1.6,23.2351,79.9407,Village_388,Jabalpur,Madhya Pradesh
+MP_JAB_005,Soma Pradhan,PENDING,1.7,23.3009,79.7509,Village_476,Jabalpur,Madhya Pradesh
+MP_JAB_006,Jiten Naik,PENDING,2.3,23.408,79.8956,Village_331,Jabalpur,Madhya Pradesh
+MP_JAB_007,Manisha Lambada,PENDING,2.3,22.9401,79.7305,Village_671,Jabalpur,Madhya Pradesh
+MP_JAB_008,Anji Ho,APPROVED,2.5,23.2475,80.3148,Village_789,Jabalpur,Madhya Pradesh
+MP_JAB_009,Subal Nayak,PENDING,2.8,23.2395,79.8144,Village_955,Jabalpur,Madhya Pradesh
+MP_JAB_010,Roshan Baiga,PENDING,0.9,23.1504,79.9171,Village_432,Jabalpur,Madhya Pradesh
+MP_JAB_011,Meena Bhil,PENDING,1.6,23.2068,80.2929,Village_128,Jabalpur,Madhya Pradesh
+MP_DEW_001,Lopa Debbarma,PENDING,2.5,22.8851,76.2455,Village_668,Dewas,Madhya Pradesh
+MP_DEW_002,Gita Korku,APPROVED,1.5,22.8533,76.8794,Village_671,Dewas,Madhya Pradesh
+MP_DEW_003,Akash Naik,PENDING,1.0,22.7546,76.3249,Village_654,Dewas,Madhya Pradesh
+MP_DEW_004,Reena Birhor,APPROVED,1.8,22.512,76.1707,Village_473,Dewas,Madhya Pradesh
+MP_DEW_005,Pinki Nayak,PENDING,1.9,22.4016,76.3144,Village_240,Dewas,Madhya Pradesh
+MP_DEW_006,Veera Kondh,PENDING,0.9,22.4724,76.74,Village_961,Dewas,Madhya Pradesh
+MP_DEW_007,Sarla Oraon,APPROVED,1.3,22.5287,76.2813,Village_510,Dewas,Madhya Pradesh
+MP_DEW_008,Ramkali Lambada,APPROVED,1.6,22.3413,76.7383,Village_117,Dewas,Madhya Pradesh
+MP_DEW_009,Ramesh Korku,PENDING,1.8,22.532,76.1337,Village_437,Dewas,Madhya Pradesh
+MP_DEW_010,Raja Kharia,PENDING,1.9,22.6887,77.0199,Village_362,Dewas,Madhya Pradesh
+MP_DEW_011,Linga Sahariya,APPROVED,0.9,22.905,76.3955,Village_586,Dewas,Madhya Pradesh
+MP_DEW_012,Akash Debbarma,PENDING,1.3,23.009,76.1578,Village_430,Dewas,Madhya Pradesh
+MP_DEW_013,Lopa Singh,APPROVED,0.9,22.8378,76.125,Village_995,Dewas,Madhya Pradesh
+MP_DEW_014,Reang Majhi,PENDING,2.2,22.4008,76.6699,Village_877,Dewas,Madhya Pradesh
+MP_DEW_015,Soni Kharia,APPROVED,2.1,22.5726,76.1991,Village_242,Dewas,Madhya Pradesh
+MP_ANU_001,Raghu Naik,APPROVED,1.5,22.7928,81.4819,Village_623,Anuppur,Madhya Pradesh
+MP_ANU_002,Sanjay Kondh,APPROVED,2.8,22.941,81.2971,Village_264,Anuppur,Madhya Pradesh
+MP_ANU_003,Jiten Nayak,APPROVED,2.4,22.9359,81.2404,Village_211,Anuppur,Madhya Pradesh
+MP_ANU_004,Chandan Santhal,APPROVED,2.2,22.7275,81.7139,Village_550,Anuppur,Madhya Pradesh
+MP_ANU_005,Manisha Birhor,APPROVED,2.2,22.8488,81.7227,Village_702,Anuppur,Madhya Pradesh
+MP_ANU_006,Lakshmi Naik,PENDING,2.2,23.2777,82.0588,Village_337,Anuppur,Madhya Pradesh
+MP_ANU_007,Rupali Oraon,PENDING,0.8,22.9558,81.408,Village_645,Anuppur,Madhya Pradesh
+MP_ANU_008,Narayan Singh,APPROVED,0.7,22.8519,81.5104,Village_813,Anuppur,Madhya Pradesh
+MP_ANU_009,Laxman Korku,APPROVED,2.6,23.4137,81.9871,Village_370,Anuppur,Madhya Pradesh
+MP_ANU_010,Reang Ho,PENDING,2.5,22.9109,81.7334,Village_603,Anuppur,Madhya Pradesh
+MP_ANU_011,Radha Bhil,APPROVED,2.0,23.0248,81.7422,Village_855,Anuppur,Madhya Pradesh
+MP_JHA_001,Kamli Singh,APPROVED,2.8,22.9893,74.4919,Village_883,Jhabua,Madhya Pradesh
+MP_JHA_002,Manisha Nayak,APPROVED,2.3,22.9708,74.4619,Village_706,Jhabua,Madhya Pradesh
+MP_JHA_003,Pinki Bhil,APPROVED,2.6,22.9737,74.7861,Village_404,Jhabua,Madhya Pradesh
+MP_JHA_004,Prakash Pradhan,APPROVED,2.5,22.5677,74.6278,Village_432,Jhabua,Madhya Pradesh
+MP_JHA_005,Pratap Kondh,PENDING,2.2,23.1421,74.7701,Village_848,Jhabua,Madhya Pradesh
+MP_JHA_006,Mohan Bai,PENDING,1.1,22.7799,74.7802,Village_647,Jhabua,Madhya Pradesh
+MP_JHA_007,Roshan Bai,APPROVED,2.4,23.0142,74.3633,Village_136,Jhabua,Madhya Pradesh
+MP_JHA_008,Meera Kharia,APPROVED,2.5,23.0088,74.8739,Village_629,Jhabua,Madhya Pradesh
+MP_JHA_009,Pushpa Debbarma,PENDING,2.9,23.0716,74.5411,Village_976,Jhabua,Madhya Pradesh
+MP_JHA_010,Ajay Kharia,APPROVED,2.5,22.6603,74.4692,Village_795,Jhabua,Madhya Pradesh
+MP_JHA_011,Raghu Kondh,APPROVED,1.0,22.9123,74.4961,Village_216,Jhabua,Madhya Pradesh
+MP_JHA_012,Mohan Gond,PENDING,2.2,22.7803,74.7946,Village_975,Jhabua,Madhya Pradesh
+MP_JHA_013,Raju Sahariya,PENDING,2.6,22.8556,74.5472,Village_326,Jhabua,Madhya Pradesh
+MP_JHA_014,Chandan Gond,PENDING,1.3,22.8435,74.7179,Village_192,Jhabua,Madhya Pradesh
+MP_JHA_015,Santosh Gond,APPROVED,1.1,23.0664,74.9966,Village_423,Jhabua,Madhya Pradesh
+MP_DIN_001,Sarla Meena,PENDING,0.9,22.95,81.0467,Village_455,Dindori,Madhya Pradesh
+MP_DIN_002,Saroja Koya,PENDING,1.4,23.2099,80.968,Village_270,Dindori,Madhya Pradesh
+MP_DIN_003,Shanti Lambada,APPROVED,3.0,23.0152,81.12,Village_804,Dindori,Madhya Pradesh
+MP_DIN_004,Radhika Baiga,APPROVED,1.4,23.1447,80.7574,Village_101,Dindori,Madhya Pradesh
+MP_DIN_005,Sabita Ho,PENDING,0.7,22.9939,80.6615,Village_438,Dindori,Madhya Pradesh
+MP_DIN_006,Dinesh Naik,APPROVED,1.4,22.5662,80.9907,Village_995,Dindori,Madhya Pradesh
+MP_DIN_007,Rakhi Naik,PENDING,2.3,22.8324,81.1395,Village_960,Dindori,Madhya Pradesh
+MP_DIN_008,Sarita Lambada,APPROVED,1.9,22.921,80.7833,Village_491,Dindori,Madhya Pradesh
+MP_DIN_009,Chotu Korku,APPROVED,1.8,23.2093,80.7562,Village_561,Dindori,Madhya Pradesh
+MP_DIN_010,Dinesh Pradhan,APPROVED,2.8,22.5074,81.4274,Village_381,Dindori,Madhya Pradesh
+MP_DIN_011,Anji Oraon,PENDING,0.7,22.7584,81.0027,Village_164,Dindori,Madhya Pradesh
+MP_DIN_012,Bikash Santhal,PENDING,2.9,22.8598,81.072,Village_129,Dindori,Madhya Pradesh
+MP_NAR_001,Devanna Kharia,PENDING,2.1,22.7213,78.8988,Village_692,Narsimhapur,Madhya Pradesh
+MP_NAR_002,Saroja Kondh,PENDING,1.2,23.1797,78.8804,Village_277,Narsimhapur,Madhya Pradesh
+MP_NAR_003,Saroja Nayak,APPROVED,1.4,22.6617,79.3615,Village_514,Narsimhapur,Madhya Pradesh
+MP_NAR_004,Chotu Majhi,PENDING,1.8,22.8875,78.8517,Village_484,Narsimhapur,Madhya Pradesh
+MP_NAR_005,Kamini Oraon,PENDING,1.8,23.1356,79.0476,Village_225,Narsimhapur,Madhya Pradesh
+MP_NAR_006,Sita Oraon,PENDING,0.8,22.7084,78.9584,Village_535,Narsimhapur,Madhya Pradesh
+MP_NAR_007,Rupali Sahariya,PENDING,0.8,23.1023,79.5532,Village_996,Narsimhapur,Madhya Pradesh
+MP_NAR_008,Sita Baiga,PENDING,2.3,22.8066,79.4714,Village_183,Narsimhapur,Madhya Pradesh
+MP_NAR_009,Mallaiah Debbarma,APPROVED,0.6,22.9851,79.3447,Village_691,Narsimhapur,Madhya Pradesh
+MP_NAR_010,Sabita Nayak,APPROVED,2.2,22.8675,79.5931,Village_653,Narsimhapur,Madhya Pradesh
+MP_NAR_011,Asha Lambada,APPROVED,2.6,22.8344,78.802,Village_198,Narsimhapur,Madhya Pradesh
+MP_NAR_012,Subhash Munda,PENDING,2.1,22.874,78.7608,Village_236,Narsimhapur,Madhya Pradesh
+MP_NAR_013,Amar Lambada,PENDING,2.9,22.9924,78.4668,Village_758,Narsimhapur,Madhya Pradesh
+MP_NAR_014,Chandan Ekka,APPROVED,2.4,23.0577,79.0908,Village_725,Narsimhapur,Madhya Pradesh
+MP_NAR_015,Sunil Baiga,PENDING,1.1,23.0431,79.5608,Village_347,Narsimhapur,Madhya Pradesh
+MP_NAR_016,Raja Pradhan,PENDING,1.9,23.0777,79.492,Village_155,Narsimhapur,Madhya Pradesh
+MP_NAR_017,Bikash Kondh,PENDING,0.7,22.8131,79.3548,Village_117,Narsimhapur,Madhya Pradesh
+MP_NAR_018,Veera Munda,PENDING,1.3,22.8805,78.9872,Village_826,Narsimhapur,Madhya Pradesh
+MP_NAR_019,Chotu Pradhan,PENDING,1.9,22.9896,78.7192,Village_578,Narsimhapur,Madhya Pradesh
+MP_NAR_020,Devanna Singh,PENDING,2.2,23.1393,78.8938,Village_458,Narsimhapur,Madhya Pradesh
+MP_DHA_001,Ramkali Kondh,PENDING,1.8,22.4971,74.7168,Village_303,Dhar,Madhya Pradesh
+MP_DHA_002,Biru Majhi,PENDING,2.7,22.873,75.0779,Village_493,Dhar,Madhya Pradesh
+MP_DHA_003,Biru Nayak,APPROVED,2.6,22.3028,74.8311,Village_970,Dhar,Madhya Pradesh
+MP_DHA_004,Reang Kondh,APPROVED,1.1,23.0244,75.0551,Village_562,Dhar,Madhya Pradesh
+MP_DHA_005,Meena Koya,PENDING,1.3,22.4841,74.8932,Village_394,Dhar,Madhya Pradesh
+MP_DHA_006,Arjun Bhil,APPROVED,2.0,22.1535,74.6486,Village_181,Dhar,Madhya Pradesh
+MP_DHA_007,Rupali Debbarma,APPROVED,2.2,23.0913,75.1401,Village_121,Dhar,Madhya Pradesh
+MP_DHA_008,Devanna Korku,PENDING,0.6,22.7675,75.482,Village_337,Dhar,Madhya Pradesh
+MP_DHA_009,Reang Debbarma,APPROVED,2.6,22.3453,74.9397,Village_217,Dhar,Madhya Pradesh
+MP_DHA_010,Kumari Baiga,PENDING,2.8,22.2105,75.1697,Village_494,Dhar,Madhya Pradesh
+MP_DHA_011,Santi Lambada,PENDING,2.9,22.2968,74.7624,Village_312,Dhar,Madhya Pradesh
+MP_DHA_012,Reang Debbarma,PENDING,2.7,22.5478,75.5933,Village_405,Dhar,Madhya Pradesh
+MP_DHA_013,Meera Majhi,APPROVED,2.0,22.3667,74.8479,Village_993,Dhar,Madhya Pradesh
+MP_DHA_014,Sanjay Debbarma,APPROVED,1.1,22.7696,75.0854,Village_666,Dhar,Madhya Pradesh
+MP_DHA_015,Soni Ho,PENDING,2.7,22.4118,74.7178,Village_848,Dhar,Madhya Pradesh
+MP_IND_001,Dinesh Sahariya,PENDING,2.3,22.7118,75.6141,Village_659,Indore,Madhya Pradesh
+MP_IND_002,Biru Pradhan,APPROVED,2.2,22.7883,75.6895,Village_700,Indore,Madhya Pradesh
+MP_IND_003,Ajay Kondh,APPROVED,1.4,22.6344,76.1192,Village_935,Indore,Madhya Pradesh
+MP_IND_004,Chotu Bai,APPROVED,2.4,22.5539,76.0562,Village_512,Indore,Madhya Pradesh
+MP_IND_005,Raju Ekka,PENDING,2.1,22.8367,75.8322,Village_668,Indore,Madhya Pradesh
+MP_IND_006,Soni Pradhan,PENDING,0.9,22.9886,75.7581,Village_342,Indore,Madhya Pradesh
+MP_IND_007,Kamini Korku,PENDING,1.0,22.6341,75.8959,Village_622,Indore,Madhya Pradesh
+MP_IND_008,Savitri Sahariya,PENDING,2.2,22.5846,75.8044,Village_452,Indore,Madhya Pradesh
+MP_IND_009,Kumari Koya,PENDING,1.4,22.6525,75.9791,Village_375,Indore,Madhya Pradesh
+MP_IND_010,Raju Baiga,PENDING,2.7,22.5094,76.0146,Village_399,Indore,Madhya Pradesh
+MP_IND_011,Rathnam Majhi,APPROVED,1.4,23.0101,75.6457,Village_712,Indore,Madhya Pradesh
+MP_IND_012,Sarla Meena,PENDING,2.4,22.7291,75.7328,Village_929,Indore,Madhya Pradesh
+MP_IND_013,Kamalamma Koya,APPROVED,1.9,22.8888,75.6754,Village_162,Indore,Madhya Pradesh
+MP_IND_014,Rathnam Bhil,APPROVED,2.5,23.0144,75.4842,Village_619,Indore,Madhya Pradesh
+MP_MAN_001,Shanti Oraon,PENDING,2.6,22.75,80.9196,Village_239,Mandla,Madhya Pradesh
+MP_MAN_002,Pinki Baiga,APPROVED,1.1,22.4796,80.1894,Village_416,Mandla,Madhya Pradesh
+MP_MAN_003,Ajay Ho,APPROVED,1.7,23.0034,80.1681,Village_340,Mandla,Madhya Pradesh
+MP_MAN_004,Ajay Ekka,APPROVED,2.9,22.4531,80.6501,Village_152,Mandla,Madhya Pradesh
+MP_MAN_005,Nita Naik,APPROVED,1.0,22.804,80.7147,Village_970,Mandla,Madhya Pradesh
+MP_MAN_006,Gopal Korku,APPROVED,1.0,22.9032,80.4576,Village_581,Mandla,Madhya Pradesh
+MP_MAN_007,Shyam Majhi,PENDING,2.9,23.0891,80.4915,Village_481,Mandla,Madhya Pradesh
+MP_MAN_008,Sita Santhal,APPROVED,0.7,22.4457,80.5799,Village_884,Mandla,Madhya Pradesh
+MP_MAN_009,Narayan Oraon,PENDING,2.2,22.5986,80.05,Village_900,Mandla,Madhya Pradesh
+MP_MAN_010,Guddu Singh,PENDING,0.9,22.7655,80.4918,Village_674,Mandla,Madhya Pradesh
+MP_MAN_011,Subal Majhi,PENDING,1.1,22.4942,80.2494,Village_851,Mandla,Madhya Pradesh
+MP_MAN_012,Pushpa Ho,APPROVED,2.3,22.5018,80.9282,Village_551,Mandla,Madhya Pradesh
+MP_HOS_001,Dinesh Bhil,APPROVED,1.5,22.6878,78.2401,Village_493,Hoshangabad,Madhya Pradesh
+MP_HOS_002,Santosh Santhal,PENDING,0.6,22.6519,78.2798,Village_871,Hoshangabad,Madhya Pradesh
+MP_HOS_003,Linga Nayak,APPROVED,0.6,22.6603,77.8841,Village_200,Hoshangabad,Madhya Pradesh
+MP_HOS_004,Chandan Kondh,PENDING,1.3,22.3241,77.6913,Village_523,Hoshangabad,Madhya Pradesh
+MP_HOS_005,Kamli Korku,APPROVED,1.4,22.8442,78.2817,Village_524,Hoshangabad,Madhya Pradesh
+MP_HOS_006,Santosh Pradhan,PENDING,2.4,22.8067,78.1974,Village_753,Hoshangabad,Madhya Pradesh
+MP_HOS_007,Krishna Birhor,APPROVED,1.9,22.4533,78.1803,Village_468,Hoshangabad,Madhya Pradesh
+MP_HOS_008,Santosh Naik,PENDING,1.0,22.6028,77.9434,Village_178,Hoshangabad,Madhya Pradesh
+MP_HOS_009,Manisha Santhal,APPROVED,2.2,22.4232,77.5813,Village_903,Hoshangabad,Madhya Pradesh
+MP_HOS_010,Kamini Debbarma,PENDING,1.9,22.7895,77.7977,Village_888,Hoshangabad,Madhya Pradesh
+MP_HOS_011,Devraj Majhi,APPROVED,3.0,22.6369,78.0913,Village_834,Hoshangabad,Madhya Pradesh
+MP_HOS_012,Mallesh Munda,PENDING,0.7,22.4281,78.3468,Village_486,Hoshangabad,Madhya Pradesh
+MP_SEO_001,Lopa Ho,APPROVED,2.4,22.1557,79.8147,Village_583,Seoni,Madhya Pradesh
+MP_SEO_002,Meena Gond,APPROVED,2.0,22.4534,79.8069,Village_793,Seoni,Madhya Pradesh
+MP_SEO_003,Manisha Bhil,PENDING,1.0,22.8112,79.8213,Village_235,Seoni,Madhya Pradesh
+MP_SEO_004,Santi Singh,PENDING,1.6,22.025,79.474,Village_325,Seoni,Madhya Pradesh
+MP_SEO_005,Akash Kharia,PENDING,3.0,21.9261,79.6208,Village_517,Seoni,Madhya Pradesh
+MP_SEO_006,Reena Naik,PENDING,0.5,22.1944,79.6247,Village_273,Seoni,Madhya Pradesh
+MP_SEO_007,Mallaiah Bai,APPROVED,2.8,22.5147,80.0097,Village_125,Seoni,Madhya Pradesh
+MP_SEO_008,Rakesh Singh,APPROVED,1.6,22.3585,79.7451,Village_624,Seoni,Madhya Pradesh
+MP_SEO_009,Sabita Singh,PENDING,2.2,22.8339,79.859,Village_492,Seoni,Madhya Pradesh
+MP_SEO_010,Savitri Debbarma,APPROVED,2.3,22.5625,79.5642,Village_642,Seoni,Madhya Pradesh
+MP_SEO_011,Veera Kharia,APPROVED,1.4,22.3702,79.9123,Village_283,Seoni,Madhya Pradesh
+MP_SEO_012,Raju Bai,PENDING,2.1,22.3433,79.4274,Village_722,Seoni,Madhya Pradesh
+MP_SEO_013,Meena Majhi,PENDING,0.9,22.3562,79.6344,Village_294,Seoni,Madhya Pradesh
+MP_SEO_014,Devanna Gond,APPROVED,2.2,22.3498,79.4096,Village_621,Seoni,Madhya Pradesh
+MP_SEO_015,Kiran Bai,PENDING,1.5,22.2704,79.7485,Village_453,Seoni,Madhya Pradesh
+MP_SEO_016,Raja Meena,APPROVED,0.9,22.3527,79.5109,Village_938,Seoni,Madhya Pradesh
+MP_SEO_017,Meera Singh,PENDING,0.9,22.4457,79.3751,Village_313,Seoni,Madhya Pradesh
+MP_SEO_018,Rekha Bhil,PENDING,1.8,22.3889,79.6796,Village_299,Seoni,Madhya Pradesh
+MP_ALI_001,Meera Pradhan,PENDING,2.5,22.0494,74.3547,Village_475,Alirajpur,Madhya Pradesh
+MP_ALI_002,Rakhi Debbarma,PENDING,2.7,22.5259,74.5243,Village_980,Alirajpur,Madhya Pradesh
+MP_ALI_003,Reang Majhi,APPROVED,2.9,22.3485,74.4698,Village_495,Alirajpur,Madhya Pradesh
+MP_ALI_004,Linga Birhor,PENDING,1.0,22.1241,74.5016,Village_786,Alirajpur,Madhya Pradesh
+MP_ALI_005,Devraj Baiga,PENDING,0.6,22.5936,74.3411,Village_960,Alirajpur,Madhya Pradesh
+MP_ALI_006,Gopal Sahariya,APPROVED,2.6,22.5194,74.707,Village_447,Alirajpur,Madhya Pradesh
+MP_ALI_007,Radhika Korku,PENDING,2.0,22.2636,74.093,Village_856,Alirajpur,Madhya Pradesh
+MP_ALI_008,Mallesh Koya,APPROVED,1.5,22.3186,74.263,Village_147,Alirajpur,Madhya Pradesh
+MP_ALI_009,Kamli Ho,PENDING,1.4,22.0223,74.2336,Village_190,Alirajpur,Madhya Pradesh
+MP_ALI_010,Mallesh Pradhan,PENDING,1.0,22.5507,74.7103,Village_816,Alirajpur,Madhya Pradesh
+MP_ALI_011,Anjali Sahariya,APPROVED,2.8,22.4981,74.2001,Village_838,Alirajpur,Madhya Pradesh
+MP_ALI_012,Debu Majhi,PENDING,2.2,22.2654,74.1934,Village_208,Alirajpur,Madhya Pradesh
+MP_ALI_013,Sarita Nayak,PENDING,2.8,22.4867,74.2497,Village_287,Alirajpur,Madhya Pradesh
+MP_ALI_014,Shanti Lambada,PENDING,2.0,22.2263,74.1392,Village_897,Alirajpur,Madhya Pradesh
+MP_ALI_015,Bikash Kondh,APPROVED,1.6,21.9758,74.2531,Village_611,Alirajpur,Madhya Pradesh
+MP_ALI_016,Sarla Lambada,PENDING,1.4,22.1435,74.2892,Village_266,Alirajpur,Madhya Pradesh
+MP_ALI_017,Narayan Bhil,APPROVED,1.3,22.3166,74.5048,Village_876,Alirajpur,Madhya Pradesh
+MP_ALI_018,Asha Sahariya,PENDING,1.5,22.3125,74.1456,Village_162,Alirajpur,Madhya Pradesh
+MP_ALI_019,Soni Lambada,APPROVED,1.2,22.0421,74.2198,Village_476,Alirajpur,Madhya Pradesh
+MP_CHH_001,Gouranga Birhor,APPROVED,2.3,22.3717,78.6165,Village_350,Chhindwara,Madhya Pradesh
+MP_CHH_002,Mallesh Majhi,APPROVED,0.8,22.5191,79.2498,Village_489,Chhindwara,Madhya Pradesh
+MP_CHH_003,Gita Ho,APPROVED,2.2,22.0392,79.2778,Village_761,Chhindwara,Madhya Pradesh
+MP_CHH_004,Soni Ho,PENDING,0.7,21.8156,78.5584,Village_681,Chhindwara,Madhya Pradesh
+MP_CHH_005,Radha Pradhan,PENDING,1.4,21.9055,78.7544,Village_842,Chhindwara,Madhya Pradesh
+MP_CHH_006,Reang Majhi,PENDING,0.6,22.4663,78.8422,Village_995,Chhindwara,Madhya Pradesh
+MP_CHH_007,Dinesh Birhor,PENDING,0.6,22.3635,78.7062,Village_526,Chhindwara,Madhya Pradesh
+MP_CHH_008,Chandan Ekka,APPROVED,1.6,22.1303,78.9785,Village_583,Chhindwara,Madhya Pradesh
+MP_CHH_009,Soma Debbarma,APPROVED,1.6,22.4995,78.8708,Village_318,Chhindwara,Madhya Pradesh
+MP_CHH_010,Mohan Gond,PENDING,2.5,21.6561,78.951,Village_688,Chhindwara,Madhya Pradesh
+MP_CHH_011,Harish Naik,APPROVED,1.7,21.7865,79.0714,Village_767,Chhindwara,Madhya Pradesh
+MP_CHH_012,Jiten Bai,PENDING,2.9,22.0963,78.9054,Village_210,Chhindwara,Madhya Pradesh
+MP_CHH_013,Anitha Oraon,PENDING,2.9,22.3736,79.0438,Village_381,Chhindwara,Madhya Pradesh
+MP_CHH_014,Kiran Lambada,APPROVED,1.8,22.4296,78.7351,Village_871,Chhindwara,Madhya Pradesh
+MP_CHH_015,Nita Meena,APPROVED,2.8,22.0892,79.3505,Village_494,Chhindwara,Madhya Pradesh
+MP_CHH_016,Manoj Lambada,PENDING,2.3,22.5304,79.1311,Village_764,Chhindwara,Madhya Pradesh
+MP_CHH_017,Rakhi Kharia,PENDING,3.0,22.4235,78.6594,Village_298,Chhindwara,Madhya Pradesh
+MP_CHH_018,Lopa Debbarma,APPROVED,2.0,22.0766,79.0246,Village_612,Chhindwara,Madhya Pradesh
+MP_CHH_019,Lukra Baiga,PENDING,0.9,22.1189,79.3466,Village_273,Chhindwara,Madhya Pradesh
+MP_CHH_020,Shanti Sahariya,PENDING,0.9,22.0943,78.4431,Village_651,Chhindwara,Madhya Pradesh
+MP_HAR_001,Nita Naik,APPROVED,1.6,22.345,77.0615,Village_165,Harda,Madhya Pradesh
+MP_HAR_002,Radha Lambada,APPROVED,2.3,21.9367,77.2442,Village_748,Harda,Madhya Pradesh
+MP_HAR_003,Kalia Pradhan,PENDING,1.7,22.4496,77.0667,Village_868,Harda,Madhya Pradesh
+MP_HAR_004,Rinku Santhal,PENDING,1.9,22.4095,77.2939,Village_496,Harda,Madhya Pradesh
+MP_HAR_005,Gita Meena,PENDING,2.8,22.0449,77.5019,Village_758,Harda,Madhya Pradesh
+MP_HAR_006,Sonali Naik,APPROVED,2.4,21.945,77.2077,Village_201,Harda,Madhya Pradesh
+MP_HAR_007,Sarla Naik,APPROVED,2.1,22.1198,77.05,Village_628,Harda,Madhya Pradesh
+MP_HAR_008,Gita Sahariya,PENDING,0.9,22.0433,77.308,Village_958,Harda,Madhya Pradesh
+MP_HAR_009,Ram Sahariya,PENDING,2.8,22.4474,77.183,Village_991,Harda,Madhya Pradesh
+MP_HAR_010,Mallaiah Baiga,APPROVED,1.9,22.4778,77.149,Village_277,Harda,Madhya Pradesh
+MP_HAR_011,Ramesh Korku,PENDING,2.7,22.4063,77.2654,Village_977,Harda,Madhya Pradesh
+MP_WES_001,Rita Bhil,APPROVED,2.7,21.904,75.6814,Village_203,West Nimar,Madhya Pradesh
+MP_WES_002,Nita Meena,APPROVED,1.4,22.2953,75.6289,Village_442,West Nimar,Madhya Pradesh
+MP_WES_003,Raja Birhor,APPROVED,1.7,22.2305,75.8795,Village_652,West Nimar,Madhya Pradesh
+MP_WES_004,Sumita Pradhan,APPROVED,3.0,22.0668,75.6268,Village_602,West Nimar,Madhya Pradesh
+MP_WES_005,Pinki Lambada,APPROVED,1.6,21.9992,75.5911,Village_781,West Nimar,Madhya Pradesh
+MP_WES_006,Akash Ekka,PENDING,1.4,21.6305,75.9474,Village_899,West Nimar,Madhya Pradesh
+MP_WES_007,Lopa Kondh,PENDING,1.7,21.7767,75.6063,Village_895,West Nimar,Madhya Pradesh
+MP_WES_008,Ajay Bai,APPROVED,1.4,21.871,76.1018,Village_756,West Nimar,Madhya Pradesh
+MP_WES_009,Nita Majhi,PENDING,1.7,21.6812,75.4995,Village_919,West Nimar,Madhya Pradesh
+MP_WES_010,Reena Bhil,APPROVED,0.8,21.6961,75.8011,Village_818,West Nimar,Madhya Pradesh
+MP_WES_011,Sabita Kharia,PENDING,2.8,22.1542,75.8322,Village_337,West Nimar,Madhya Pradesh
+MP_WES_012,Sonali Kondh,PENDING,3.0,21.8537,75.8945,Village_547,West Nimar,Madhya Pradesh
+MP_WES_013,Mallaiah Gond,PENDING,1.2,21.4995,75.7055,Village_197,West Nimar,Madhya Pradesh
+MP_WES_014,Soni Debbarma,APPROVED,2.1,22.0822,76.2209,Village_233,West Nimar,Madhya Pradesh
+MP_WES_015,Subal Koya,PENDING,2.5,21.9973,75.9853,Village_779,West Nimar,Madhya Pradesh
+MP_WES_016,Ramkali Debbarma,PENDING,1.0,21.9547,75.8527,Village_646,West Nimar,Madhya Pradesh
+MP_WES_017,Soma Ho,PENDING,1.8,21.5151,75.4863,Village_157,West Nimar,Madhya Pradesh
+MP_EAS_001,Rupali Kharia,PENDING,1.2,21.7804,76.8273,Village_214,East Nimar,Madhya Pradesh
+MP_EAS_002,Biru Oraon,APPROVED,2.9,21.912,77.0027,Village_181,East Nimar,Madhya Pradesh
+MP_EAS_003,Mallesh Birhor,APPROVED,2.1,21.9035,76.3207,Village_736,East Nimar,Madhya Pradesh
+MP_EAS_004,Lakshmi Kharia,APPROVED,2.5,21.8989,76.1922,Village_338,East Nimar,Madhya Pradesh
+MP_EAS_005,Kumari Bhil,PENDING,1.7,22.1678,76.8365,Village_805,East Nimar,Madhya Pradesh
+MP_EAS_006,Lukra Ekka,APPROVED,0.7,21.6989,76.9876,Village_131,East Nimar,Madhya Pradesh
+MP_EAS_007,Jayant Ekka,PENDING,1.9,21.9391,76.1741,Village_664,East Nimar,Madhya Pradesh
+MP_EAS_008,Meera Kondh,PENDING,1.8,21.9149,76.3021,Village_960,East Nimar,Madhya Pradesh
+MP_EAS_009,Lali Oraon,PENDING,2.0,22.3859,76.5194,Village_862,East Nimar,Madhya Pradesh
+MP_EAS_010,Mallaiah Nayak,PENDING,2.4,22.2109,76.6265,Village_773,East Nimar,Madhya Pradesh
+MP_EAS_011,Lakshmi Santhal,APPROVED,2.0,21.8574,76.1747,Village_145,East Nimar,Madhya Pradesh
+MP_EAS_012,Anitha Oraon,APPROVED,2.3,21.7814,76.3093,Village_474,East Nimar,Madhya Pradesh
+MP_EAS_013,Dinesh Gond,PENDING,2.2,21.6839,76.8915,Village_223,East Nimar,Madhya Pradesh
+MP_EAS_014,Saroja Korku,PENDING,1.7,21.7428,76.57,Village_817,East Nimar,Madhya Pradesh
+MP_EAS_015,Jayant Naik,PENDING,2.7,21.7195,76.4499,Village_243,East Nimar,Madhya Pradesh
+MP_BAL_001,Arjun Kharia,APPROVED,0.6,21.6623,79.9081,Village_449,Balaghat,Madhya Pradesh
+MP_BAL_002,Kamli Bai,APPROVED,2.0,21.48,80.4608,Village_432,Balaghat,Madhya Pradesh
+MP_BAL_003,Ajay Gond,PENDING,2.3,22.1905,80.0613,Village_237,Balaghat,Madhya Pradesh
+MP_BAL_004,Mohan Birhor,APPROVED,1.8,22.1087,80.4792,Village_650,Balaghat,Madhya Pradesh
+MP_BAL_005,Sonali Pradhan,PENDING,1.9,22.3366,80.1055,Village_656,Balaghat,Madhya Pradesh
+MP_BAL_006,Shanti Bai,PENDING,1.7,21.7518,79.9778,Village_317,Balaghat,Madhya Pradesh
+MP_BAL_007,Santosh Bai,APPROVED,0.5,22.036,80.3299,Village_414,Balaghat,Madhya Pradesh
+MP_BAL_008,Sanjay Gond,APPROVED,0.9,22.2329,80.4919,Village_837,Balaghat,Madhya Pradesh
+MP_BAL_009,Sumita Lambada,APPROVED,2.0,22.1449,80.7276,Village_593,Balaghat,Madhya Pradesh
+MP_BAL_010,Mohan Kondh,APPROVED,2.6,21.6973,79.8618,Village_408,Balaghat,Madhya Pradesh
+MP_BAL_011,Jayant Baiga,APPROVED,1.3,22.0174,80.1952,Village_318,Balaghat,Madhya Pradesh
+MP_BAL_012,Kamli Sahariya,APPROVED,2.7,22.2963,80.3148,Village_648,Balaghat,Madhya Pradesh
+MP_BAL_013,Soni Santhal,PENDING,1.8,21.8167,79.8606,Village_245,Balaghat,Madhya Pradesh
+MP_BAL_014,Reena Lambada,PENDING,1.7,21.8991,80.6904,Village_539,Balaghat,Madhya Pradesh
+MP_BAL_015,Anitha Oraon,PENDING,1.0,21.9422,80.775,Village_935,Balaghat,Madhya Pradesh
+MP_BAL_016,Linga Ho,PENDING,2.0,21.9945,80.4027,Village_330,Balaghat,Madhya Pradesh
+MP_BAL_017,Ramesh Bhil,APPROVED,2.7,22.0047,79.9793,Village_598,Balaghat,Madhya Pradesh
+MP_BAL_018,Lali Korku,APPROVED,2.0,22.1178,80.5413,Village_815,Balaghat,Madhya Pradesh
+MP_BAL_019,Chotu Kharia,APPROVED,2.6,22.0274,80.042,Village_189,Balaghat,Madhya Pradesh
+MP_BAR_001,Pothuraju Oraon,PENDING,1.9,21.5538,75.2193,Village_198,Barwani,Madhya Pradesh
+MP_BAR_002,Santosh Debbarma,PENDING,1.8,21.4664,75.5649,Village_539,Barwani,Madhya Pradesh
+MP_BAR_003,Biru Munda,PENDING,0.7,21.7876,74.6236,Village_745,Barwani,Madhya Pradesh
+MP_BAR_004,Mallesh Ho,APPROVED,0.5,21.6569,74.8361,Village_243,Barwani,Madhya Pradesh
+MP_BAR_005,Dinesh Singh,PENDING,1.0,21.7434,74.9715,Village_841,Barwani,Madhya Pradesh
+MP_BAR_006,Chandan Kondh,APPROVED,0.6,21.6743,74.8538,Village_874,Barwani,Madhya Pradesh
+MP_BAR_007,Subal Nayak,APPROVED,1.1,21.6582,75.0297,Village_943,Barwani,Madhya Pradesh
+MP_BAR_008,Gouranga Sahariya,APPROVED,0.6,21.8104,75.0607,Village_129,Barwani,Madhya Pradesh
+MP_BAR_009,Pinki Bhil,PENDING,2.7,21.6634,74.727,Village_842,Barwani,Madhya Pradesh
+MP_BAR_010,Jiten Nayak,PENDING,1.7,21.8492,74.6219,Village_220,Barwani,Madhya Pradesh
+MP_BAR_011,Lukra Bhil,PENDING,1.7,21.9885,74.8702,Village_624,Barwani,Madhya Pradesh
+MP_AGA_001,Kumari Pradhan,APPROVED,0.9,23.8277,76.2062,Village_976,Agar Malwa,Madhya Pradesh
+MP_AGA_002,Chotu Korku,PENDING,2.5,23.9547,76.2702,Village_903,Agar Malwa,Madhya Pradesh
+MP_AGA_003,Pinki Oraon,APPROVED,1.3,23.7518,75.7995,Village_213,Agar Malwa,Madhya Pradesh
+MP_AGA_004,Biru Ho,APPROVED,2.6,24.0343,76.2517,Village_634,Agar Malwa,Madhya Pradesh
+MP_AGA_005,Reang Sahariya,PENDING,2.3,23.9291,76.0612,Village_708,Agar Malwa,Madhya Pradesh
+MP_AGA_006,Manoj Debbarma,APPROVED,1.9,23.6422,76.3177,Village_632,Agar Malwa,Madhya Pradesh
+MP_AGA_007,Anitha Bhil,PENDING,2.6,23.974,76.0992,Village_577,Agar Malwa,Madhya Pradesh
+MP_AGA_008,Mohan Korku,APPROVED,1.4,23.8057,76.1749,Village_402,Agar Malwa,Madhya Pradesh
+MP_AGA_009,Sunitha Birhor,APPROVED,0.7,23.9871,76.2339,Village_583,Agar Malwa,Madhya Pradesh
+MP_AGA_010,Narayan Lambada,PENDING,0.7,24.0436,76.036,Village_647,Agar Malwa,Madhya Pradesh
+MP_AGA_011,Jayant Meena,PENDING,1.7,23.665,76.0302,Village_907,Agar Malwa,Madhya Pradesh
+MP_AGA_012,Ramkali Birhor,APPROVED,0.8,23.7363,75.8611,Village_148,Agar Malwa,Madhya Pradesh
+MP_AGA_013,Pinki Pradhan,PENDING,1.6,23.5897,76.0622,Village_455,Agar Malwa,Madhya Pradesh
+MP_AGA_014,Rupali Oraon,PENDING,1.6,23.7816,76.2756,Village_195,Agar Malwa,Madhya Pradesh
+MP_AGA_015,Lali Kondh,APPROVED,2.2,23.7303,76.1413,Village_766,Agar Malwa,Madhya Pradesh
+MP_AGA_016,Kamalamma Korku,APPROVED,0.9,23.7675,76.1441,Village_747,Agar Malwa,Madhya Pradesh
+MP_DAT_001,Dinesh Oraon,PENDING,2.3,25.9235,78.8197,Village_605,Datia,Madhya Pradesh
+MP_DAT_002,Sarita Koya,PENDING,1.6,25.599,78.463,Village_544,Datia,Madhya Pradesh
+MP_DAT_003,Debu Pradhan,PENDING,2.5,25.7174,78.6816,Village_701,Datia,Madhya Pradesh
+MP_DAT_004,Ram Santhal,PENDING,0.8,25.7976,78.6393,Village_721,Datia,Madhya Pradesh
+MP_DAT_005,Lopa Singh,APPROVED,1.5,25.9742,78.6303,Village_745,Datia,Madhya Pradesh
+MP_DAT_006,Sunitha Baiga,PENDING,1.1,25.6037,78.4219,Village_573,Datia,Madhya Pradesh
+MP_DAT_007,Pushpa Oraon,APPROVED,0.8,25.7049,78.3667,Village_706,Datia,Madhya Pradesh
+MP_DAT_008,Santi Debbarma,APPROVED,2.7,25.8985,78.5494,Village_766,Datia,Madhya Pradesh
+MP_DAT_009,Anitha Bhil,APPROVED,0.8,25.7308,78.5507,Village_790,Datia,Madhya Pradesh
+MP_DAT_010,Kamli Kharia,PENDING,1.7,26.085,78.7821,Village_846,Datia,Madhya Pradesh
+MP_DAT_011,Shyam Majhi,APPROVED,2.0,25.6438,78.6331,Village_282,Datia,Madhya Pradesh
+MP_DAT_012,Raja Gond,APPROVED,2.2,25.9325,78.7476,Village_891,Datia,Madhya Pradesh
+MP_DAT_013,Prakash Gond,PENDING,2.4,25.51,78.3908,Village_290,Datia,Madhya Pradesh
+MP_DAT_014,Gita Ekka,PENDING,2.2,25.9187,78.5891,Village_363,Datia,Madhya Pradesh
+MP_DAT_015,Akash Nayak,PENDING,2.9,26.0398,78.6434,Village_984,Datia,Madhya Pradesh
+MP_CHH_001,Nita Korku,APPROVED,2.0,25.1058,79.9557,Village_656,Chhatarpur,Madhya Pradesh
+MP_CHH_002,Babulal Kharia,APPROVED,0.6,25.0434,79.6848,Village_219,Chhatarpur,Madhya Pradesh
+MP_CHH_003,Asha Korku,PENDING,1.7,24.4887,79.528,Village_702,Chhatarpur,Madhya Pradesh
+MP_CHH_004,Savitri Santhal,APPROVED,2.4,24.9654,79.9084,Village_669,Chhatarpur,Madhya Pradesh
+MP_CHH_005,Lakshmi Koya,APPROVED,0.7,24.7108,79.7969,Village_852,Chhatarpur,Madhya Pradesh
+MP_CHH_006,Kamli Singh,APPROVED,2.9,24.9307,79.3717,Village_378,Chhatarpur,Madhya Pradesh
+MP_CHH_007,Chandan Munda,APPROVED,2.6,24.486,79.0842,Village_315,Chhatarpur,Madhya Pradesh
+MP_CHH_008,Gopal Ho,PENDING,1.8,24.4318,79.5222,Village_885,Chhatarpur,Madhya Pradesh
+MP_CHH_009,Anitha Koya,PENDING,2.3,25.0136,79.4389,Village_930,Chhatarpur,Madhya Pradesh
+MP_CHH_010,Bikash Bhil,PENDING,1.9,24.4356,79.0055,Village_693,Chhatarpur,Madhya Pradesh
+MP_CHH_011,Santosh Munda,PENDING,1.1,24.3064,79.2573,Village_446,Chhatarpur,Madhya Pradesh
+MP_CHH_012,Sunitha Pradhan,APPROVED,0.6,25.0629,79.7844,Village_314,Chhatarpur,Madhya Pradesh
+MP_PAN_001,Manisha Naik,PENDING,1.7,24.9593,80.2303,Village_725,Panna,Madhya Pradesh
+MP_PAN_002,Linga Singh,PENDING,1.3,24.6056,80.1055,Village_685,Panna,Madhya Pradesh
+MP_PAN_003,Meena Meena,PENDING,3.0,24.8787,80.6092,Village_608,Panna,Madhya Pradesh
+MP_PAN_004,Meera Ho,PENDING,2.2,24.0004,79.9413,Village_758,Panna,Madhya Pradesh
+MP_PAN_005,Kishore Naik,APPROVED,0.7,24.799,80.3783,Village_863,Panna,Madhya Pradesh
+MP_PAN_006,Gouranga Debbarma,PENDING,1.8,24.1503,80.116,Village_922,Panna,Madhya Pradesh
+MP_PAN_007,Soni Kharia,APPROVED,1.5,24.6897,80.2966,Village_630,Panna,Madhya Pradesh
+MP_PAN_008,Lali Bai,PENDING,2.2,24.3939,80.4538,Village_781,Panna,Madhya Pradesh
+MP_PAN_009,Devraj Singh,PENDING,2.4,24.473,80.065,Village_221,Panna,Madhya Pradesh
+MP_PAN_010,Pinki Pradhan,APPROVED,1.0,24.6447,79.9705,Village_469,Panna,Madhya Pradesh
+MP_PAN_011,Mallesh Lambada,PENDING,1.2,24.6726,80.1349,Village_504,Panna,Madhya Pradesh
+MP_PAN_012,Reang Kondh,PENDING,1.2,24.2542,80.2743,Village_596,Panna,Madhya Pradesh
+MP_PAN_013,Soni Majhi,APPROVED,2.7,24.1729,80.4427,Village_806,Panna,Madhya Pradesh
+MP_PAN_014,Pothuraju Singh,PENDING,1.9,24.8403,80.1636,Village_434,Panna,Madhya Pradesh
+MP_PAN_015,Mohan Naik,PENDING,0.8,24.3907,80.316,Village_477,Panna,Madhya Pradesh
+MP_BET_001,Dinesh Pradhan,APPROVED,1.7,21.8285,78.1606,Village_972,Betul,Madhya Pradesh
+MP_BET_002,Anitha Bai,APPROVED,1.6,22.024,78.166,Village_123,Betul,Madhya Pradesh
+MP_BET_003,Rekha Kharia,PENDING,2.1,22.1255,77.6812,Village_533,Betul,Madhya Pradesh
+MP_BET_004,Narayan Oraon,PENDING,2.7,21.6968,78.0742,Village_722,Betul,Madhya Pradesh
+MP_BET_005,Ramkali Kondh,APPROVED,1.2,21.8728,78.3647,Village_488,Betul,Madhya Pradesh
+MP_BET_006,Anji Ekka,APPROVED,2.9,21.8288,77.8145,Village_822,Betul,Madhya Pradesh
+MP_BET_007,Chandan Bai,APPROVED,0.9,22.0139,77.5348,Village_770,Betul,Madhya Pradesh
+MP_BET_008,Sarla Kharia,PENDING,1.2,21.4969,78.0753,Village_356,Betul,Madhya Pradesh
+MP_BET_009,Reena Korku,PENDING,2.7,21.7222,78.1297,Village_890,Betul,Madhya Pradesh
+MP_BET_010,Rekha Gond,APPROVED,1.1,21.8827,78.0453,Village_569,Betul,Madhya Pradesh
+MP_BET_011,Rinku Pradhan,APPROVED,3.0,21.7438,77.7042,Village_894,Betul,Madhya Pradesh
+MP_BET_012,Kamalamma Birhor,PENDING,1.5,21.7008,78.1245,Village_999,Betul,Madhya Pradesh
+MP_NIW_001,Ramesh Meena,PENDING,0.5,25.3973,78.8093,Village_656,Niwari,Madhya Pradesh
+MP_NIW_002,Kalia Korku,APPROVED,2.1,25.1145,78.6891,Village_926,Niwari,Madhya Pradesh
+MP_NIW_003,Jiten Bhil,APPROVED,2.7,25.2861,78.9714,Village_550,Niwari,Madhya Pradesh
+MP_NIW_004,Rita Gond,PENDING,2.5,25.0923,78.6592,Village_965,Niwari,Madhya Pradesh
+MP_NIW_005,Lukra Ho,APPROVED,1.3,25.0927,78.767,Village_555,Niwari,Madhya Pradesh
+MP_NIW_006,Krishna Munda,APPROVED,2.0,25.2701,78.7879,Village_694,Niwari,Madhya Pradesh
+MP_NIW_007,Rakhi Oraon,PENDING,1.5,25.3375,78.5736,Village_590,Niwari,Madhya Pradesh
+MP_NIW_008,Mallaiah Gond,APPROVED,1.4,25.1568,78.7171,Village_500,Niwari,Madhya Pradesh
+MP_NIW_009,Anitha Lambada,APPROVED,1.7,25.4739,78.9329,Village_505,Niwari,Madhya Pradesh
+MP_NIW_010,Babulal Korku,APPROVED,2.4,25.1494,78.7446,Village_783,Niwari,Madhya Pradesh
+MP_NIW_011,Chotu Singh,PENDING,2.5,25.3988,78.9029,Village_393,Niwari,Madhya Pradesh
+MP_NIW_012,Amar Korku,APPROVED,2.6,25.4614,78.8946,Village_931,Niwari,Madhya Pradesh
+MP_NIW_013,Rathnam Meena,APPROVED,2.1,25.3147,78.8062,Village_665,Niwari,Madhya Pradesh
+JH_SAH_001,Ram Bai,APPROVED,2.3,25.0155,87.8582,Village_288,Sahibganj,Jharkhand
+JH_SAH_002,Radha Santhal,APPROVED,1.7,24.9831,87.4907,Village_692,Sahibganj,Jharkhand
+JH_SAH_003,Sita Nayak,PENDING,1.6,24.8928,87.8074,Village_698,Sahibganj,Jharkhand
+JH_SAH_004,Raju Korku,APPROVED,2.7,24.869,87.6468,Village_593,Sahibganj,Jharkhand
+JH_SAH_005,Rinku Singh,APPROVED,2.5,25.2699,87.5228,Village_197,Sahibganj,Jharkhand
+JH_SAH_006,Jiten Meena,APPROVED,1.3,24.8302,87.6042,Village_960,Sahibganj,Jharkhand
+JH_SAH_007,Krishna Kharia,APPROVED,1.6,24.9738,87.6297,Village_933,Sahibganj,Jharkhand
+JH_SAH_008,Akash Singh,APPROVED,2.3,24.8735,87.7291,Village_621,Sahibganj,Jharkhand
+JH_SAH_009,Ramkali Singh,PENDING,2.2,24.8833,87.8277,Village_634,Sahibganj,Jharkhand
+JH_SAH_010,Lopa Korku,APPROVED,1.0,25.2476,87.6688,Village_334,Sahibganj,Jharkhand
+JH_SAH_011,Gita Baiga,PENDING,1.9,24.8949,87.6135,Village_953,Sahibganj,Jharkhand
+JH_SAH_012,Savitri Gond,PENDING,2.4,24.7875,87.7003,Village_840,Sahibganj,Jharkhand
+JH_SAH_013,Santi Kharia,APPROVED,1.4,25.1017,87.4937,Village_791,Sahibganj,Jharkhand
+JH_SAH_014,Rupali Baiga,APPROVED,2.7,25.0107,87.596,Village_465,Sahibganj,Jharkhand
+JH_SAH_015,Bhagwan Meena,PENDING,1.2,24.9259,87.8161,Village_463,Sahibganj,Jharkhand
+JH_SAH_016,Soni Naik,PENDING,2.1,25.2852,87.5441,Village_254,Sahibganj,Jharkhand
+JH_SAH_017,Akash Kondh,APPROVED,1.9,24.7617,87.6839,Village_841,Sahibganj,Jharkhand
+JH_SAH_018,Lukra Bai,APPROVED,1.0,25.3005,87.622,Village_912,Sahibganj,Jharkhand
+JH_SAH_019,Mallaiah Kharia,PENDING,1.9,25.2246,87.5004,Village_309,Sahibganj,Jharkhand
+JH_GOD_001,Pothuraju Meena,PENDING,1.5,24.5161,87.3821,Village_747,Godda,Jharkhand
+JH_GOD_002,Ramesh Meena,PENDING,2.0,24.8297,87.1192,Village_546,Godda,Jharkhand
+JH_GOD_003,Santosh Oraon,APPROVED,2.5,24.6964,87.2358,Village_488,Godda,Jharkhand
+JH_GOD_004,Devraj Singh,APPROVED,0.5,25.0617,87.242,Village_550,Godda,Jharkhand
+JH_GOD_005,Linga Sahariya,APPROVED,2.5,24.8089,87.1334,Village_972,Godda,Jharkhand
+JH_GOD_006,Meena Naik,PENDING,0.8,24.8161,87.1046,Village_301,Godda,Jharkhand
+JH_GOD_007,Santosh Bhil,APPROVED,2.2,24.5908,87.2357,Village_229,Godda,Jharkhand
+JH_GOD_008,Subhash Oraon,PENDING,1.6,24.9082,87.3813,Village_855,Godda,Jharkhand
+JH_GOD_009,Gita Oraon,APPROVED,2.7,25.0446,87.3934,Village_739,Godda,Jharkhand
+JH_GOD_010,Prakash Kharia,APPROVED,0.5,25.1448,87.3889,Village_234,Godda,Jharkhand
+JH_GOD_011,Lopa Korku,APPROVED,2.9,24.967,87.1944,Village_527,Godda,Jharkhand
+JH_GOD_012,Debu Munda,PENDING,2.7,25.0261,87.255,Village_293,Godda,Jharkhand
+JH_GOD_013,Bikash Meena,PENDING,1.1,25.0374,87.3719,Village_124,Godda,Jharkhand
+JH_PAK_001,Sunitha Birhor,PENDING,0.6,24.3982,87.7889,Village_493,Pakur,Jharkhand
+JH_PAK_002,Manisha Baiga,APPROVED,0.8,24.6681,87.7528,Village_442,Pakur,Jharkhand
+JH_PAK_003,Gouranga Birhor,PENDING,2.4,24.438,87.5991,Village_907,Pakur,Jharkhand
+JH_PAK_004,Subhash Majhi,APPROVED,0.7,24.682,87.783,Village_756,Pakur,Jharkhand
+JH_PAK_005,Harish Oraon,PENDING,2.0,24.284,87.61,Village_689,Pakur,Jharkhand
+JH_PAK_006,Nita Ekka,PENDING,2.1,24.6085,87.8142,Village_979,Pakur,Jharkhand
+JH_PAK_007,Pinki Oraon,APPROVED,1.9,24.6274,87.742,Village_935,Pakur,Jharkhand
+JH_PAK_008,Rakesh Ekka,PENDING,0.6,24.4946,87.6804,Village_159,Pakur,Jharkhand
+JH_PAK_009,Amar Baiga,APPROVED,0.5,24.7238,87.5414,Village_608,Pakur,Jharkhand
+JH_PAK_010,Arjun Kondh,PENDING,1.3,24.507,87.5774,Village_855,Pakur,Jharkhand
+JH_PAK_011,Santi Pradhan,PENDING,2.3,24.7368,87.6148,Village_703,Pakur,Jharkhand
+JH_PAK_012,Bikash Nayak,APPROVED,2.2,24.6253,87.8268,Village_177,Pakur,Jharkhand
+JH_PAK_013,Soma Naik,PENDING,1.5,24.7235,87.6649,Village_741,Pakur,Jharkhand
+JH_PAK_014,Anji Kondh,PENDING,0.5,24.6575,87.8737,Village_924,Pakur,Jharkhand
+JH_GIR_001,Guddu Kondh,APPROVED,0.9,24.6949,85.9399,Village_425,Giridih,Jharkhand
+JH_GIR_002,Kalia Ekka,PENDING,1.4,24.4551,86.2894,Village_637,Giridih,Jharkhand
+JH_GIR_003,Akash Ho,PENDING,0.7,24.6456,85.833,Village_371,Giridih,Jharkhand
+JH_GIR_004,Rekha Pradhan,PENDING,0.8,24.4083,86.3126,Village_956,Giridih,Jharkhand
+JH_GIR_005,Roshan Bhil,PENDING,2.3,24.095,86.2966,Village_695,Giridih,Jharkhand
+JH_GIR_006,Chandan Majhi,PENDING,0.6,24.3551,86.2409,Village_732,Giridih,Jharkhand
+JH_GIR_007,Raja Majhi,PENDING,0.9,24.0156,86.0537,Village_723,Giridih,Jharkhand
+JH_GIR_008,Mallaiah Oraon,APPROVED,2.9,24.1602,85.8277,Village_460,Giridih,Jharkhand
+JH_GIR_009,Pothuraju Debbarma,APPROVED,0.8,24.2993,86.2886,Village_494,Giridih,Jharkhand
+JH_GIR_010,Pushpa Singh,PENDING,2.8,24.1837,86.28,Village_710,Giridih,Jharkhand
+JH_GIR_011,Ramesh Santhal,PENDING,1.2,24.7587,86.0511,Village_494,Giridih,Jharkhand
+JH_GIR_012,Lakshmi Naik,PENDING,1.7,24.1821,85.7495,Village_854,Giridih,Jharkhand
+JH_DUM_001,Kamalamma Debbarma,APPROVED,1.3,24.143,87.1116,Village_959,Dumka,Jharkhand
+JH_DUM_002,Gouranga Ho,APPROVED,1.5,24.2899,87.0926,Village_227,Dumka,Jharkhand
+JH_DUM_003,Subal Ho,APPROVED,2.5,24.0943,87.2846,Village_899,Dumka,Jharkhand
+JH_DUM_004,Meera Kondh,APPROVED,2.6,24.4206,87.2131,Village_867,Dumka,Jharkhand
+JH_DUM_005,Anji Bai,PENDING,1.6,24.5653,87.0001,Village_972,Dumka,Jharkhand
+JH_DUM_006,Ramkali Naik,PENDING,0.7,24.5131,87.219,Village_738,Dumka,Jharkhand
+JH_DUM_007,Meera Lambada,APPROVED,2.1,24.2341,87.3285,Village_327,Dumka,Jharkhand
+JH_DUM_008,Reena Munda,APPROVED,1.5,24.5026,86.9208,Village_293,Dumka,Jharkhand
+JH_DUM_009,Santi Kharia,APPROVED,2.6,24.2251,87.3837,Village_130,Dumka,Jharkhand
+JH_DUM_010,Rathnam Bai,APPROVED,0.7,24.4899,87.4575,Village_106,Dumka,Jharkhand
+JH_DUM_011,Debu Ekka,APPROVED,2.1,24.3813,87.3737,Village_570,Dumka,Jharkhand
+JH_DUM_012,Chandan Sahariya,APPROVED,1.2,24.3822,87.3193,Village_395,Dumka,Jharkhand
+JH_DUM_013,Prakash Korku,APPROVED,1.8,24.1169,87.4296,Village_484,Dumka,Jharkhand
+JH_DUM_014,Roshan Debbarma,APPROVED,2.6,24.3903,86.9331,Village_794,Dumka,Jharkhand
+JH_DUM_015,Kamalamma Munda,PENDING,2.5,24.5661,86.9807,Village_591,Dumka,Jharkhand
+JH_DUM_016,Subhash Kondh,APPROVED,2.0,24.4907,87.3513,Village_631,Dumka,Jharkhand
+JH_DUM_017,Ramkali Kondh,APPROVED,0.5,24.5175,87.2175,Village_496,Dumka,Jharkhand
+JH_DUM_018,Subal Singh,APPROVED,1.8,24.5528,86.9425,Village_701,Dumka,Jharkhand
+JH_DUM_019,Babulal Majhi,PENDING,1.8,24.223,87.6262,Village_918,Dumka,Jharkhand
+JH_DUM_020,Rekha Baiga,PENDING,1.7,24.1297,87.5475,Village_214,Dumka,Jharkhand
+JH_DEO_001,Guddu Pradhan,APPROVED,2.9,24.2648,86.9642,Village_555,Deoghar,Jharkhand
+JH_DEO_002,Soma Pradhan,PENDING,2.4,24.3581,86.558,Village_916,Deoghar,Jharkhand
+JH_DEO_003,Rita Korku,APPROVED,1.5,24.5678,86.6424,Village_979,Deoghar,Jharkhand
+JH_DEO_004,Saroja Oraon,PENDING,2.6,24.4919,86.761,Village_718,Deoghar,Jharkhand
+JH_DEO_005,Pushpa Munda,PENDING,1.2,24.5703,86.6139,Village_795,Deoghar,Jharkhand
+JH_DEO_006,Devi Koya,PENDING,1.1,24.2744,86.9211,Village_468,Deoghar,Jharkhand
+JH_DEO_007,Soni Birhor,PENDING,2.3,24.5756,86.8383,Village_958,Deoghar,Jharkhand
+JH_DEO_008,Laxman Ho,PENDING,1.2,24.4103,86.6283,Village_327,Deoghar,Jharkhand
+JH_DEO_009,Pratap Singh,PENDING,2.9,24.2062,86.684,Village_336,Deoghar,Jharkhand
+JH_DEO_010,Mohan Sahariya,PENDING,2.6,24.5627,86.7074,Village_586,Deoghar,Jharkhand
+JH_DEO_011,Manoj Birhor,PENDING,2.0,24.4057,86.636,Village_696,Deoghar,Jharkhand
+JH_DEO_012,Anitha Bhil,APPROVED,1.9,24.4482,86.8163,Village_999,Deoghar,Jharkhand
+JH_DEO_013,Lakshmi Koya,APPROVED,1.8,24.3064,86.6525,Village_964,Deoghar,Jharkhand
+JH_DEO_014,Rinku Nayak,APPROVED,2.8,24.2721,86.5114,Village_651,Deoghar,Jharkhand
+JH_DEO_015,Sarla Korku,PENDING,1.5,24.6168,86.7654,Village_843,Deoghar,Jharkhand
+JH_DEO_016,Chotu Birhor,APPROVED,1.1,24.1636,86.661,Village_188,Deoghar,Jharkhand
+JH_PAL_001,Kamini Munda,PENDING,0.6,23.9822,84.2595,Village_736,Palamu,Jharkhand
+JH_PAL_002,Shyam Korku,PENDING,2.5,24.3743,83.8386,Village_455,Palamu,Jharkhand
+JH_PAL_003,Savitri Naik,PENDING,0.9,24.1371,84.2783,Village_777,Palamu,Jharkhand
+JH_PAL_004,Bhagwan Singh,APPROVED,1.1,24.5384,83.9739,Village_371,Palamu,Jharkhand
+JH_PAL_005,Asha Oraon,APPROVED,2.4,24.5715,83.9628,Village_672,Palamu,Jharkhand
+JH_PAL_006,Shanti Meena,APPROVED,0.8,24.1116,84.5563,Village_169,Palamu,Jharkhand
+JH_PAL_007,Rinku Bhil,PENDING,1.0,24.2019,84.4767,Village_880,Palamu,Jharkhand
+JH_PAL_008,Rita Korku,APPROVED,1.9,24.0029,84.1921,Village_305,Palamu,Jharkhand
+JH_PAL_009,Rita Oraon,APPROVED,2.6,24.0206,84.1271,Village_507,Palamu,Jharkhand
+JH_PAL_010,Kamalamma Munda,PENDING,2.4,24.4195,84.0008,Village_795,Palamu,Jharkhand
+JH_PAL_011,Mohan Naik,PENDING,2.7,23.9629,84.4022,Village_463,Palamu,Jharkhand
+JH_PAL_012,Devanna Singh,PENDING,0.9,24.2839,84.0961,Village_372,Palamu,Jharkhand
+JH_PAL_013,Manoj Munda,APPROVED,2.5,24.3056,84.2385,Village_684,Palamu,Jharkhand
+JH_PAL_014,Ram Bai,APPROVED,2.3,24.0751,83.8852,Village_357,Palamu,Jharkhand
+JH_CHA_001,Sonali Sahariya,PENDING,3.0,24.2264,84.4857,Village_164,Chatra,Jharkhand
+JH_CHA_002,Saroja Bai,PENDING,0.5,24.3031,84.5885,Village_819,Chatra,Jharkhand
+JH_CHA_003,Veera Munda,PENDING,0.7,24.3613,84.6363,Village_141,Chatra,Jharkhand
+JH_CHA_004,Sanjay Kharia,PENDING,0.8,24.2238,85.2473,Village_205,Chatra,Jharkhand
+JH_CHA_005,Subhash Ekka,PENDING,1.2,24.0807,84.6213,Village_428,Chatra,Jharkhand
+JH_CHA_006,Pushpa Bhil,APPROVED,2.1,24.337,84.6626,Village_406,Chatra,Jharkhand
+JH_CHA_007,Jiten Naik,PENDING,0.6,24.0206,85.0443,Village_409,Chatra,Jharkhand
+JH_CHA_008,Sabita Kharia,APPROVED,1.9,24.2768,85.168,Village_574,Chatra,Jharkhand
+JH_CHA_009,Kamini Majhi,APPROVED,1.7,24.3602,84.9879,Village_593,Chatra,Jharkhand
+JH_CHA_010,Kishore Lambada,PENDING,0.6,24.3002,84.9663,Village_211,Chatra,Jharkhand
+JH_CHA_011,Bikash Birhor,PENDING,1.1,23.9862,85.1434,Village_827,Chatra,Jharkhand
+JH_CHA_012,Ramkali Korku,APPROVED,1.4,24.0153,85.1683,Village_944,Chatra,Jharkhand
+JH_CHA_013,Soni Birhor,APPROVED,1.9,24.1799,84.5723,Village_261,Chatra,Jharkhand
+JH_CHA_014,Meena Korku,PENDING,2.6,24.2199,85.0008,Village_200,Chatra,Jharkhand
+JH_CHA_015,Roshan Santhal,APPROVED,1.6,24.1603,85.0673,Village_704,Chatra,Jharkhand
+JH_CHA_016,Sabita Nayak,APPROVED,1.8,24.2285,84.9205,Village_271,Chatra,Jharkhand
+JH_CHA_017,Mohan Lambada,PENDING,0.6,24.2783,84.5265,Village_519,Chatra,Jharkhand
+JH_CHA_018,Kamalamma Kondh,PENDING,1.7,24.0298,85.2057,Village_612,Chatra,Jharkhand
+JH_CHA_019,Lukra Gond,APPROVED,1.7,23.7641,85.042,Village_740,Chatra,Jharkhand
+JH_GAR_001,Radhika Nayak,PENDING,1.2,24.2862,83.6295,Village_570,Garhwa,Jharkhand
+JH_GAR_002,Harish Lambada,APPROVED,0.9,24.1358,83.6326,Village_317,Garhwa,Jharkhand
+JH_GAR_003,Santi Naik,PENDING,2.0,24.4045,83.7288,Village_343,Garhwa,Jharkhand
+JH_GAR_004,Raghu Ho,PENDING,1.8,24.0075,83.5302,Village_528,Garhwa,Jharkhand
+JH_GAR_005,Gouranga Bai,APPROVED,2.3,24.2121,83.5115,Village_344,Garhwa,Jharkhand
+JH_GAR_006,Prakash Gond,PENDING,1.9,23.8563,83.7002,Village_539,Garhwa,Jharkhand
+JH_GAR_007,Devraj Kondh,APPROVED,1.5,24.2691,83.7137,Village_638,Garhwa,Jharkhand
+JH_GAR_008,Chotu Kharia,PENDING,0.9,24.0782,83.5016,Village_710,Garhwa,Jharkhand
+JH_GAR_009,Asha Ekka,APPROVED,0.6,24.4003,83.6898,Village_296,Garhwa,Jharkhand
+JH_GAR_010,Pothuraju Ekka,APPROVED,2.6,24.0636,83.8126,Village_848,Garhwa,Jharkhand
+JH_GAR_011,Rekha Munda,PENDING,0.8,24.0857,83.7075,Village_830,Garhwa,Jharkhand
+JH_GAR_012,Chotu Pradhan,PENDING,1.2,23.752,84.007,Village_623,Garhwa,Jharkhand
+JH_GAR_013,Anitha Sahariya,PENDING,0.9,24.4963,83.4594,Village_226,Garhwa,Jharkhand
+JH_GAR_014,Manoj Majhi,PENDING,1.6,24.3756,83.8091,Village_357,Garhwa,Jharkhand
+JH_GAR_015,Santosh Majhi,APPROVED,0.6,23.6166,83.7763,Village_800,Garhwa,Jharkhand
+JH_GAR_016,Chandan Lambada,APPROVED,2.7,24.2672,83.6613,Village_401,Garhwa,Jharkhand
+JH_GAR_017,Meera Singh,PENDING,1.2,23.9344,83.8339,Village_372,Garhwa,Jharkhand
+JH_JAM_001,Kamini Lambada,PENDING,0.6,23.9817,86.8711,Village_149,Jamtara,Jharkhand
+JH_JAM_002,Anjali Kondh,APPROVED,1.8,24.0501,86.8287,Village_789,Jamtara,Jharkhand
+JH_JAM_003,Sarita Kondh,PENDING,2.2,23.9802,86.7666,Village_425,Jamtara,Jharkhand
+JH_JAM_004,Veera Debbarma,APPROVED,1.9,23.981,86.6784,Village_571,Jamtara,Jharkhand
+JH_JAM_005,Sonali Koya,APPROVED,2.6,23.989,87.2436,Village_272,Jamtara,Jharkhand
+JH_JAM_006,Shanti Kharia,PENDING,2.5,24.0423,87.0404,Village_292,Jamtara,Jharkhand
+JH_JAM_007,Soma Gond,PENDING,3.0,24.046,87.0108,Village_776,Jamtara,Jharkhand
+JH_JAM_008,Ramkali Oraon,PENDING,1.3,23.9547,86.9022,Village_930,Jamtara,Jharkhand
+JH_JAM_009,Devraj Majhi,APPROVED,2.6,23.857,86.8567,Village_818,Jamtara,Jharkhand
+JH_JAM_010,Ajay Kharia,APPROVED,1.3,23.9815,87.176,Village_843,Jamtara,Jharkhand
+JH_JAM_011,Debu Oraon,APPROVED,1.8,23.939,87.1654,Village_636,Jamtara,Jharkhand
+JH_JAM_012,Durga Koya,PENDING,2.3,23.9356,86.9985,Village_171,Jamtara,Jharkhand
+JH_JAM_013,Biru Meena,APPROVED,1.1,23.9642,86.9358,Village_214,Jamtara,Jharkhand
+JH_JAM_014,Lukra Gond,PENDING,3.0,23.9579,86.8868,Village_353,Jamtara,Jharkhand
+JH_JAM_015,Radha Ho,PENDING,2.3,24.0677,87.0402,Village_246,Jamtara,Jharkhand
+JH_JAM_016,Anitha Sahariya,PENDING,1.7,23.9311,86.7423,Village_864,Jamtara,Jharkhand
+JH_JAM_017,Kumari Santhal,APPROVED,2.1,24.1501,86.7098,Village_603,Jamtara,Jharkhand
+JH_JAM_018,Pratap Kharia,APPROVED,0.7,24.0294,87.0512,Village_325,Jamtara,Jharkhand
+JH_JAM_019,Rita Debbarma,PENDING,1.4,23.9484,86.899,Village_816,Jamtara,Jharkhand
+JH_JAM_020,Gouranga Kharia,APPROVED,3.0,23.9261,86.966,Village_433,Jamtara,Jharkhand
+JH_DHA_001,Lakshmi Munda,PENDING,2.1,23.8932,86.1399,Village_324,Dhanbad,Jharkhand
+JH_DHA_002,Guddu Korku,PENDING,0.8,23.6544,86.4977,Village_662,Dhanbad,Jharkhand
+JH_DHA_003,Soni Kharia,PENDING,1.2,23.8124,86.419,Village_551,Dhanbad,Jharkhand
+JH_DHA_004,Bikash Majhi,PENDING,1.5,23.8922,86.6292,Village_656,Dhanbad,Jharkhand
+JH_DHA_005,Lopa Pradhan,PENDING,1.6,23.7393,86.6269,Village_719,Dhanbad,Jharkhand
+JH_DHA_006,Arjun Munda,APPROVED,2.8,23.8677,86.1457,Village_820,Dhanbad,Jharkhand
+JH_DHA_007,Nita Naik,APPROVED,2.0,23.975,86.4624,Village_813,Dhanbad,Jharkhand
+JH_DHA_008,Rakesh Sahariya,APPROVED,2.0,23.7659,86.6199,Village_763,Dhanbad,Jharkhand
+JH_DHA_009,Devanna Majhi,PENDING,1.7,23.8175,86.613,Village_228,Dhanbad,Jharkhand
+JH_DHA_010,Lukra Korku,APPROVED,1.1,24.058,86.3794,Village_159,Dhanbad,Jharkhand
+JH_DHA_011,Ram Oraon,APPROVED,2.6,23.7947,86.6457,Village_232,Dhanbad,Jharkhand
+JH_DHA_012,Sonali Ekka,PENDING,0.7,23.9742,86.3507,Village_219,Dhanbad,Jharkhand
+JH_DHA_013,Subal Bhil,PENDING,2.5,23.7466,86.7025,Village_312,Dhanbad,Jharkhand
+JH_DHA_014,Rupali Pradhan,PENDING,2.3,23.8457,86.7155,Village_378,Dhanbad,Jharkhand
+JH_DHA_015,Akash Kondh,PENDING,1.6,23.8686,86.4664,Village_262,Dhanbad,Jharkhand
+JH_DHA_016,Veera Koya,PENDING,2.8,23.7764,86.1758,Village_224,Dhanbad,Jharkhand
+JH_DHA_017,Sabita Pradhan,PENDING,2.4,23.8853,86.6352,Village_578,Dhanbad,Jharkhand
+JH_DHA_018,Rita Bai,APPROVED,2.5,23.767,86.777,Village_451,Dhanbad,Jharkhand
+JH_DHA_019,Raju Singh,PENDING,1.0,23.9714,86.5927,Village_988,Dhanbad,Jharkhand
+JH_LAT_001,Kiran Gond,PENDING,1.7,23.3478,84.0836,Village_971,Latehar,Jharkhand
+JH_LAT_002,Radhika Pradhan,PENDING,1.9,23.5972,84.1518,Village_961,Latehar,Jharkhand
+JH_LAT_003,Manisha Baiga,PENDING,1.3,23.9009,84.6295,Village_672,Latehar,Jharkhand
+JH_LAT_004,Narayan Koya,PENDING,1.4,23.691,84.2781,Village_689,Latehar,Jharkhand
+JH_LAT_005,Gita Meena,PENDING,2.8,23.9382,84.4367,Village_638,Latehar,Jharkhand
+JH_LAT_006,Devi Korku,PENDING,2.4,23.6165,84.1831,Village_935,Latehar,Jharkhand
+JH_LAT_007,Pushpa Naik,APPROVED,1.3,23.3929,84.0294,Village_243,Latehar,Jharkhand
+JH_LAT_008,Raja Kondh,APPROVED,2.1,23.6525,84.8876,Village_444,Latehar,Jharkhand
+JH_LAT_009,Rupali Kharia,PENDING,2.8,23.9404,84.7764,Village_359,Latehar,Jharkhand
+JH_LAT_010,Jayant Ho,APPROVED,2.8,23.5254,84.2567,Village_119,Latehar,Jharkhand
+JH_LAT_011,Manisha Bhil,APPROVED,1.7,23.8082,84.3234,Village_152,Latehar,Jharkhand
+JH_LAT_012,Shanti Sahariya,APPROVED,2.5,23.3823,84.1343,Village_545,Latehar,Jharkhand
+JH_LAT_013,Kamalamma Nayak,PENDING,1.2,23.5556,84.2521,Village_952,Latehar,Jharkhand
+JH_LAT_014,Soni Pradhan,PENDING,1.0,23.6767,84.7484,Village_901,Latehar,Jharkhand
+JH_LAT_015,Laxman Baiga,APPROVED,0.8,23.8343,84.2986,Village_321,Latehar,Jharkhand
+JH_LAT_016,Amar Sahariya,PENDING,2.8,23.5307,84.0556,Village_701,Latehar,Jharkhand
+JH_LAT_017,Lopa Meena,APPROVED,2.2,23.7777,84.7144,Village_591,Latehar,Jharkhand
+JH_BOK_001,Chotu Birhor,PENDING,1.9,23.722,85.8531,Village_386,Bokaro,Jharkhand
+JH_BOK_002,Gouranga Sahariya,APPROVED,1.9,23.4933,86.362,Village_181,Bokaro,Jharkhand
+JH_BOK_003,Kamalamma Singh,PENDING,0.8,23.7211,86.1649,Village_199,Bokaro,Jharkhand
+JH_BOK_004,Saroja Lambada,APPROVED,2.4,23.8497,85.9719,Village_966,Bokaro,Jharkhand
+JH_BOK_005,Kamini Singh,PENDING,1.7,23.6828,86.2761,Village_477,Bokaro,Jharkhand
+JH_BOK_006,Raghu Sahariya,PENDING,0.8,23.8789,86.0311,Village_995,Bokaro,Jharkhand
+JH_BOK_007,Prakash Ho,PENDING,1.6,23.6479,86.3138,Village_551,Bokaro,Jharkhand
+JH_BOK_008,Dinesh Bai,PENDING,2.1,23.9534,85.6851,Village_615,Bokaro,Jharkhand
+JH_BOK_009,Narayan Bai,PENDING,2.8,23.6115,85.9792,Village_458,Bokaro,Jharkhand
+JH_BOK_010,Veera Meena,PENDING,1.5,23.6672,86.0732,Village_955,Bokaro,Jharkhand
+JH_BOK_011,Devanna Korku,APPROVED,0.8,23.6811,86.2633,Village_518,Bokaro,Jharkhand
+JH_BOK_012,Ram Santhal,APPROVED,1.8,23.4683,86.2334,Village_933,Bokaro,Jharkhand
+JH_BOK_013,Linga Nayak,APPROVED,0.8,23.5592,86.2556,Village_913,Bokaro,Jharkhand
+JH_BOK_014,Anjali Pradhan,APPROVED,2.9,23.9136,85.8986,Village_365,Bokaro,Jharkhand
+JH_BOK_015,Ramkali Bai,APPROVED,0.5,23.8273,85.7288,Village_693,Bokaro,Jharkhand
+JH_BOK_016,Sunitha Korku,PENDING,1.0,23.9227,85.7405,Village_971,Bokaro,Jharkhand
+JH_BOK_017,Meera Birhor,PENDING,1.6,23.5382,86.2141,Village_786,Bokaro,Jharkhand
+JH_BOK_018,Asha Naik,PENDING,2.3,23.8295,85.914,Village_484,Bokaro,Jharkhand
+JH_BOK_019,Anitha Nayak,APPROVED,1.8,23.6562,86.1438,Village_380,Bokaro,Jharkhand
+JH_BOK_020,Mohan Munda,APPROVED,1.9,23.5599,86.3749,Village_983,Bokaro,Jharkhand
+JH_RAM_001,Rupali Ekka,APPROVED,2.1,23.85,85.5811,Village_868,Ramgarh,Jharkhand
+JH_RAM_002,Sumita Kharia,APPROVED,1.3,23.7529,85.5073,Village_695,Ramgarh,Jharkhand
+JH_RAM_003,Arjun Lambada,APPROVED,2.4,23.4507,85.7047,Village_717,Ramgarh,Jharkhand
+JH_RAM_004,Sunitha Gond,APPROVED,2.2,23.4608,85.8347,Village_687,Ramgarh,Jharkhand
+JH_RAM_005,Shanti Santhal,APPROVED,1.6,23.5935,85.5855,Village_482,Ramgarh,Jharkhand
+JH_RAM_006,Anjali Bhil,APPROVED,0.9,23.5415,85.6072,Village_839,Ramgarh,Jharkhand
+JH_RAM_007,Lakshmi Majhi,PENDING,1.2,23.5739,85.6647,Village_721,Ramgarh,Jharkhand
+JH_RAM_008,Gita Santhal,PENDING,1.5,23.4857,85.8017,Village_857,Ramgarh,Jharkhand
+JH_RAM_009,Ramesh Gond,APPROVED,0.6,23.7926,85.5333,Village_892,Ramgarh,Jharkhand
+JH_RAM_010,Devraj Kondh,PENDING,2.2,23.464,85.7739,Village_608,Ramgarh,Jharkhand
+JH_RAM_011,Raghu Munda,PENDING,1.7,23.6687,85.3244,Village_779,Ramgarh,Jharkhand
+JH_RAM_012,Rakhi Lambada,PENDING,2.2,23.6404,85.4422,Village_232,Ramgarh,Jharkhand
+JH_RAM_013,Reang Ekka,PENDING,2.1,23.7951,85.541,Village_508,Ramgarh,Jharkhand
+JH_RAM_014,Ram Munda,PENDING,1.3,23.5173,85.7963,Village_151,Ramgarh,Jharkhand
+JH_RAM_015,Sumita Santhal,APPROVED,1.7,23.4937,85.7001,Village_384,Ramgarh,Jharkhand
+JH_RAM_016,Krishna Santhal,APPROVED,1.9,23.8179,85.4849,Village_960,Ramgarh,Jharkhand
+JH_RAM_017,Savitri Debbarma,PENDING,2.8,23.7264,85.4771,Village_579,Ramgarh,Jharkhand
+JH_RAM_018,Shyam Pradhan,APPROVED,1.4,23.9265,85.6157,Village_371,Ramgarh,Jharkhand
+JH_RAM_019,Kamalamma Munda,APPROVED,1.3,23.6702,85.7653,Village_455,Ramgarh,Jharkhand
+JH_RAN_001,Babulal Pradhan,APPROVED,2.4,22.9639,85.7228,Village_150,Ranchi,Jharkhand
+JH_RAN_002,Kamini Santhal,APPROVED,2.9,23.3565,85.1169,Village_181,Ranchi,Jharkhand
+JH_RAN_003,Durga Bhil,PENDING,1.7,23.2125,85.4415,Village_641,Ranchi,Jharkhand
+JH_RAN_004,Gita Debbarma,PENDING,0.7,23.4055,85.2064,Village_405,Ranchi,Jharkhand
+JH_RAN_005,Santi Korku,PENDING,3.0,23.4403,85.3097,Village_841,Ranchi,Jharkhand
+JH_RAN_006,Rathnam Nayak,APPROVED,1.7,23.461,85.2343,Village_429,Ranchi,Jharkhand
+JH_RAN_007,Gopal Baiga,PENDING,1.9,23.1447,85.0008,Village_311,Ranchi,Jharkhand
+JH_RAN_008,Gopal Bai,APPROVED,2.3,23.0353,84.9742,Village_349,Ranchi,Jharkhand
+JH_RAN_009,Rinku Korku,PENDING,2.5,23.5083,85.206,Village_144,Ranchi,Jharkhand
+JH_RAN_010,Devi Majhi,APPROVED,1.1,23.1546,85.8011,Village_531,Ranchi,Jharkhand
+JH_RAN_011,Anjali Sahariya,APPROVED,0.9,23.4254,84.9275,Village_706,Ranchi,Jharkhand
+JH_RAN_012,Debu Kondh,APPROVED,2.1,23.6487,85.1098,Village_666,Ranchi,Jharkhand
+JH_LOH_001,Kamalamma Munda,APPROVED,1.0,23.4454,84.5725,Village_102,Lohardaga,Jharkhand
+JH_LOH_002,Debu Naik,PENDING,1.4,23.4522,84.5984,Village_939,Lohardaga,Jharkhand
+JH_LOH_003,Sita Kharia,APPROVED,1.2,23.4454,84.5527,Village_344,Lohardaga,Jharkhand
+JH_LOH_004,Sunitha Kharia,PENDING,1.7,23.3941,84.5418,Village_964,Lohardaga,Jharkhand
+JH_LOH_005,Ajay Oraon,APPROVED,1.7,23.4529,84.5915,Village_215,Lohardaga,Jharkhand
+JH_LOH_006,Kamini Ekka,PENDING,2.8,23.6414,84.5131,Village_855,Lohardaga,Jharkhand
+JH_LOH_007,Ajay Pradhan,APPROVED,1.2,23.5053,84.6851,Village_735,Lohardaga,Jharkhand
+JH_LOH_008,Harish Ekka,PENDING,2.0,23.5943,84.6355,Village_165,Lohardaga,Jharkhand
+JH_LOH_009,Lali Korku,APPROVED,1.0,23.5777,84.7692,Village_625,Lohardaga,Jharkhand
+JH_LOH_010,Anjali Oraon,APPROVED,2.6,23.6092,84.5932,Village_599,Lohardaga,Jharkhand
+JH_LOH_011,Akash Kharia,PENDING,2.6,23.4628,84.6226,Village_269,Lohardaga,Jharkhand
+JH_LOH_012,Shyam Koya,APPROVED,0.8,23.4262,84.6705,Village_523,Lohardaga,Jharkhand
+JH_GUM_001,Raja Sahariya,PENDING,0.5,23.2103,84.1526,Village_661,Gumla,Jharkhand
+JH_GUM_002,Krishna Naik,APPROVED,2.2,22.878,84.4305,Village_778,Gumla,Jharkhand
+JH_GUM_003,Manisha Meena,PENDING,0.7,23.3964,84.4131,Village_116,Gumla,Jharkhand
+JH_GUM_004,Devi Birhor,PENDING,2.8,22.7378,84.7956,Village_470,Gumla,Jharkhand
+JH_GUM_005,Ram Oraon,APPROVED,0.9,23.1536,84.7719,Village_138,Gumla,Jharkhand
+JH_GUM_006,Raju Ho,APPROVED,1.9,22.9579,84.7974,Village_292,Gumla,Jharkhand
+JH_GUM_007,Veera Birhor,APPROVED,2.3,23.0679,84.8343,Village_746,Gumla,Jharkhand
+JH_GUM_008,Anitha Ekka,PENDING,2.8,23.1138,84.8132,Village_144,Gumla,Jharkhand
+JH_GUM_009,Jiten Majhi,PENDING,1.1,23.4168,84.2865,Village_829,Gumla,Jharkhand
+JH_GUM_010,Sabita Ho,APPROVED,2.5,22.8419,84.4584,Village_236,Gumla,Jharkhand
+JH_GUM_011,Asha Ho,APPROVED,2.6,23.1199,84.1656,Village_473,Gumla,Jharkhand
+JH_GUM_012,Kishore Majhi,APPROVED,2.4,23.1431,84.8463,Village_971,Gumla,Jharkhand
+JH_GUM_013,Shyam Naik,PENDING,1.0,22.8591,84.4174,Village_112,Gumla,Jharkhand
+JH_GUM_014,Radha Lambada,PENDING,0.9,23.0725,84.5144,Village_679,Gumla,Jharkhand
+JH_GUM_015,Soma Majhi,PENDING,2.7,23.1592,84.4331,Village_705,Gumla,Jharkhand
+JH_GUM_016,Rakesh Korku,PENDING,3.0,23.1191,84.5922,Village_366,Gumla,Jharkhand
+JH_GUM_017,Ramkali Naik,PENDING,2.6,23.1661,84.3923,Village_568,Gumla,Jharkhand
+JH_GUM_018,Rakhi Lambada,PENDING,2.2,23.3153,84.3942,Village_872,Gumla,Jharkhand
+JH_GUM_019,Babulal Oraon,APPROVED,2.7,23.1358,84.8567,Village_366,Gumla,Jharkhand
+JH_KHU_001,Sarla Debbarma,APPROVED,1.4,23.1653,85.0988,Village_255,Khunti,Jharkhand
+JH_KHU_002,Ramesh Meena,APPROVED,1.9,23.1867,85.1601,Village_786,Khunti,Jharkhand
+JH_KHU_003,Jayant Kondh,PENDING,1.6,23.1042,85.1901,Village_467,Khunti,Jharkhand
+JH_KHU_004,Raghu Pradhan,PENDING,2.7,22.8725,85.3846,Village_220,Khunti,Jharkhand
+JH_KHU_005,Sarita Singh,APPROVED,1.4,22.9231,85.375,Village_422,Khunti,Jharkhand
+JH_KHU_006,Sarla Pradhan,PENDING,1.8,23.054,85.1717,Village_525,Khunti,Jharkhand
+JH_KHU_007,Rakesh Ekka,PENDING,2.4,23.0949,85.5563,Village_598,Khunti,Jharkhand
+JH_KHU_008,Anji Pradhan,APPROVED,1.2,22.9484,85.3013,Village_259,Khunti,Jharkhand
+JH_KHU_009,Asha Oraon,APPROVED,0.7,23.0542,85.3721,Village_830,Khunti,Jharkhand
+JH_KHU_010,Pratap Birhor,PENDING,0.7,22.9654,85.3637,Village_597,Khunti,Jharkhand
+JH_KHU_011,Ram Sahariya,PENDING,1.8,23.1962,85.1982,Village_827,Khunti,Jharkhand
+JH_KHU_012,Reang Pradhan,APPROVED,1.0,22.9432,85.4439,Village_454,Khunti,Jharkhand
+JH_KHU_013,Akash Pradhan,APPROVED,2.7,22.9471,85.0784,Village_981,Khunti,Jharkhand
+JH_KHU_014,Arjun Bai,PENDING,2.6,22.9915,85.0471,Village_961,Khunti,Jharkhand
+JH_SAR_001,Durga Nayak,APPROVED,2.5,22.7257,86.1392,Village_644,Saraikela-kharsawan,Jharkhand
+JH_SAR_002,Dinesh Majhi,PENDING,1.4,22.8894,86.0209,Village_307,Saraikela-kharsawan,Jharkhand
+JH_SAR_003,Santosh Bai,APPROVED,2.3,22.9143,85.792,Village_962,Saraikela-kharsawan,Jharkhand
+JH_SAR_004,Roshan Oraon,APPROVED,2.1,22.6406,85.9209,Village_926,Saraikela-kharsawan,Jharkhand
+JH_SAR_005,Asha Ho,PENDING,0.7,22.7446,85.7364,Village_337,Saraikela-kharsawan,Jharkhand
+JH_SAR_006,Kiran Koya,PENDING,1.5,22.8961,85.6559,Village_507,Saraikela-kharsawan,Jharkhand
+JH_SAR_007,Ram Korku,APPROVED,2.5,22.7475,86.0482,Village_649,Saraikela-kharsawan,Jharkhand
+JH_SAR_008,Raja Munda,APPROVED,0.8,22.9755,85.8896,Village_897,Saraikela-kharsawan,Jharkhand
+JH_SAR_009,Ramesh Baiga,APPROVED,1.4,22.5315,85.9382,Village_733,Saraikela-kharsawan,Jharkhand
+JH_SAR_010,Santosh Oraon,PENDING,1.0,23.0103,86.0386,Village_424,Saraikela-kharsawan,Jharkhand
+JH_SAR_011,Mallesh Debbarma,APPROVED,1.9,23.0603,86.1122,Village_476,Saraikela-kharsawan,Jharkhand
+JH_SAR_012,Raghu Ho,APPROVED,2.0,22.8462,85.713,Village_592,Saraikela-kharsawan,Jharkhand
+JH_SAR_013,Chandan Santhal,PENDING,2.7,22.7263,85.7778,Village_175,Saraikela-kharsawan,Jharkhand
+JH_SAR_014,Kishore Birhor,PENDING,0.6,22.7093,85.9284,Village_730,Saraikela-kharsawan,Jharkhand
+JH_PUR_001,Sumita Kharia,APPROVED,2.2,22.6808,86.5356,Village_121,Purbi Singhbhum,Jharkhand
+JH_PUR_002,Devanna Ho,APPROVED,2.2,22.9021,86.3381,Village_827,Purbi Singhbhum,Jharkhand
+JH_PUR_003,Gopal Meena,APPROVED,2.2,22.4066,86.6578,Village_867,Purbi Singhbhum,Jharkhand
+JH_PUR_004,Meera Baiga,PENDING,1.4,22.2787,86.719,Village_154,Purbi Singhbhum,Jharkhand
+JH_PUR_005,Lali Santhal,APPROVED,2.2,22.9838,86.3772,Village_567,Purbi Singhbhum,Jharkhand
+JH_PUR_006,Radha Debbarma,APPROVED,0.7,22.5345,86.0902,Village_628,Purbi Singhbhum,Jharkhand
+JH_PUR_007,Kamalamma Sahariya,PENDING,1.6,22.5366,86.3238,Village_757,Purbi Singhbhum,Jharkhand
+JH_PUR_008,Pushpa Sahariya,APPROVED,1.9,22.5475,86.1452,Village_192,Purbi Singhbhum,Jharkhand
+JH_PUR_009,Durga Kondh,PENDING,1.5,22.5105,86.2801,Village_477,Purbi Singhbhum,Jharkhand
+JH_PUR_010,Krishna Majhi,PENDING,2.0,22.3012,86.7055,Village_835,Purbi Singhbhum,Jharkhand
+JH_PUR_011,Krishna Ekka,APPROVED,2.3,22.6047,86.2178,Village_849,Purbi Singhbhum,Jharkhand
+JH_PUR_012,Devanna Birhor,APPROVED,1.1,22.4284,86.3094,Village_276,Purbi Singhbhum,Jharkhand
+JH_PUR_013,Biru Ekka,PENDING,0.5,22.385,86.8037,Village_821,Purbi Singhbhum,Jharkhand
+JH_PUR_014,Pinki Singh,APPROVED,1.2,22.5891,86.1418,Village_295,Purbi Singhbhum,Jharkhand
+JH_PUR_015,Raja Bai,APPROVED,2.5,22.4573,86.6842,Village_285,Purbi Singhbhum,Jharkhand
+JH_PUR_016,Subal Birhor,PENDING,1.3,22.3699,86.5164,Village_301,Purbi Singhbhum,Jharkhand
+JH_PAS_001,Akash Sahariya,PENDING,1.0,22.6865,85.1346,Village_678,Pashchimi Singhbhum,Jharkhand
+JH_PAS_002,Ramesh Singh,PENDING,2.7,22.1891,85.4681,Village_109,Pashchimi Singhbhum,Jharkhand
+JH_PAS_003,Subal Ekka,PENDING,1.9,22.298,85.5931,Village_449,Pashchimi Singhbhum,Jharkhand
+JH_PAS_004,Akash Lambada,APPROVED,2.1,22.4455,85.8789,Village_454,Pashchimi Singhbhum,Jharkhand
+JH_PAS_005,Santi Korku,APPROVED,2.3,22.4583,85.733,Village_137,Pashchimi Singhbhum,Jharkhand
+JH_PAS_006,Pratap Singh,APPROVED,1.2,22.6412,85.2607,Village_774,Pashchimi Singhbhum,Jharkhand
+JH_PAS_007,Asha Korku,PENDING,1.4,22.5603,85.5389,Village_378,Pashchimi Singhbhum,Jharkhand
+JH_PAS_008,Durga Ho,APPROVED,2.0,22.6191,85.6488,Village_843,Pashchimi Singhbhum,Jharkhand
+JH_PAS_009,Pratap Ho,APPROVED,2.5,22.0233,85.92,Village_307,Pashchimi Singhbhum,Jharkhand
+JH_PAS_010,Meena Debbarma,PENDING,2.1,22.0486,85.864,Village_253,Pashchimi Singhbhum,Jharkhand
+JH_PAS_011,Sonali Majhi,APPROVED,1.5,22.7532,85.5447,Village_709,Pashchimi Singhbhum,Jharkhand
+JH_SIM_001,Debu Naik,APPROVED,1.8,22.4595,84.675,Village_826,Simdega,Jharkhand
+JH_SIM_002,Sunil Pradhan,APPROVED,1.9,22.6013,85.0126,Village_302,Simdega,Jharkhand
+JH_SIM_003,Mohan Naik,APPROVED,1.2,22.7255,84.2521,Village_364,Simdega,Jharkhand
+JH_SIM_004,Meena Nayak,PENDING,0.5,22.4299,84.2568,Village_872,Simdega,Jharkhand
+JH_SIM_005,Kumari Birhor,PENDING,3.0,22.6693,84.5167,Village_657,Simdega,Jharkhand
+JH_SIM_006,Manisha Kondh,PENDING,1.9,22.7293,84.2852,Village_803,Simdega,Jharkhand
+JH_SIM_007,Jiten Korku,PENDING,1.2,22.4544,84.3175,Village_531,Simdega,Jharkhand
+JH_SIM_008,Kalia Meena,APPROVED,2.1,22.6874,84.3112,Village_533,Simdega,Jharkhand
+JH_SIM_009,Rinku Majhi,APPROVED,1.7,22.6598,84.8513,Village_391,Simdega,Jharkhand
+JH_SIM_010,Prakash Ho,PENDING,1.5,22.6565,84.7808,Village_528,Simdega,Jharkhand
+JH_SIM_011,Manoj Bai,APPROVED,1.3,22.5041,84.5337,Village_387,Simdega,Jharkhand
+JH_SIM_012,Bhagwan Kondh,APPROVED,1.4,22.514,84.4463,Village_142,Simdega,Jharkhand
+JH_SIM_013,Sita Bhil,APPROVED,1.2,22.5977,84.5952,Village_770,Simdega,Jharkhand
+JH_SIM_014,Narayan Nayak,APPROVED,1.8,22.5127,84.9212,Village_350,Simdega,Jharkhand
+JH_SIM_015,Ramesh Bhil,PENDING,1.8,22.6456,84.9362,Village_319,Simdega,Jharkhand
+JH_KOD_001,Sarla Baiga,PENDING,3.0,24.4934,85.586,Village_444,Kodarma,Jharkhand
+JH_KOD_002,Bhagwan Kharia,PENDING,1.5,24.7089,85.7359,Village_240,Kodarma,Jharkhand
+JH_KOD_003,Gita Kondh,APPROVED,2.9,24.4145,85.6138,Village_884,Kodarma,Jharkhand
+JH_KOD_004,Krishna Bhil,APPROVED,1.4,24.4746,85.4159,Village_168,Kodarma,Jharkhand
+JH_KOD_005,Meera Birhor,APPROVED,2.0,24.4201,85.8314,Village_360,Kodarma,Jharkhand
+JH_KOD_006,Rekha Kharia,APPROVED,2.5,24.3558,85.7898,Village_901,Kodarma,Jharkhand
+JH_KOD_007,Reang Oraon,PENDING,1.8,24.3144,85.7906,Village_765,Kodarma,Jharkhand
+JH_KOD_008,Jayant Debbarma,APPROVED,1.7,24.4238,85.6022,Village_268,Kodarma,Jharkhand
+JH_KOD_009,Shyam Bai,PENDING,1.9,24.4184,85.5323,Village_838,Kodarma,Jharkhand
+JH_KOD_010,Anitha Ho,PENDING,1.6,24.4024,85.8236,Village_846,Kodarma,Jharkhand
+JH_KOD_011,Ram Korku,PENDING,2.4,24.5146,85.4948,Village_691,Kodarma,Jharkhand
+JH_KOD_012,Mallaiah Singh,PENDING,0.7,24.3364,85.7609,Village_235,Kodarma,Jharkhand
+JH_KOD_013,Devraj Kondh,APPROVED,2.0,24.4245,85.7717,Village_836,Kodarma,Jharkhand
+JH_KOD_014,Asha Lambada,APPROVED,0.8,24.6891,85.7868,Village_722,Kodarma,Jharkhand
+JH_KOD_015,Gouranga Lambada,PENDING,1.1,24.7101,85.7544,Village_883,Kodarma,Jharkhand
+JH_KOD_016,Kalia Majhi,APPROVED,1.0,24.5699,85.5992,Village_465,Kodarma,Jharkhand
+JH_KOD_017,Narayan Munda,APPROVED,3.0,24.4677,85.6363,Village_776,Kodarma,Jharkhand
+JH_KOD_018,Rakhi Nayak,APPROVED,1.1,24.5537,85.6627,Village_648,Kodarma,Jharkhand
+JH_HAZ_001,Debu Ho,PENDING,2.9,24.0502,85.5652,Village_961,Hazaribagh,Jharkhand
+JH_HAZ_002,Laxman Sahariya,APPROVED,0.8,23.9845,85.2464,Village_324,Hazaribagh,Jharkhand
+JH_HAZ_003,Harish Sahariya,PENDING,1.8,23.8118,85.2169,Village_137,Hazaribagh,Jharkhand
+JH_HAZ_004,Savitri Singh,PENDING,2.0,24.1182,85.1976,Village_341,Hazaribagh,Jharkhand
+JH_HAZ_005,Debu Singh,PENDING,1.4,23.8401,85.4839,Village_141,Hazaribagh,Jharkhand
+JH_HAZ_006,Raghu Santhal,APPROVED,2.6,24.156,85.3198,Village_736,Hazaribagh,Jharkhand
+JH_HAZ_007,Sarla Gond,PENDING,2.7,24.2351,85.328,Village_124,Hazaribagh,Jharkhand
+JH_HAZ_008,Reena Gond,PENDING,1.0,23.7392,85.4285,Village_815,Hazaribagh,Jharkhand
+JH_HAZ_009,Debu Meena,PENDING,2.0,24.2797,85.5745,Village_132,Hazaribagh,Jharkhand
+JH_HAZ_010,Ramesh Pradhan,APPROVED,0.7,23.8055,85.354,Village_957,Hazaribagh,Jharkhand
+JH_HAZ_011,Chandan Gond,PENDING,2.3,24.3731,85.3009,Village_443,Hazaribagh,Jharkhand
+JH_HAZ_012,Subhash Pradhan,PENDING,1.4,23.8844,85.2794,Village_215,Hazaribagh,Jharkhand
+JH_HAZ_013,Radha Sahariya,PENDING,1.8,23.9457,85.3078,Village_566,Hazaribagh,Jharkhand
+JH_HAZ_014,Durga Ekka,PENDING,2.3,24.1609,85.2746,Village_375,Hazaribagh,Jharkhand
+JH_HAZ_015,Prakash Singh,APPROVED,0.9,24.3256,85.3858,Village_740,Hazaribagh,Jharkhand
+JH_HAZ_016,Kiran Munda,APPROVED,1.4,24.1236,85.5528,Village_285,Hazaribagh,Jharkhand
+JH_HAZ_017,Debu Oraon,PENDING,2.4,24.1963,85.5391,Village_140,Hazaribagh,Jharkhand
+OD_BHA_001,Lakshmi Santhal,PENDING,1.6,21.2021,86.8462,Village_170,Bhadrak,Odisha
+OD_BHA_002,Dinesh Gond,APPROVED,1.3,20.793,86.8089,Village_194,Bhadrak,Odisha
+OD_BHA_003,Mallaiah Nayak,PENDING,2.6,20.8925,86.4681,Village_769,Bhadrak,Odisha
+OD_BHA_004,Sunil Gond,PENDING,0.6,20.895,86.7375,Village_676,Bhadrak,Odisha
+OD_BHA_005,Veera Koya,PENDING,0.8,21.0446,86.6262,Village_407,Bhadrak,Odisha
+OD_BHA_006,Akash Nayak,APPROVED,0.7,21.1655,86.7057,Village_246,Bhadrak,Odisha
+OD_BHA_007,Radha Birhor,PENDING,1.9,21.194,86.404,Village_542,Bhadrak,Odisha
+OD_BHA_008,Prakash Bhil,PENDING,1.5,20.887,86.358,Village_227,Bhadrak,Odisha
+OD_BHA_009,Saroja Korku,APPROVED,2.8,20.8717,86.9008,Village_442,Bhadrak,Odisha
+OD_BHA_010,Nita Sahariya,APPROVED,2.2,20.8215,86.6916,Village_939,Bhadrak,Odisha
+OD_BHA_011,Jayant Ho,APPROVED,2.1,20.8818,86.6905,Village_207,Bhadrak,Odisha
+OD_BHA_012,Manoj Gond,PENDING,2.2,21.0405,86.779,Village_957,Bhadrak,Odisha
+OD_BHA_013,Soma Ekka,PENDING,1.1,21.0361,86.4851,Village_917,Bhadrak,Odisha
+OD_BHA_014,Ajay Kharia,PENDING,1.4,21.1086,86.4557,Village_359,Bhadrak,Odisha
+OD_BHA_015,Sita Lambada,PENDING,2.6,20.9821,86.5109,Village_998,Bhadrak,Odisha
+OD_BHA_016,Narayan Munda,PENDING,1.6,20.9721,86.3884,Village_965,Bhadrak,Odisha
+OD_BHA_017,Pinki Naik,PENDING,2.1,21.1362,86.7058,Village_764,Bhadrak,Odisha
+OD_DHE_001,Meena Debbarma,PENDING,1.5,20.5883,85.2636,Village_914,Dhenkanal,Odisha
+OD_DHE_002,Rekha Korku,PENDING,2.1,20.7989,85.8296,Village_857,Dhenkanal,Odisha
+OD_DHE_003,Babulal Bai,APPROVED,2.7,20.7758,85.3163,Village_471,Dhenkanal,Odisha
+OD_DHE_004,Lopa Gond,PENDING,2.4,20.5714,85.3383,Village_320,Dhenkanal,Odisha
+OD_DHE_005,Sunil Korku,PENDING,1.0,20.7639,85.7989,Village_972,Dhenkanal,Odisha
+OD_DHE_006,Laxman Naik,APPROVED,2.5,21.1025,85.4725,Village_566,Dhenkanal,Odisha
+OD_DHE_007,Durga Ho,APPROVED,1.4,20.8247,85.7417,Village_972,Dhenkanal,Odisha
+OD_DHE_008,Savitri Kondh,APPROVED,0.5,20.8676,85.5008,Village_484,Dhenkanal,Odisha
+OD_DHE_009,Sanjay Lambada,PENDING,0.5,20.9314,85.7738,Village_675,Dhenkanal,Odisha
+OD_DHE_010,Laxman Pradhan,PENDING,1.4,20.8869,85.6395,Village_545,Dhenkanal,Odisha
+OD_DHE_011,Subhash Pradhan,APPROVED,1.8,20.9708,85.3891,Village_175,Dhenkanal,Odisha
+OD_DHE_012,Devanna Kondh,PENDING,1.4,20.9887,85.4087,Village_171,Dhenkanal,Odisha
+OD_DHE_013,Anji Lambada,PENDING,3.0,21.082,85.3588,Village_223,Dhenkanal,Odisha
+OD_DHE_014,Meera Pradhan,APPROVED,1.9,21.073,85.6875,Village_169,Dhenkanal,Odisha
+OD_DHE_015,Anjali Majhi,PENDING,2.3,20.8979,85.3072,Village_849,Dhenkanal,Odisha
+OD_DHE_016,Shyam Munda,APPROVED,0.9,20.8071,85.4891,Village_587,Dhenkanal,Odisha
+OD_DHE_017,Raju Oraon,PENDING,2.2,20.9321,85.373,Village_923,Dhenkanal,Odisha
+OD_DHE_018,Reena Oraon,PENDING,2.1,20.8711,85.2712,Village_955,Dhenkanal,Odisha
+OD_DHE_019,Sarita Kharia,PENDING,1.6,21.0269,85.2412,Village_314,Dhenkanal,Odisha
+OD_DHE_020,Sonali Bai,PENDING,1.0,20.6599,85.3666,Village_273,Dhenkanal,Odisha
+OD_JAJ_001,Laxman Ho,PENDING,0.5,21.139,85.9925,Village_525,Jajapur,Odisha
+OD_JAJ_002,Kamini Nayak,PENDING,2.1,20.6583,86.2315,Village_783,Jajapur,Odisha
+OD_JAJ_003,Pothuraju Bhil,PENDING,2.7,20.7731,86.5147,Village_582,Jajapur,Odisha
+OD_JAJ_004,Anjali Ho,PENDING,2.8,20.7223,86.3813,Village_355,Jajapur,Odisha
+OD_JAJ_005,Sunitha Kondh,APPROVED,2.7,20.8199,86.0963,Village_988,Jajapur,Odisha
+OD_JAJ_006,Ramkali Baiga,PENDING,2.6,20.5987,86.372,Village_699,Jajapur,Odisha
+OD_JAJ_007,Mallaiah Oraon,APPROVED,1.9,21.0569,86.0206,Village_378,Jajapur,Odisha
+OD_JAJ_008,Asha Singh,PENDING,2.6,20.852,86.4795,Village_729,Jajapur,Odisha
+OD_JAJ_009,Jiten Koya,PENDING,1.5,21.0533,85.8001,Village_984,Jajapur,Odisha
+OD_JAJ_010,Pothuraju Singh,PENDING,1.8,21.0884,85.8437,Village_256,Jajapur,Odisha
+OD_JAJ_011,Narayan Oraon,PENDING,1.6,20.6566,86.3834,Village_664,Jajapur,Odisha
+OD_JAJ_012,Rakhi Gond,APPROVED,0.9,21.1054,85.741,Village_267,Jajapur,Odisha
+OD_JAJ_013,Raju Meena,APPROVED,2.5,20.9008,86.171,Village_148,Jajapur,Odisha
+OD_JAJ_014,Rakesh Pradhan,APPROVED,1.2,20.7633,86.0667,Village_839,Jajapur,Odisha
+OD_JAJ_015,Mallesh Kharia,APPROVED,0.9,20.8047,86.142,Village_970,Jajapur,Odisha
+OD_JAJ_016,Kamalamma Nayak,APPROVED,0.9,20.9508,85.8255,Village_362,Jajapur,Odisha
+OD_JAJ_017,Durga Pradhan,PENDING,2.6,20.9425,86.0766,Village_510,Jajapur,Odisha
+OD_JAJ_018,Raghu Oraon,PENDING,2.6,20.7357,86.075,Village_443,Jajapur,Odisha
+OD_SUB_001,Rakhi Kondh,APPROVED,1.5,20.8476,83.6843,Village_791,Subarnapur,Odisha
+OD_SUB_002,Pratap Ho,APPROVED,1.0,21.0885,83.6365,Village_705,Subarnapur,Odisha
+OD_SUB_003,Debu Koya,PENDING,0.8,20.7035,83.6649,Village_930,Subarnapur,Odisha
+OD_SUB_004,Ramesh Singh,PENDING,1.4,21.0731,83.8956,Village_788,Subarnapur,Odisha
+OD_SUB_005,Meera Oraon,APPROVED,0.8,21.0321,83.7048,Village_609,Subarnapur,Odisha
+OD_SUB_006,Sita Pradhan,APPROVED,2.9,20.7213,83.7541,Village_912,Subarnapur,Odisha
+OD_SUB_007,Kamalamma Bhil,APPROVED,1.1,20.8852,83.8063,Village_934,Subarnapur,Odisha
+OD_SUB_008,Bikash Pradhan,PENDING,0.9,20.8763,83.9832,Village_734,Subarnapur,Odisha
+OD_SUB_009,Amar Oraon,PENDING,2.2,21.0137,83.5177,Village_121,Subarnapur,Odisha
+OD_SUB_010,Ajay Gond,PENDING,2.9,20.8661,83.97,Village_528,Subarnapur,Odisha
+OD_NUA_001,Mallaiah Oraon,PENDING,0.9,20.4472,82.644,Village_914,Nuapada,Odisha
+OD_NUA_002,Pushpa Bhil,PENDING,2.6,21.0478,82.6531,Village_738,Nuapada,Odisha
+OD_NUA_003,Kamli Nayak,PENDING,0.6,20.152,82.4188,Village_196,Nuapada,Odisha
+OD_NUA_004,Meena Bhil,APPROVED,1.7,20.7029,82.5321,Village_283,Nuapada,Odisha
+OD_NUA_005,Amar Singh,PENDING,0.8,20.0698,82.4009,Village_532,Nuapada,Odisha
+OD_NUA_006,Sanjay Majhi,PENDING,1.6,20.0317,82.6646,Village_276,Nuapada,Odisha
+OD_NUA_007,Lakshmi Singh,APPROVED,1.2,20.1279,82.7017,Village_362,Nuapada,Odisha
+OD_NUA_008,Linga Kondh,APPROVED,1.4,20.4777,82.6025,Village_174,Nuapada,Odisha
+OD_NUA_009,Raju Debbarma,PENDING,1.0,20.1347,82.4971,Village_907,Nuapada,Odisha
+OD_NUA_010,Anjali Debbarma,APPROVED,0.8,20.3986,82.6095,Village_606,Nuapada,Odisha
+OD_NUA_011,Guddu Munda,PENDING,1.1,20.049,82.4622,Village_924,Nuapada,Odisha
+OD_NUA_012,Radha Majhi,PENDING,2.4,20.7309,82.6497,Village_532,Nuapada,Odisha
+OD_NUA_013,Sonali Munda,PENDING,0.9,20.793,82.5369,Village_174,Nuapada,Odisha
+OD_NUA_014,Rupali Oraon,PENDING,2.7,20.2264,82.8117,Village_480,Nuapada,Odisha
+OD_BAL_001,Guddu Korku,APPROVED,2.5,20.5258,82.8259,Village_952,Balangir,Odisha
+OD_BAL_002,Sonali Korku,PENDING,2.2,20.698,83.6048,Village_407,Balangir,Odisha
+OD_BAL_003,Pratap Ekka,APPROVED,2.1,20.5665,83.1889,Village_919,Balangir,Odisha
+OD_BAL_004,Meena Sahariya,APPROVED,0.6,20.5567,83.2065,Village_659,Balangir,Odisha
+OD_BAL_005,Rupali Debbarma,APPROVED,2.2,21.0253,83.3025,Village_715,Balangir,Odisha
+OD_BAL_006,Sarita Koya,APPROVED,1.3,20.7013,83.2622,Village_718,Balangir,Odisha
+OD_BAL_007,Devi Lambada,APPROVED,1.7,20.5345,83.0436,Village_702,Balangir,Odisha
+OD_BAL_008,Nita Bhil,PENDING,1.6,20.5889,83.5691,Village_715,Balangir,Odisha
+OD_BAL_009,Santi Gond,APPROVED,1.2,20.3687,83.0338,Village_318,Balangir,Odisha
+OD_BAL_010,Shanti Baiga,APPROVED,2.6,20.6301,83.4048,Village_197,Balangir,Odisha
+OD_BAL_011,Kalia Lambada,APPROVED,0.9,20.3379,83.0457,Village_269,Balangir,Odisha
+OD_BAL_012,Mohan Sahariya,APPROVED,2.7,20.7872,82.9054,Village_611,Balangir,Odisha
+OD_BAL_013,Ajay Meena,PENDING,1.7,20.6248,83.1273,Village_274,Balangir,Odisha
+OD_BAL_014,Rupali Bhil,APPROVED,0.8,20.4129,83.2523,Village_852,Balangir,Odisha
+OD_BAL_015,Raghu Birhor,PENDING,2.0,20.8759,83.2493,Village_730,Balangir,Odisha
+OD_BAL_016,Devanna Kharia,APPROVED,2.1,20.2496,83.126,Village_801,Balangir,Odisha
+OD_BAL_017,Guddu Koya,APPROVED,0.6,20.7017,82.9975,Village_799,Balangir,Odisha
+OD_BAL_018,Mohan Lambada,APPROVED,2.1,20.7772,83.3495,Village_186,Balangir,Odisha
+OD_BAU_001,Devanna Pradhan,APPROVED,2.9,20.5024,83.6377,Village_632,Baudh,Odisha
+OD_BAU_002,Rita Munda,PENDING,1.8,20.5623,84.4385,Village_472,Baudh,Odisha
+OD_BAU_003,Rekha Majhi,APPROVED,0.5,20.578,83.8629,Village_176,Baudh,Odisha
+OD_BAU_004,Lopa Meena,APPROVED,1.6,20.5643,84.5451,Village_540,Baudh,Odisha
+OD_BAU_005,Devanna Bhil,APPROVED,2.8,20.5432,83.7747,Village_900,Baudh,Odisha
+OD_BAU_006,Jiten Korku,APPROVED,2.0,20.8357,84.1999,Village_738,Baudh,Odisha
+OD_BAU_007,Anitha Bai,PENDING,2.7,20.59,83.9831,Village_804,Baudh,Odisha
+OD_BAU_008,Anitha Sahariya,PENDING,1.5,20.7579,84.0115,Village_825,Baudh,Odisha
+OD_BAU_009,Raghu Lambada,APPROVED,1.5,20.6842,84.1453,Village_175,Baudh,Odisha
+OD_BAU_010,Radhika Korku,PENDING,1.5,20.7212,84.3537,Village_490,Baudh,Odisha
+OD_BAU_011,Saroja Gond,PENDING,0.8,20.616,84.5541,Village_107,Baudh,Odisha
+OD_BAU_012,Gita Kharia,APPROVED,2.6,20.6465,84.5301,Village_562,Baudh,Odisha
+OD_BAU_013,Reena Bhil,PENDING,0.7,20.5913,84.5434,Village_194,Baudh,Odisha
+OD_BAU_014,Rakhi Baiga,APPROVED,0.6,20.7563,84.2788,Village_728,Baudh,Odisha
+OD_BAU_015,Arjun Nayak,APPROVED,2.7,20.5974,84.4787,Village_131,Baudh,Odisha
+OD_BAU_016,Kumari Santhal,PENDING,1.9,20.5159,84.4636,Village_985,Baudh,Odisha
+OD_BAU_017,Ajay Kondh,APPROVED,1.9,20.7576,84.1327,Village_823,Baudh,Odisha
+OD_BAU_018,Guddu Oraon,APPROVED,2.0,20.7727,84.216,Village_732,Baudh,Odisha
+OD_BAU_019,Raja Birhor,APPROVED,1.7,20.5474,83.7649,Village_633,Baudh,Odisha
+OD_BAU_020,Rakhi Munda,PENDING,1.0,20.6696,84.2398,Village_101,Baudh,Odisha
+OD_CUT_001,Reena Sahariya,PENDING,1.1,20.5326,85.7053,Village_961,Cuttack,Odisha
+OD_CUT_002,Mallesh Korku,PENDING,1.5,20.4437,85.0846,Village_148,Cuttack,Odisha
+OD_CUT_003,Kishore Korku,PENDING,2.8,20.4901,85.7548,Village_659,Cuttack,Odisha
+OD_CUT_004,Devraj Sahariya,APPROVED,2.8,20.5235,85.7336,Village_522,Cuttack,Odisha
+OD_CUT_005,Devi Munda,APPROVED,2.5,20.5352,85.0664,Village_492,Cuttack,Odisha
+OD_CUT_006,Santi Gond,PENDING,2.9,20.5527,85.0731,Village_971,Cuttack,Odisha
+OD_CUT_007,Kamli Pradhan,PENDING,2.2,20.4836,85.0012,Village_491,Cuttack,Odisha
+OD_CUT_008,Meena Gond,APPROVED,2.2,20.4484,85.7153,Village_436,Cuttack,Odisha
+OD_CUT_009,Sabita Gond,PENDING,2.8,20.5842,85.0449,Village_220,Cuttack,Odisha
+OD_CUT_010,Mohan Lambada,APPROVED,2.6,20.5611,86.0788,Village_243,Cuttack,Odisha
+OD_CUT_011,Lali Oraon,APPROVED,0.6,20.3378,85.4345,Village_203,Cuttack,Odisha
+OD_CUT_012,Shanti Gond,PENDING,1.6,20.3556,85.9111,Village_441,Cuttack,Odisha
+OD_CUT_013,Asha Birhor,APPROVED,1.2,20.3022,85.5785,Village_569,Cuttack,Odisha
+OD_CUT_014,Devanna Santhal,APPROVED,2.4,20.4895,85.3921,Village_280,Cuttack,Odisha
+OD_CUT_015,Sabita Kondh,APPROVED,1.0,20.4217,85.2969,Village_266,Cuttack,Odisha
+OD_CUT_016,Sumita Bhil,PENDING,2.7,20.5617,85.6704,Village_360,Cuttack,Odisha
+OD_CUT_017,Ajay Koya,PENDING,1.1,20.5905,85.1564,Village_242,Cuttack,Odisha
+OD_CUT_018,Durga Bai,PENDING,1.8,20.1628,86.0891,Village_838,Cuttack,Odisha
+OD_CUT_019,Anitha Meena,APPROVED,2.9,20.5846,86.2394,Village_986,Cuttack,Odisha
+OD_CUT_020,Sumita Kharia,APPROVED,1.4,20.2986,85.6199,Village_528,Cuttack,Odisha
+OD_KAN_001,Pushpa Pradhan,APPROVED,2.4,20.4106,84.3632,Village_364,Kandhamal,Odisha
+OD_KAN_002,Ajay Bai,APPROVED,1.2,19.6114,84.1946,Village_176,Kandhamal,Odisha
+OD_KAN_003,Chotu Singh,APPROVED,2.3,20.0987,84.2479,Village_506,Kandhamal,Odisha
+OD_KAN_004,Kamini Birhor,PENDING,1.9,19.8995,83.9991,Village_266,Kandhamal,Odisha
+OD_KAN_005,Rathnam Bai,APPROVED,1.1,20.2347,84.5307,Village_632,Kandhamal,Odisha
+OD_KAN_006,Ajay Pradhan,APPROVED,3.0,19.7548,84.007,Village_356,Kandhamal,Odisha
+OD_KAN_007,Pinki Pradhan,PENDING,0.9,19.785,83.7284,Village_778,Kandhamal,Odisha
+OD_KAN_008,Kalia Korku,APPROVED,2.8,20.3433,84.0523,Village_884,Kandhamal,Odisha
+OD_KAN_009,Dinesh Kharia,PENDING,1.3,19.9936,83.5989,Village_207,Kandhamal,Odisha
+OD_KAN_010,Roshan Oraon,APPROVED,2.7,19.9197,83.6334,Village_422,Kandhamal,Odisha
+OD_KAN_011,Jiten Meena,APPROVED,2.2,19.6851,83.7438,Village_599,Kandhamal,Odisha
+OD_KAN_012,Rupali Gond,PENDING,2.9,20.4672,84.2371,Village_721,Kandhamal,Odisha
+OD_NAY_001,Savitri Meena,APPROVED,2.6,20.3392,84.7249,Village_461,Nayagarh,Odisha
+OD_NAY_002,Babulal Kondh,PENDING,2.3,20.398,84.9154,Village_795,Nayagarh,Odisha
+OD_NAY_003,Kumari Nayak,APPROVED,1.5,20.0109,85.0208,Village_981,Nayagarh,Odisha
+OD_NAY_004,Lali Sahariya,APPROVED,2.3,20.4018,85.052,Village_683,Nayagarh,Odisha
+OD_NAY_005,Kishore Lambada,PENDING,1.2,20.1788,84.8602,Village_421,Nayagarh,Odisha
+OD_NAY_006,Raghu Gond,APPROVED,1.5,20.239,84.9595,Village_834,Nayagarh,Odisha
+OD_NAY_007,Shyam Pradhan,PENDING,2.6,20.5157,84.8382,Village_369,Nayagarh,Odisha
+OD_NAY_008,Savitri Kondh,PENDING,0.7,20.1866,84.5874,Village_621,Nayagarh,Odisha
+OD_NAY_009,Asha Singh,APPROVED,0.7,20.31,85.2841,Village_286,Nayagarh,Odisha
+OD_NAY_010,Subal Baiga,PENDING,2.0,20.0995,84.9599,Village_522,Nayagarh,Odisha
+OD_NAY_011,Shanti Munda,APPROVED,2.0,20.0956,85.0965,Village_989,Nayagarh,Odisha
+OD_NAY_012,Babulal Singh,PENDING,2.9,20.114,85.3917,Village_899,Nayagarh,Odisha
+OD_NAY_013,Raghu Singh,PENDING,2.0,20.2495,85.1421,Village_277,Nayagarh,Odisha
+OD_NAY_014,Jayant Gond,APPROVED,2.0,20.5349,84.7563,Village_777,Nayagarh,Odisha
+OD_KHO_001,Kamini Majhi,PENDING,1.9,19.7845,85.1072,Village_105,Khordha,Odisha
+OD_KHO_002,Harish Singh,APPROVED,1.3,20.2888,85.5806,Village_715,Khordha,Odisha
+OD_KHO_003,Krishna Sahariya,APPROVED,0.6,20.2218,85.8163,Village_801,Khordha,Odisha
+OD_KHO_004,Shanti Bai,PENDING,2.5,20.0025,85.4427,Village_124,Khordha,Odisha
+OD_KHO_005,Rekha Nayak,PENDING,1.7,20.2728,85.5272,Village_966,Khordha,Odisha
+OD_KHO_006,Santosh Meena,APPROVED,2.7,19.8582,85.2672,Village_952,Khordha,Odisha
+OD_KHO_007,Sonali Majhi,APPROVED,2.2,19.8749,85.2274,Village_309,Khordha,Odisha
+OD_KHO_008,Rupali Koya,PENDING,1.3,20.1131,85.4764,Village_714,Khordha,Odisha
+OD_KHO_009,Dinesh Sahariya,APPROVED,1.3,19.8239,85.2775,Village_667,Khordha,Odisha
+OD_KHO_010,Rekha Birhor,APPROVED,2.4,19.9995,85.4289,Village_111,Khordha,Odisha
+OD_KHO_011,Biru Kondh,PENDING,1.3,19.8221,85.2171,Village_740,Khordha,Odisha
+OD_KHO_012,Biru Singh,APPROVED,2.8,20.1716,85.4448,Village_427,Khordha,Odisha
+OD_KHO_013,Sarita Santhal,APPROVED,1.1,20.0347,85.4519,Village_806,Khordha,Odisha
+OD_KAL_001,Bikash Sahariya,PENDING,1.0,19.6533,82.6743,Village_205,Kalahandi,Odisha
+OD_KAL_002,Rathnam Koya,APPROVED,1.5,19.9521,82.7829,Village_948,Kalahandi,Odisha
+OD_KAL_003,Sarla Koya,PENDING,2.8,19.9455,82.7308,Village_891,Kalahandi,Odisha
+OD_KAL_004,Sunitha Nayak,APPROVED,2.7,19.7548,82.7281,Village_287,Kalahandi,Odisha
+OD_KAL_005,Biru Sahariya,APPROVED,0.7,20.1673,83.4739,Village_826,Kalahandi,Odisha
+OD_KAL_006,Manisha Pradhan,APPROVED,1.5,19.4292,82.9092,Village_947,Kalahandi,Odisha
+OD_KAL_007,Biru Bai,PENDING,1.9,19.6591,83.3184,Village_966,Kalahandi,Odisha
+OD_KAL_008,Sanjay Munda,APPROVED,0.6,19.8454,83.1513,Village_992,Kalahandi,Odisha
+OD_KAL_009,Raja Ho,APPROVED,2.2,19.7693,82.7429,Village_968,Kalahandi,Odisha
+OD_KAL_010,Bhagwan Oraon,PENDING,3.0,19.7995,82.8206,Village_824,Kalahandi,Odisha
+OD_KAL_011,Akash Santhal,APPROVED,1.4,20.2183,83.624,Village_300,Kalahandi,Odisha
+OD_KAL_012,Kamini Santhal,APPROVED,1.4,19.5755,83.1422,Village_912,Kalahandi,Odisha
+OD_KAL_013,Kalia Sahariya,PENDING,1.9,19.8265,83.2799,Village_423,Kalahandi,Odisha
+OD_KAL_014,Meena Sahariya,APPROVED,0.9,19.9631,83.0312,Village_467,Kalahandi,Odisha
+OD_KAL_015,Shanti Nayak,APPROVED,1.6,20.1877,83.338,Village_206,Kalahandi,Odisha
+OD_KAL_016,Sarla Munda,PENDING,2.6,19.7369,83.1928,Village_217,Kalahandi,Odisha
+OD_KAL_017,Krishna Nayak,APPROVED,0.7,20.3475,83.5775,Village_540,Kalahandi,Odisha
+OD_KAL_018,Jayant Koya,PENDING,2.2,19.8925,82.912,Village_889,Kalahandi,Odisha
+OD_JAG_001,Veera Lambada,PENDING,1.5,20.1075,86.3528,Village_352,Jagatsinghapur,Odisha
+OD_JAG_002,Santi Ekka,APPROVED,2.6,20.2,86.4849,Village_324,Jagatsinghapur,Odisha
+OD_JAG_003,Shanti Munda,PENDING,1.4,20.0386,86.3761,Village_129,Jagatsinghapur,Odisha
+OD_JAG_004,Guddu Debbarma,APPROVED,1.9,20.2077,86.452,Village_726,Jagatsinghapur,Odisha
+OD_JAG_005,Biru Kondh,APPROVED,2.4,20.1943,86.3938,Village_227,Jagatsinghapur,Odisha
+OD_JAG_006,Bikash Koya,APPROVED,2.1,20.2942,86.0397,Village_361,Jagatsinghapur,Odisha
+OD_JAG_007,Radhika Santhal,APPROVED,1.9,20.3135,86.4922,Village_850,Jagatsinghapur,Odisha
+OD_JAG_008,Sanjay Koya,APPROVED,1.0,20.213,86.2729,Village_335,Jagatsinghapur,Odisha
+OD_JAG_009,Pinki Koya,APPROVED,1.8,20.2183,86.5759,Village_991,Jagatsinghapur,Odisha
+OD_JAG_010,Harish Bai,PENDING,2.3,20.0927,86.3948,Village_913,Jagatsinghapur,Odisha
+OD_JAG_011,Rupali Bhil,PENDING,0.7,20.2854,86.5394,Village_114,Jagatsinghapur,Odisha
+OD_JAG_012,Lopa Koya,APPROVED,0.9,20.2726,86.3936,Village_199,Jagatsinghapur,Odisha
+OD_JAG_013,Saroja Santhal,PENDING,2.8,20.1488,86.4587,Village_307,Jagatsinghapur,Odisha
+OD_JAG_014,Durga Pradhan,APPROVED,2.8,20.2986,86.6375,Village_971,Jagatsinghapur,Odisha
+OD_JAG_015,Roshan Birhor,PENDING,2.8,20.2804,86.331,Village_708,Jagatsinghapur,Odisha
+OD_JAG_016,Durga Koya,APPROVED,0.8,20.0679,86.3779,Village_768,Jagatsinghapur,Odisha
+OD_JAG_017,Ramkali Bai,APPROVED,1.2,20.2628,86.4717,Village_703,Jagatsinghapur,Odisha
+OD_JAG_018,Jiten Naik,PENDING,1.9,20.2532,86.1185,Village_462,Jagatsinghapur,Odisha
+OD_JAG_019,Guddu Ho,PENDING,1.7,20.0658,86.3626,Village_141,Jagatsinghapur,Odisha
+OD_JAG_020,Prakash Bai,APPROVED,0.8,20.3247,86.3131,Village_867,Jagatsinghapur,Odisha
+OD_PUR_001,Kishore Lambada,PENDING,2.9,20.05,85.7781,Village_330,Puri,Odisha
+OD_PUR_002,Raghu Birhor,APPROVED,2.9,19.7761,85.7631,Village_988,Puri,Odisha
+OD_PUR_003,Rinku Korku,APPROVED,1.2,19.9801,85.8211,Village_355,Puri,Odisha
+OD_PUR_004,Ramesh Ekka,PENDING,1.5,20.07,85.8026,Village_876,Puri,Odisha
+OD_PUR_005,Kamini Munda,APPROVED,0.7,19.915,85.9614,Village_804,Puri,Odisha
+OD_PUR_006,Subal Kondh,APPROVED,0.6,19.6493,85.412,Village_580,Puri,Odisha
+OD_PUR_007,Sunitha Ho,PENDING,3.0,19.794,85.3836,Village_797,Puri,Odisha
+OD_PUR_008,Pothuraju Pradhan,APPROVED,0.9,20.0367,85.6895,Village_167,Puri,Odisha
+OD_PUR_009,Prakash Santhal,PENDING,2.8,19.7651,85.5177,Village_438,Puri,Odisha
+OD_PUR_010,Harish Sahariya,APPROVED,2.9,19.9949,85.8114,Village_567,Puri,Odisha
+OD_PUR_011,Kumari Sahariya,PENDING,2.5,19.8451,85.5645,Village_844,Puri,Odisha
+OD_NAB_001,Shanti Korku,PENDING,2.9,19.6247,82.1832,Village_359,Nabarangapur,Odisha
+OD_NAB_002,Babulal Santhal,PENDING,1.4,19.853,82.531,Village_986,Nabarangapur,Odisha
+OD_NAB_003,Shyam Gond,APPROVED,2.5,19.9308,82.1594,Village_592,Nabarangapur,Odisha
+OD_NAB_004,Durga Naik,PENDING,1.0,19.1476,82.2184,Village_774,Nabarangapur,Odisha
+OD_NAB_005,Anitha Majhi,APPROVED,1.5,19.8036,82.0783,Village_632,Nabarangapur,Odisha
+OD_NAB_006,Raghu Birhor,PENDING,2.7,19.4452,82.3143,Village_567,Nabarangapur,Odisha
+OD_NAB_007,Mallaiah Korku,APPROVED,2.4,19.3794,82.5149,Village_481,Nabarangapur,Odisha
+OD_NAB_008,Raju Debbarma,APPROVED,2.0,19.4809,82.3815,Village_658,Nabarangapur,Odisha
+OD_NAB_009,Linga Oraon,APPROVED,2.3,19.5113,82.4301,Village_160,Nabarangapur,Odisha
+OD_NAB_010,Linga Koya,PENDING,2.2,19.7373,82.3082,Village_587,Nabarangapur,Odisha
+OD_NAB_011,Sarita Birhor,PENDING,0.7,19.3118,82.5363,Village_185,Nabarangapur,Odisha
+OD_NAB_012,Pushpa Pradhan,PENDING,0.6,19.717,82.341,Village_107,Nabarangapur,Odisha
+OD_NAB_013,Reena Kondh,PENDING,2.8,19.6282,82.4011,Village_693,Nabarangapur,Odisha
+OD_NAB_014,Lopa Bhil,APPROVED,0.9,19.9286,82.2414,Village_513,Nabarangapur,Odisha
+OD_NAB_015,Mallaiah Gond,PENDING,2.7,19.2951,82.5307,Village_223,Nabarangapur,Odisha
+OD_NAB_016,Saroja Koya,PENDING,2.6,19.5356,82.1655,Village_843,Nabarangapur,Odisha
+OD_NAB_017,Kumari Lambada,APPROVED,2.0,19.5295,82.1483,Village_957,Nabarangapur,Odisha
+OD_NAB_018,Soma Naik,PENDING,1.7,19.2909,82.5879,Village_381,Nabarangapur,Odisha
+OD_NAB_019,Sita Sahariya,APPROVED,2.4,19.2722,82.398,Village_472,Nabarangapur,Odisha
+OD_RAY_001,Kiran Oraon,PENDING,0.8,19.3839,82.9686,Village_867,Rayagada,Odisha
+OD_RAY_002,Radha Bai,APPROVED,0.7,19.5163,83.104,Village_426,Rayagada,Odisha
+OD_RAY_003,Nita Debbarma,PENDING,0.5,19.2228,83.2572,Village_238,Rayagada,Odisha
+OD_RAY_004,Santosh Bhil,APPROVED,2.9,19.2327,82.9516,Village_818,Rayagada,Odisha
+OD_RAY_005,Mohan Kondh,APPROVED,1.4,19.4019,83.0777,Village_610,Rayagada,Odisha
+OD_RAY_006,Lopa Ekka,APPROVED,1.4,19.2474,83.787,Village_450,Rayagada,Odisha
+OD_RAY_007,Santosh Bhil,PENDING,2.9,19.3907,83.5567,Village_584,Rayagada,Odisha
+OD_RAY_008,Bhagwan Ekka,APPROVED,2.3,19.4321,83.2397,Village_399,Rayagada,Odisha
+OD_RAY_009,Bikash Meena,PENDING,1.1,19.3961,83.8993,Village_294,Rayagada,Odisha
+OD_RAY_010,Subal Majhi,PENDING,2.5,19.4364,83.0475,Village_557,Rayagada,Odisha
+OD_RAY_011,Kamini Pradhan,PENDING,1.7,19.4319,83.8779,Village_298,Rayagada,Odisha
+OD_RAY_012,Devi Munda,APPROVED,2.0,19.1447,83.6734,Village_642,Rayagada,Odisha
+OD_KOR_001,Meena Oraon,PENDING,2.7,18.8097,82.814,Village_261,Koraput,Odisha
+OD_KOR_002,Rekha Ho,APPROVED,1.7,18.5573,82.4489,Village_263,Koraput,Odisha
+OD_KOR_003,Savitri Ho,PENDING,2.1,18.7727,82.6486,Village_750,Koraput,Odisha
+OD_KOR_004,Meera Meena,PENDING,1.2,18.936,82.6881,Village_492,Koraput,Odisha
+OD_KOR_005,Rita Gond,PENDING,0.6,18.9298,83.0736,Village_733,Koraput,Odisha
+OD_KOR_006,Ajay Baiga,APPROVED,1.5,18.4776,82.5838,Village_850,Koraput,Odisha
+OD_KOR_007,Radhika Birhor,PENDING,2.3,18.717,82.3708,Village_211,Koraput,Odisha
+OD_KOR_008,Lali Pradhan,APPROVED,2.2,18.7056,82.225,Village_158,Koraput,Odisha
+OD_KOR_009,Meera Birhor,PENDING,2.3,18.5043,82.936,Village_894,Koraput,Odisha
+OD_KOR_010,Savitri Pradhan,APPROVED,1.0,19.1508,82.8933,Village_688,Koraput,Odisha
+OD_KOR_011,Bikash Santhal,PENDING,1.1,18.8115,82.4104,Village_183,Koraput,Odisha
+OD_KOR_012,Sonali Munda,APPROVED,2.1,18.8674,82.7019,Village_406,Koraput,Odisha
+OD_KOR_013,Narayan Koya,PENDING,2.4,18.6064,82.7769,Village_397,Koraput,Odisha
+OD_KOR_014,Asha Baiga,PENDING,2.9,18.6205,82.4654,Village_379,Koraput,Odisha
+OD_KOR_015,Gouranga Debbarma,PENDING,2.2,19.0518,82.5321,Village_158,Koraput,Odisha
+OD_KOR_016,Bikash Birhor,APPROVED,2.7,19.1471,82.3782,Village_428,Koraput,Odisha
+OD_MAL_001,Shanti Kharia,PENDING,2.1,18.0547,82.3319,Village_115,Malkangiri,Odisha
+OD_MAL_002,Pinki Baiga,APPROVED,2.8,18.2708,82.0842,Village_152,Malkangiri,Odisha
+OD_MAL_003,Pinki Baiga,APPROVED,2.3,18.1963,82.1842,Village_310,Malkangiri,Odisha
+OD_MAL_004,Kalia Majhi,PENDING,0.7,18.3108,82.3233,Village_167,Malkangiri,Odisha
+OD_MAL_005,Kumari Debbarma,APPROVED,2.3,18.415,82.0947,Village_833,Malkangiri,Odisha
+OD_MAL_006,Pinki Ho,APPROVED,2.7,18.6092,82.1532,Village_597,Malkangiri,Odisha
+OD_MAL_007,Roshan Sahariya,PENDING,1.7,18.1596,81.618,Village_991,Malkangiri,Odisha
+OD_MAL_008,Devraj Bhil,APPROVED,0.8,18.3323,82.2228,Village_542,Malkangiri,Odisha
+OD_MAL_009,Meena Kharia,APPROVED,1.3,18.2145,81.7358,Village_433,Malkangiri,Odisha
+OD_MAL_010,Ajay Lambada,PENDING,0.9,18.2395,81.5666,Village_936,Malkangiri,Odisha
+OD_MAL_011,Shyam Debbarma,PENDING,2.7,18.3607,82.1562,Village_247,Malkangiri,Odisha
+OD_ANU_001,Laxman Majhi,APPROVED,2.6,20.898,84.388,Village_906,Anugul,Odisha
+OD_ANU_002,Savitri Kharia,PENDING,2.0,21.5256,85.2826,Village_435,Anugul,Odisha
+OD_ANU_003,Santosh Meena,APPROVED,1.8,20.7237,85.0215,Village_455,Anugul,Odisha
+OD_ANU_004,Kamalamma Kharia,APPROVED,2.0,20.8069,85.0282,Village_184,Anugul,Odisha
+OD_ANU_005,Meera Kharia,APPROVED,2.8,20.8105,84.7709,Village_261,Anugul,Odisha
+OD_ANU_006,Lali Pradhan,PENDING,1.1,20.6744,84.6668,Village_331,Anugul,Odisha
+OD_ANU_007,Kamli Sahariya,PENDING,2.1,21.2953,85.067,Village_836,Anugul,Odisha
+OD_ANU_008,Ramkali Debbarma,APPROVED,2.2,20.8756,85.0373,Village_724,Anugul,Odisha
+OD_ANU_009,Jayant Koya,APPROVED,1.2,20.8508,85.0434,Village_960,Anugul,Odisha
+OD_ANU_010,Roshan Ho,APPROVED,1.2,20.6302,84.7232,Village_930,Anugul,Odisha
+OD_ANU_011,Kamini Birhor,PENDING,2.1,20.8646,84.8637,Village_225,Anugul,Odisha
+OD_ANU_012,Bikash Lambada,PENDING,0.9,20.8299,84.7654,Village_637,Anugul,Odisha
+OD_ANU_013,Sarla Pradhan,APPROVED,0.8,21.4456,85.2144,Village_659,Anugul,Odisha
+OD_KEN_001,Devraj Santhal,APPROVED,1.0,20.3546,86.6797,Village_642,Kendrapara,Odisha
+OD_KEN_002,Lakshmi Bai,APPROVED,1.1,20.3924,86.3929,Village_587,Kendrapara,Odisha
+OD_KEN_003,Soma Pradhan,APPROVED,2.0,20.4006,86.6767,Village_621,Kendrapara,Odisha
+OD_KEN_004,Sita Meena,APPROVED,0.7,20.6011,86.8437,Village_919,Kendrapara,Odisha
+OD_KEN_005,Debu Korku,APPROVED,1.9,20.4111,86.3171,Village_664,Kendrapara,Odisha
+OD_KEN_006,Soni Santhal,APPROVED,2.5,20.3546,86.4809,Village_667,Kendrapara,Odisha
+OD_KEN_007,Mallaiah Kondh,PENDING,0.9,20.3612,86.4485,Village_372,Kendrapara,Odisha
+OD_KEN_008,Durga Gond,PENDING,2.8,20.498,86.6481,Village_739,Kendrapara,Odisha
+OD_KEN_009,Rita Santhal,PENDING,2.8,20.6687,86.6199,Village_324,Kendrapara,Odisha
+OD_KEN_010,Kishore Majhi,PENDING,2.5,20.6133,86.5601,Village_760,Kendrapara,Odisha
+OD_GAN_001,Sabita Sahariya,PENDING,0.9,19.8271,84.6098,Village_322,Ganjam,Odisha
+OD_GAN_002,Meera Oraon,PENDING,2.5,20.1449,84.7172,Village_297,Ganjam,Odisha
+OD_GAN_003,Sarita Kondh,PENDING,1.3,20.2246,84.6554,Village_918,Ganjam,Odisha
+OD_GAN_004,Soni Bai,PENDING,0.6,19.8359,84.8604,Village_825,Ganjam,Odisha
+OD_GAN_005,Anjali Bhil,APPROVED,0.7,19.6754,84.312,Village_112,Ganjam,Odisha
+OD_GAN_006,Reang Pradhan,APPROVED,2.0,19.486,84.6074,Village_983,Ganjam,Odisha
+OD_GAN_007,Mallesh Pradhan,APPROVED,2.5,19.6023,84.914,Village_449,Ganjam,Odisha
+OD_GAN_008,Veera Naik,APPROVED,0.8,19.1463,84.7095,Village_617,Ganjam,Odisha
+OD_GAN_009,Anitha Sahariya,APPROVED,1.4,19.3422,84.904,Village_835,Ganjam,Odisha
+OD_GAN_010,Sunitha Baiga,APPROVED,2.2,19.4765,84.8611,Village_876,Ganjam,Odisha
+OD_GAN_011,Lali Majhi,PENDING,3.0,20.0482,84.5041,Village_121,Ganjam,Odisha
+OD_GAN_012,Kiran Koya,PENDING,2.6,19.8523,84.2103,Village_936,Ganjam,Odisha
+OD_GAN_013,Ramesh Bai,APPROVED,2.9,19.7496,84.1669,Village_609,Ganjam,Odisha
+OD_GAN_014,Amar Santhal,APPROVED,2.9,19.6299,85.0467,Village_649,Ganjam,Odisha
+OD_GAN_015,Akash Ekka,APPROVED,0.7,19.7624,84.4737,Village_391,Ganjam,Odisha
+OD_GAJ_001,Gouranga Sahariya,PENDING,1.9,19.3041,84.0436,Village_991,Gajapati,Odisha
+OD_GAJ_002,Krishna Munda,PENDING,0.7,19.3637,84.2802,Village_921,Gajapati,Odisha
+OD_GAJ_003,Lakshmi Debbarma,PENDING,0.7,18.969,84.0435,Village_792,Gajapati,Odisha
+OD_GAJ_004,Durga Santhal,PENDING,1.0,19.2461,84.0894,Village_377,Gajapati,Odisha
+OD_GAJ_005,Jiten Meena,PENDING,0.6,19.4129,84.1435,Village_929,Gajapati,Odisha
+OD_GAJ_006,Kishore Majhi,PENDING,2.5,19.2297,84.0858,Village_152,Gajapati,Odisha
+OD_GAJ_007,Meena Kondh,APPROVED,2.1,18.9292,84.3492,Village_103,Gajapati,Odisha
+OD_GAJ_008,Sita Ekka,PENDING,1.4,19.1772,84.259,Village_310,Gajapati,Odisha
+OD_GAJ_009,Asha Ho,PENDING,2.6,19.182,84.1933,Village_294,Gajapati,Odisha
+OD_GAJ_010,Kiran Sahariya,PENDING,2.4,18.9986,83.8186,Village_705,Gajapati,Odisha
+OD_GAJ_011,Chandan Meena,APPROVED,2.5,19.4794,84.1931,Village_241,Gajapati,Odisha
+OD_GAJ_012,Shyam Ho,PENDING,0.8,18.9381,84.4015,Village_366,Gajapati,Odisha
+OD_GAJ_013,Chotu Ho,PENDING,1.4,19.2889,84.3487,Village_728,Gajapati,Odisha
+OD_GAJ_014,Subhash Korku,PENDING,1.7,19.0351,84.0761,Village_187,Gajapati,Odisha
+OD_MAY_001,Soni Gond,APPROVED,2.7,22.0331,86.2863,Village_983,Mayurbhanj,Odisha
+OD_MAY_002,Sarita Munda,PENDING,1.0,21.4135,86.4613,Village_106,Mayurbhanj,Odisha
+OD_MAY_003,Linga Bai,PENDING,3.0,22.0769,86.8947,Village_286,Mayurbhanj,Odisha
+OD_MAY_004,Asha Pradhan,APPROVED,2.6,21.8824,86.2016,Village_961,Mayurbhanj,Odisha
+OD_MAY_005,Anitha Oraon,APPROVED,2.4,21.7771,86.6496,Village_180,Mayurbhanj,Odisha
+OD_MAY_006,Roshan Birhor,PENDING,1.2,21.6926,86.9089,Village_620,Mayurbhanj,Odisha
+OD_MAY_007,Mallesh Kharia,APPROVED,0.5,21.7745,86.8889,Village_324,Mayurbhanj,Odisha
+OD_MAY_008,Amar Santhal,PENDING,2.6,21.8559,87.0248,Village_675,Mayurbhanj,Odisha
+OD_MAY_009,Harish Ekka,APPROVED,2.1,21.9614,86.2415,Village_185,Mayurbhanj,Odisha
+OD_MAY_010,Santi Sahariya,APPROVED,1.1,22.3646,86.3403,Village_831,Mayurbhanj,Odisha
+OD_MAY_011,Devi Korku,APPROVED,2.0,21.6855,86.3411,Village_355,Mayurbhanj,Odisha
+OD_MAY_012,Guddu Baiga,PENDING,2.4,21.4439,86.3089,Village_185,Mayurbhanj,Odisha
+OD_MAY_013,Durga Pradhan,PENDING,1.5,21.9418,86.6025,Village_266,Mayurbhanj,Odisha
+OD_MAY_014,Jayant Santhal,PENDING,0.9,21.6776,86.3434,Village_637,Mayurbhanj,Odisha
+OD_SUN_001,Kiran Koya,APPROVED,2.8,22.0434,84.7605,Village_302,Sundargarh,Odisha
+OD_SUN_002,Debu Kondh,PENDING,2.5,22.1987,84.7681,Village_393,Sundargarh,Odisha
+OD_SUN_003,Gita Birhor,PENDING,0.9,21.7087,84.7634,Village_614,Sundargarh,Odisha
+OD_SUN_004,Sunil Baiga,PENDING,2.7,22.0168,84.8549,Village_981,Sundargarh,Odisha
+OD_SUN_005,Biru Ekka,APPROVED,2.9,22.2783,83.814,Village_375,Sundargarh,Odisha
+OD_SUN_006,Anji Nayak,PENDING,2.2,22.0039,83.5774,Village_460,Sundargarh,Odisha
+OD_SUN_007,Soni Meena,APPROVED,1.5,21.9895,83.9944,Village_353,Sundargarh,Odisha
+OD_SUN_008,Kamalamma Kharia,PENDING,1.8,22.2887,84.5885,Village_178,Sundargarh,Odisha
+OD_SUN_009,Anjali Singh,PENDING,2.3,21.9979,85.1284,Village_229,Sundargarh,Odisha
+OD_SUN_010,Linga Korku,PENDING,1.6,22.1723,83.8708,Village_904,Sundargarh,Odisha
+OD_SUN_011,Radhika Sahariya,PENDING,2.2,22.2864,84.6916,Village_733,Sundargarh,Odisha
+OD_SUN_012,Roshan Santhal,APPROVED,1.7,22.3754,84.2424,Village_528,Sundargarh,Odisha
+OD_SUN_013,Kamalamma Majhi,PENDING,1.3,21.8258,85.2419,Village_344,Sundargarh,Odisha
+OD_KEN_001,Manoj Nayak,PENDING,2.4,21.5825,85.5691,Village_746,Kendujhar,Odisha
+OD_KEN_002,Babulal Gond,PENDING,2.1,21.1991,85.6784,Village_514,Kendujhar,Odisha
+OD_KEN_003,Rakesh Munda,PENDING,1.9,21.6299,85.659,Village_609,Kendujhar,Odisha
+OD_KEN_004,Santosh Nayak,PENDING,1.5,21.2403,85.766,Village_867,Kendujhar,Odisha
+OD_KEN_005,Akash Debbarma,APPROVED,0.7,21.4373,85.4917,Village_211,Kendujhar,Odisha
+OD_KEN_006,Devraj Majhi,APPROVED,2.6,22.0724,85.5397,Village_577,Kendujhar,Odisha
+OD_KEN_007,Meera Bhil,PENDING,2.1,21.102,85.8183,Village_404,Kendujhar,Odisha
+OD_KEN_008,Radha Korku,PENDING,1.9,21.5551,85.8984,Village_742,Kendujhar,Odisha
+OD_KEN_009,Shyam Kharia,PENDING,0.7,21.2488,85.5485,Village_389,Kendujhar,Odisha
+OD_KEN_010,Reena Koya,APPROVED,1.4,21.2892,85.5148,Village_315,Kendujhar,Odisha
+OD_KEN_011,Prakash Nayak,APPROVED,2.9,21.5853,85.5838,Village_162,Kendujhar,Odisha
+OD_KEN_012,Sarita Ekka,PENDING,2.3,21.6166,85.8105,Village_675,Kendujhar,Odisha
+OD_KEN_013,Rita Meena,PENDING,1.7,21.3053,85.8752,Village_817,Kendujhar,Odisha
+OD_KEN_014,Kamli Nayak,PENDING,1.8,21.603,85.8597,Village_897,Kendujhar,Odisha
+OD_KEN_015,Pushpa Gond,APPROVED,2.4,21.2188,85.555,Village_984,Kendujhar,Odisha
+OD_KEN_016,Sumita Oraon,APPROVED,1.9,21.4598,85.9258,Village_646,Kendujhar,Odisha
+OD_BAL_001,Arjun Debbarma,PENDING,2.5,21.6152,87.2186,Village_954,Baleshwar,Odisha
+OD_BAL_002,Shanti Bhil,APPROVED,1.7,21.8564,87.2452,Village_355,Baleshwar,Odisha
+OD_BAL_003,Gopal Naik,APPROVED,1.4,21.2281,86.7999,Village_841,Baleshwar,Odisha
+OD_BAL_004,Guddu Naik,PENDING,1.4,21.4621,86.9113,Village_525,Baleshwar,Odisha
+OD_BAL_005,Reena Bhil,APPROVED,1.5,21.1539,86.5931,Village_351,Baleshwar,Odisha
+OD_BAL_006,Sunil Ekka,APPROVED,1.4,21.4964,86.8915,Village_634,Baleshwar,Odisha
+OD_BAL_007,Mallaiah Ho,APPROVED,1.4,21.7499,87.318,Village_577,Baleshwar,Odisha
+OD_BAL_008,Babulal Kharia,PENDING,1.0,21.266,86.8549,Village_708,Baleshwar,Odisha
+OD_BAL_009,Devanna Naik,PENDING,2.7,21.5154,86.734,Village_824,Baleshwar,Odisha
+OD_BAL_010,Dinesh Korku,PENDING,1.5,21.4087,86.6513,Village_391,Baleshwar,Odisha
+OD_BAL_011,Linga Birhor,PENDING,2.3,21.742,87.2802,Village_222,Baleshwar,Odisha
+OD_BAL_012,Sarita Korku,APPROVED,1.1,21.1849,86.5839,Village_963,Baleshwar,Odisha
+OD_BAL_013,Akash Korku,APPROVED,0.6,21.7145,87.3231,Village_390,Baleshwar,Odisha
+OD_BAL_014,Devanna Baiga,APPROVED,1.1,21.4521,86.9838,Village_612,Baleshwar,Odisha
+OD_BAL_015,Lali Naik,APPROVED,2.0,21.5129,86.9986,Village_800,Baleshwar,Odisha
+OD_BAL_016,Ajay Naik,PENDING,0.9,21.3001,86.5918,Village_989,Baleshwar,Odisha
+OD_BAL_017,Subhash Majhi,PENDING,1.8,21.7112,87.0947,Village_210,Baleshwar,Odisha
+OD_BAL_018,Sanjay Debbarma,PENDING,2.4,21.5236,86.686,Village_102,Baleshwar,Odisha
+OD_BAL_019,Santi Birhor,PENDING,2.7,21.4964,86.7724,Village_367,Baleshwar,Odisha
+OD_BAL_020,Nita Koya,APPROVED,2.3,21.5,86.7811,Village_483,Baleshwar,Odisha
+OD_JHA_001,Sunitha Kharia,APPROVED,2.9,21.6214,83.8075,Village_571,Jharsuguda,Odisha
+OD_JHA_002,Kiran Bhil,APPROVED,2.1,21.9219,84.358,Village_717,Jharsuguda,Odisha
+OD_JHA_003,Chandan Koya,PENDING,1.1,21.7575,83.9316,Village_256,Jharsuguda,Odisha
+OD_JHA_004,Dinesh Naik,APPROVED,2.2,21.6478,83.9126,Village_826,Jharsuguda,Odisha
+OD_JHA_005,Meera Gond,PENDING,0.7,21.6742,83.9426,Village_712,Jharsuguda,Odisha
+OD_JHA_006,Kamli Santhal,APPROVED,1.0,21.723,83.8861,Village_969,Jharsuguda,Odisha
+OD_JHA_007,Sunitha Meena,PENDING,0.7,21.9095,83.9911,Village_844,Jharsuguda,Odisha
+OD_JHA_008,Arjun Kondh,APPROVED,2.2,21.7283,83.7278,Village_500,Jharsuguda,Odisha
+OD_JHA_009,Jiten Korku,PENDING,2.9,21.8078,83.7741,Village_579,Jharsuguda,Odisha
+OD_JHA_010,Asha Lambada,APPROVED,1.5,21.8593,83.9644,Village_265,Jharsuguda,Odisha
+OD_JHA_011,Arjun Baiga,PENDING,1.8,21.8038,83.994,Village_829,Jharsuguda,Odisha
+OD_JHA_012,Saroja Oraon,PENDING,2.8,21.7773,83.5403,Village_299,Jharsuguda,Odisha
+OD_JHA_013,Reang Kharia,PENDING,1.6,21.9384,84.2263,Village_120,Jharsuguda,Odisha
+OD_JHA_014,Rekha Santhal,APPROVED,1.3,21.8058,84.0485,Village_109,Jharsuguda,Odisha
+OD_JHA_015,Mallaiah Koya,PENDING,2.8,22.0064,84.3003,Village_691,Jharsuguda,Odisha
+OD_JHA_016,Radhika Lambada,PENDING,2.6,21.803,83.8256,Village_230,Jharsuguda,Odisha
+OD_BAR_001,Anji Korku,PENDING,2.4,21.5266,83.4616,Village_169,Bargarh,Odisha
+OD_BAR_002,Savitri Sahariya,PENDING,2.6,20.8837,83.0508,Village_451,Bargarh,Odisha
+OD_BAR_003,Subhash Bhil,APPROVED,2.9,21.1558,83.2778,Village_236,Bargarh,Odisha
+OD_BAR_004,Veera Nayak,PENDING,2.9,20.9527,82.8827,Village_457,Bargarh,Odisha
+OD_BAR_005,Nita Ekka,PENDING,1.3,21.1815,83.7162,Village_472,Bargarh,Odisha
+OD_BAR_006,Radha Ekka,APPROVED,2.5,21.2721,83.7686,Village_135,Bargarh,Odisha
+OD_BAR_007,Devraj Koya,APPROVED,1.9,21.4992,83.8028,Village_808,Bargarh,Odisha
+OD_BAR_008,Savitri Majhi,PENDING,2.2,21.0376,83.1415,Village_146,Bargarh,Odisha
+OD_BAR_009,Chotu Majhi,PENDING,1.6,21.0422,83.1217,Village_245,Bargarh,Odisha
+OD_BAR_010,Meera Ekka,APPROVED,1.0,21.2914,83.6783,Village_452,Bargarh,Odisha
+OD_BAR_011,Sita Kondh,PENDING,2.8,21.2392,83.551,Village_634,Bargarh,Odisha
+OD_BAR_012,Radha Korku,PENDING,1.2,21.1338,83.8329,Village_572,Bargarh,Odisha
+OD_BAR_013,Debu Kondh,APPROVED,2.0,21.0048,82.7937,Village_621,Bargarh,Odisha
+OD_BAR_014,Bikash Pradhan,PENDING,1.2,21.3584,83.76,Village_555,Bargarh,Odisha
+OD_BAR_015,Kiran Gond,APPROVED,0.7,21.4282,83.4209,Village_274,Bargarh,Odisha
+OD_DEB_001,Anitha Ekka,PENDING,0.9,21.5552,85.1425,Village_382,Debagarh,Odisha
+OD_DEB_002,Rinku Koya,PENDING,2.7,21.3476,84.6421,Village_138,Debagarh,Odisha
+OD_DEB_003,Ajay Baiga,APPROVED,2.4,21.4248,84.8794,Village_667,Debagarh,Odisha
+OD_DEB_004,Ramesh Meena,APPROVED,2.3,21.457,84.6873,Village_940,Debagarh,Odisha
+OD_DEB_005,Jayant Sahariya,PENDING,1.1,21.6392,84.9938,Village_998,Debagarh,Odisha
+OD_DEB_006,Kamini Meena,APPROVED,2.9,21.2245,84.9254,Village_236,Debagarh,Odisha
+OD_DEB_007,Kamini Koya,PENDING,2.5,21.5423,84.8382,Village_135,Debagarh,Odisha
+OD_DEB_008,Kamalamma Bhil,APPROVED,0.8,21.3556,84.5732,Village_271,Debagarh,Odisha
+OD_DEB_009,Kishore Baiga,PENDING,0.8,21.3877,84.538,Village_292,Debagarh,Odisha
+OD_DEB_010,Laxman Majhi,APPROVED,2.5,21.2829,84.7835,Village_920,Debagarh,Odisha
+OD_DEB_011,Soni Majhi,PENDING,2.1,21.1465,84.9254,Village_402,Debagarh,Odisha
+OD_DEB_012,Bikash Pradhan,APPROVED,1.6,21.5348,84.6121,Village_739,Debagarh,Odisha
+OD_DEB_013,Sonali Ho,APPROVED,2.9,21.5606,84.9605,Village_644,Debagarh,Odisha
+OD_DEB_014,Harish Nayak,APPROVED,1.3,21.2879,84.8608,Village_637,Debagarh,Odisha
+OD_DEB_015,Ramesh Santhal,APPROVED,0.5,21.3156,84.8078,Village_573,Debagarh,Odisha
+OD_DEB_016,Ramkali Ekka,APPROVED,1.6,21.6128,84.7852,Village_498,Debagarh,Odisha
+OD_DEB_017,Jayant Majhi,APPROVED,2.5,21.3327,84.6608,Village_981,Debagarh,Odisha
+OD_DEB_018,Sarita Santhal,PENDING,1.2,21.4687,84.6515,Village_283,Debagarh,Odisha
+OD_DEB_019,Sanjay Nayak,APPROVED,0.7,21.5133,84.8888,Village_972,Debagarh,Odisha
+OD_DEB_020,Gita Pradhan,PENDING,2.0,21.3533,84.8315,Village_619,Debagarh,Odisha
+OD_SAM_001,Devanna Birhor,APPROVED,0.7,21.2803,84.5504,Village_414,Sambalpur,Odisha
+OD_SAM_002,Mohan Baiga,APPROVED,1.6,21.4542,84.0126,Village_317,Sambalpur,Odisha
+OD_SAM_003,Ramesh Koya,PENDING,2.8,21.4881,84.2686,Village_131,Sambalpur,Odisha
+OD_SAM_004,Anji Debbarma,PENDING,1.7,21.7857,84.015,Village_940,Sambalpur,Odisha
+OD_SAM_005,Ajay Ekka,PENDING,2.5,21.5306,84.0708,Village_101,Sambalpur,Odisha
+OD_SAM_006,Soni Santhal,APPROVED,0.6,21.7337,84.2992,Village_362,Sambalpur,Odisha
+OD_SAM_007,Bhagwan Koya,APPROVED,2.5,21.463,84.2925,Village_369,Sambalpur,Odisha
+OD_SAM_008,Rita Santhal,PENDING,2.7,21.1854,83.9469,Village_908,Sambalpur,Odisha
+OD_SAM_009,Sita Baiga,APPROVED,2.4,21.5332,84.0022,Village_982,Sambalpur,Odisha
+OD_SAM_010,Ramkali Bhil,APPROVED,0.8,21.4498,83.9288,Village_964,Sambalpur,Odisha
+OD_SAM_011,Rathnam Birhor,APPROVED,2.2,21.1193,84.3977,Village_420,Sambalpur,Odisha
+OD_SAM_012,Sabita Majhi,PENDING,0.9,21.58,84.0077,Village_447,Sambalpur,Odisha
+OD_SAM_013,Sonali Gond,APPROVED,0.5,21.1744,84.5545,Village_828,Sambalpur,Odisha
+OD_SAM_014,Lakshmi Oraon,APPROVED,1.3,21.325,83.992,Village_923,Sambalpur,Odisha
+OD_SAM_015,Raja Kharia,PENDING,2.5,21.7019,84.1853,Village_658,Sambalpur,Odisha
+OD_SAM_016,Pushpa Debbarma,PENDING,2.0,21.7483,84.3619,Village_153,Sambalpur,Odisha
+OD_SAM_017,Pratap Bhil,APPROVED,1.1,21.0729,84.6659,Village_721,Sambalpur,Odisha
+OD_SAM_018,Reena Lambada,APPROVED,1.8,21.4669,84.2977,Village_775,Sambalpur,Odisha
+OD_SAM_019,Kiran Ho,APPROVED,1.1,21.225,84.0533,Village_755,Sambalpur,Odisha
+TR_NOR_001,Sarla Koya,PENDING,2.5,24.4201,92.1948,Village_597,North Tripura,Tripura
+TR_NOR_002,Manisha Ho,PENDING,2.8,24.3871,92.2356,Village_742,North Tripura,Tripura
+TR_NOR_003,Manisha Naik,APPROVED,1.8,23.9383,92.2055,Village_641,North Tripura,Tripura
+TR_NOR_004,Saroja Munda,PENDING,1.4,23.883,92.2803,Village_631,North Tripura,Tripura
+TR_NOR_005,Mallaiah Meena,PENDING,0.8,24.0063,92.2439,Village_667,North Tripura,Tripura
+TR_NOR_006,Lali Oraon,PENDING,1.4,23.9131,92.1945,Village_477,North Tripura,Tripura
+TR_NOR_007,Saroja Singh,APPROVED,0.9,24.3458,92.1157,Village_836,North Tripura,Tripura
+TR_NOR_008,Bikash Bai,PENDING,2.7,24.4028,92.1351,Village_338,North Tripura,Tripura
+TR_NOR_009,Subhash Debbarma,APPROVED,2.2,24.2189,92.2185,Village_513,North Tripura,Tripura
+TR_NOR_010,Kamli Naik,APPROVED,1.2,23.8012,92.2008,Village_329,North Tripura,Tripura
+TR_NOR_011,Bikash Ekka,PENDING,2.0,24.0719,92.1632,Village_566,North Tripura,Tripura
+TR_NOR_012,Pushpa Santhal,PENDING,1.5,23.8474,92.1897,Village_142,North Tripura,Tripura
+TR_NOR_013,Chandan Ekka,PENDING,1.2,24.4087,92.1417,Village_960,North Tripura,Tripura
+TR_NOR_014,Anjali Majhi,PENDING,1.4,24.0596,92.2038,Village_865,North Tripura,Tripura
+TR_NOR_015,Santosh Pradhan,APPROVED,1.0,24.0101,92.2711,Village_179,North Tripura,Tripura
+TR_DHA_001,Anitha Ho,PENDING,2.0,23.6196,91.8536,Village_154,Dhalai,Tripura
+TR_DHA_002,Akash Korku,APPROVED,0.9,23.9106,92.092,Village_352,Dhalai,Tripura
+TR_DHA_003,Sarita Baiga,APPROVED,2.4,24.0269,92.0319,Village_317,Dhalai,Tripura
+TR_DHA_004,Ramesh Santhal,PENDING,0.7,23.715,92.0007,Village_381,Dhalai,Tripura
+TR_DHA_005,Kumari Pradhan,PENDING,2.3,23.82,92.1522,Village_273,Dhalai,Tripura
+TR_DHA_006,Sanjay Majhi,APPROVED,2.6,23.6871,91.8879,Village_582,Dhalai,Tripura
+TR_DHA_007,Subal Bai,APPROVED,2.0,23.6185,91.9342,Village_136,Dhalai,Tripura
+TR_DHA_008,Soni Kharia,PENDING,2.2,23.7391,91.812,Village_359,Dhalai,Tripura
+TR_DHA_009,Rinku Munda,APPROVED,2.9,23.4406,91.9405,Village_468,Dhalai,Tripura
+TR_DHA_010,Dinesh Meena,APPROVED,1.2,23.6649,91.8316,Village_664,Dhalai,Tripura
+TR_DHA_011,Linga Koya,APPROVED,1.1,23.8108,91.8951,Village_532,Dhalai,Tripura
+TR_DHA_012,Rinku Ho,APPROVED,2.0,23.9982,91.9069,Village_153,Dhalai,Tripura
+TR_SIP_001,Biru Ekka,APPROVED,1.6,23.5524,91.2036,Village_806,Sipahijala,Tripura
+TR_SIP_002,Ram Ekka,APPROVED,1.1,23.6019,91.1952,Village_116,Sipahijala,Tripura
+TR_SIP_003,Radha Santhal,APPROVED,2.4,23.4125,91.3011,Village_507,Sipahijala,Tripura
+TR_SIP_004,Ramkali Ekka,APPROVED,1.5,23.5352,91.3441,Village_687,Sipahijala,Tripura
+TR_SIP_005,Santi Birhor,PENDING,2.1,23.3605,91.3016,Village_916,Sipahijala,Tripura
+TR_SIP_006,Subal Ho,PENDING,2.3,23.6271,91.3084,Village_292,Sipahijala,Tripura
+TR_SIP_007,Shanti Lambada,APPROVED,2.6,23.3357,91.3669,Village_427,Sipahijala,Tripura
+TR_SIP_008,Guddu Munda,APPROVED,1.3,23.6789,91.3038,Village_510,Sipahijala,Tripura
+TR_SIP_009,Pratap Majhi,APPROVED,2.9,23.6084,91.4011,Village_376,Sipahijala,Tripura
+TR_SIP_010,Santi Lambada,APPROVED,2.7,23.6857,91.4603,Village_279,Sipahijala,Tripura
+TR_SIP_011,Devraj Debbarma,PENDING,2.2,23.6784,91.2934,Village_730,Sipahijala,Tripura
+TR_SIP_012,Ramesh Korku,PENDING,1.0,23.6194,91.2932,Village_946,Sipahijala,Tripura
+TR_SIP_013,Soma Kondh,PENDING,2.3,23.3996,91.3116,Village_905,Sipahijala,Tripura
+TR_SIP_014,Saroja Meena,PENDING,1.0,23.6168,91.4129,Village_791,Sipahijala,Tripura
+TR_GOM_001,Gita Debbarma,APPROVED,1.0,23.5224,91.4123,Village_708,Gomati,Tripura
+TR_GOM_002,Manoj Naik,PENDING,1.4,23.4836,91.6928,Village_846,Gomati,Tripura
+TR_GOM_003,Sunil Bhil,PENDING,2.0,23.5211,91.4217,Village_175,Gomati,Tripura
+TR_GOM_004,Amar Bhil,APPROVED,3.0,23.4572,91.6746,Village_224,Gomati,Tripura
+TR_GOM_005,Pushpa Sahariya,APPROVED,2.1,23.4317,91.7156,Village_201,Gomati,Tripura
+TR_GOM_006,Sarla Korku,PENDING,2.2,23.5241,91.7044,Village_684,Gomati,Tripura
+TR_GOM_007,Nita Kondh,APPROVED,1.1,23.6493,91.6374,Village_589,Gomati,Tripura
+TR_GOM_008,Babulal Ekka,APPROVED,1.7,23.5038,91.4167,Village_802,Gomati,Tripura
+TR_GOM_009,Mallesh Oraon,PENDING,2.2,23.689,91.6591,Village_240,Gomati,Tripura
+TR_GOM_010,Soma Nayak,APPROVED,1.6,23.5734,91.7517,Village_135,Gomati,Tripura
+TR_GOM_011,Bikash Naik,APPROVED,2.8,23.6748,91.5655,Village_173,Gomati,Tripura
+TR_GOM_012,Pushpa Oraon,APPROVED,1.4,23.5134,91.5073,Village_290,Gomati,Tripura
+TR_GOM_013,Ram Ho,APPROVED,1.5,23.4107,91.8099,Village_462,Gomati,Tripura
+TR_KHO_001,Soma Bai,APPROVED,2.4,23.874,91.7277,Village_379,Khowai,Tripura
+TR_KHO_002,Soni Bhil,APPROVED,2.7,23.9991,91.6059,Village_394,Khowai,Tripura
+TR_KHO_003,Lopa Nayak,PENDING,0.9,23.9204,91.6895,Village_493,Khowai,Tripura
+TR_KHO_004,Rathnam Nayak,PENDING,1.2,23.8066,91.6135,Village_389,Khowai,Tripura
+TR_KHO_005,Raghu Gond,APPROVED,2.0,24.219,91.6598,Village_329,Khowai,Tripura
+TR_KHO_006,Sabita Baiga,PENDING,1.0,23.8734,91.7233,Village_257,Khowai,Tripura
+TR_KHO_007,Reena Santhal,PENDING,2.5,23.8173,91.6939,Village_531,Khowai,Tripura
+TR_KHO_008,Kumari Debbarma,PENDING,1.5,23.7692,91.6109,Village_776,Khowai,Tripura
+TR_KHO_009,Jayant Ekka,PENDING,1.8,24.1384,91.6361,Village_954,Khowai,Tripura
+TR_KHO_010,Rathnam Majhi,APPROVED,2.7,24.034,91.5503,Village_141,Khowai,Tripura
+TR_KHO_011,Santi Santhal,APPROVED,2.3,24.0613,91.6794,Village_140,Khowai,Tripura
+TR_KHO_012,Saroja Pradhan,PENDING,1.0,23.7796,91.5989,Village_659,Khowai,Tripura
+TR_KHO_013,Kamli Ekka,PENDING,0.8,23.9896,91.5941,Village_412,Khowai,Tripura
+TR_KHO_014,Chandan Debbarma,APPROVED,2.3,23.8534,91.7043,Village_854,Khowai,Tripura
+TR_KHO_015,Kamini Sahariya,APPROVED,2.7,23.9456,91.6656,Village_699,Khowai,Tripura
+TR_KHO_016,Sarita Sahariya,PENDING,1.4,24.0281,91.5832,Village_354,Khowai,Tripura
+TR_KHO_017,Reang Oraon,APPROVED,1.7,23.7727,91.776,Village_426,Khowai,Tripura
+TR_WES_001,Soma Singh,APPROVED,2.3,23.7733,91.5246,Village_842,West Tripura,Tripura
+TR_WES_002,Raghu Korku,PENDING,0.9,23.7738,91.4926,Village_262,West Tripura,Tripura
+TR_WES_003,Kamini Korku,APPROVED,0.8,23.9078,91.3288,Village_686,West Tripura,Tripura
+TR_WES_004,Rathnam Kharia,PENDING,0.7,24.0967,91.4288,Village_334,West Tripura,Tripura
+TR_WES_005,Kishore Pradhan,APPROVED,2.6,23.9519,91.3075,Village_961,West Tripura,Tripura
+TR_WES_006,Raja Baiga,APPROVED,2.8,23.7785,91.3745,Village_819,West Tripura,Tripura
+TR_WES_007,Pothuraju Birhor,APPROVED,1.0,23.7747,91.4325,Village_190,West Tripura,Tripura
+TR_WES_008,Sarita Gond,PENDING,2.6,23.7986,91.3859,Village_998,West Tripura,Tripura
+TR_WES_009,Jiten Ekka,PENDING,1.9,23.8225,91.3893,Village_988,West Tripura,Tripura
+TR_WES_010,Chotu Bai,PENDING,1.7,23.962,91.3391,Village_835,West Tripura,Tripura
+TR_WES_011,Radha Santhal,APPROVED,0.8,23.9556,91.4828,Village_598,West Tripura,Tripura
+TR_WES_012,Debu Majhi,APPROVED,1.5,23.8693,91.3918,Village_583,West Tripura,Tripura
+TR_WES_013,Jiten Santhal,APPROVED,1.5,23.9693,91.3853,Village_754,West Tripura,Tripura
+TR_SOU_001,Anji Bhil,PENDING,2.7,22.9881,91.6856,Village_505,South Tripura,Tripura
+TR_SOU_002,Harish Oraon,PENDING,1.6,23.3968,91.4962,Village_366,South Tripura,Tripura
+TR_SOU_003,Kishore Oraon,PENDING,1.2,23.0523,91.7096,Village_954,South Tripura,Tripura
+TR_SOU_004,Mallesh Bai,PENDING,2.2,23.1552,91.7538,Village_350,South Tripura,Tripura
+TR_SOU_005,Meera Birhor,APPROVED,2.4,23.2103,91.7411,Village_596,South Tripura,Tripura
+TR_SOU_006,Raju Koya,PENDING,1.0,23.3589,91.6305,Village_560,South Tripura,Tripura
+TR_SOU_007,Soma Lambada,PENDING,0.8,23.1538,91.7339,Village_784,South Tripura,Tripura
+TR_SOU_008,Soma Sahariya,PENDING,1.4,23.0502,91.7629,Village_316,South Tripura,Tripura
+TR_SOU_009,Santosh Santhal,APPROVED,1.8,23.1945,91.696,Village_651,South Tripura,Tripura
+TR_SOU_010,Ram Santhal,PENDING,1.7,23.0425,91.6395,Village_408,South Tripura,Tripura
+TR_UNO_001,Sunitha Pradhan,APPROVED,1.9,24.366,91.9867,Village_516,Unokoti,Tripura
+TR_UNO_002,Subhash Kharia,APPROVED,0.5,24.2492,92.0857,Village_415,Unokoti,Tripura
+TR_UNO_003,Dinesh Majhi,PENDING,1.3,24.2146,92.0486,Village_493,Unokoti,Tripura
+TR_UNO_004,Reena Bhil,APPROVED,1.8,24.2976,91.9366,Village_439,Unokoti,Tripura
+TR_UNO_005,Rinku Meena,APPROVED,0.9,24.2567,92.0099,Village_937,Unokoti,Tripura
+TR_UNO_006,Rakhi Bai,APPROVED,0.8,24.2677,92.0003,Village_853,Unokoti,Tripura
+TR_UNO_007,Rinku Naik,APPROVED,1.4,24.3666,92.057,Village_834,Unokoti,Tripura
+TR_UNO_008,Krishna Nayak,PENDING,1.2,24.1751,92.1886,Village_892,Unokoti,Tripura
+TR_UNO_009,Sunil Bhil,APPROVED,1.2,24.338,92.0012,Village_872,Unokoti,Tripura
+TR_UNO_010,Kiran Sahariya,APPROVED,1.0,24.1788,92.127,Village_487,Unokoti,Tripura
+TR_UNO_011,Rita Singh,PENDING,2.3,24.1174,92.0394,Village_296,Unokoti,Tripura
+TR_UNO_012,Ajay Gond,APPROVED,1.5,24.3712,91.9858,Village_313,Unokoti,Tripura
+TR_UNO_013,Kishore Kondh,PENDING,1.3,24.1592,91.9521,Village_811,Unokoti,Tripura
+TR_UNO_014,Ramesh Nayak,APPROVED,1.9,24.2819,92.0497,Village_543,Unokoti,Tripura
+TR_UNO_015,Sunil Debbarma,PENDING,2.9,24.1249,92.0427,Village_269,Unokoti,Tripura
+TR_UNO_016,Sabita Munda,APPROVED,1.6,24.1134,92.0025,Village_370,Unokoti,Tripura
+TR_UNO_017,Mohan Oraon,APPROVED,2.5,24.1936,92.0821,Village_156,Unokoti,Tripura
+TR_UNO_018,Pratap Singh,PENDING,2.3,24.2377,91.9746,Village_907,Unokoti,Tripura
+TR_UNO_019,Sunil Bai,PENDING,1.2,24.0327,92.0823,Village_431,Unokoti,Tripura
+TR_UNO_020,Soni Bai,APPROVED,1.3,24.1083,92.1342,Village_571,Unokoti,Tripura
