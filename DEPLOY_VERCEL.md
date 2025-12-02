@@ -71,3 +71,13 @@ gh secret set VERCEL_PROJECT_ID --body "<project-id>"
 ```
 
 Once those secrets are in place, the CI workflow will deploy to Vercel automatically on successful builds on `main`.
+
+Helper script
+
+You can run a helper script locally to create a Vercel token and set the GitHub Actions secrets (requires `vercel` and `gh` CLIs):
+
+```bash
+./scripts/setup-vercel-secrets.sh
+```
+
+The script will prompt for the token name, Vercel project name and org id, then store the secrets in the specified GitHub repo.
