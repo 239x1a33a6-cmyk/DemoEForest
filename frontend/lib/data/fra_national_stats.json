@@ -1,0 +1,143 @@
+{
+    "national_summary": {
+        "total_claims_received": 4789234,
+        "total_titles_granted": 2156789,
+        "claims_under_processing": 1845678,
+        "disposal_rate": 61.5
+    },
+    "states": [
+        {
+            "state": "Odisha",
+            "total_claims_received": 892456,
+            "claims_disposed": 745234,
+            "titles_granted": 645234,
+            "pending_claims": 147222,
+            "rejected_claims": 100000,
+            "percent_completed": 83.5
+        },
+        {
+            "state": "Madhya Pradesh",
+            "total_claims_received": 756234,
+            "claims_disposed": 589456,
+            "titles_granted": 489456,
+            "pending_claims": 166778,
+            "rejected_claims": 100000,
+            "percent_completed": 77.9
+        },
+        {
+            "state": "Jharkhand",
+            "total_claims_received": 645123,
+            "claims_disposed": 487890,
+            "titles_granted": 387890,
+            "pending_claims": 157233,
+            "rejected_claims": 100000,
+            "percent_completed": 75.6
+        },
+        {
+            "state": "Telangana",
+            "total_claims_received": 534567,
+            "claims_disposed": 389234,
+            "titles_granted": 289234,
+            "pending_claims": 145333,
+            "rejected_claims": 100000,
+            "percent_completed": 72.8
+        },
+        {
+            "state": "Tripura",
+            "total_claims_received": 423789,
+            "claims_disposed": 298765,
+            "titles_granted": 198765,
+            "pending_claims": 125024,
+            "rejected_claims": 100000,
+            "percent_completed": 70.5
+        }
+    ],
+    "rights_categories": {
+        "IFR": {
+            "granted": 1456789,
+            "pending": 856234
+        },
+        "CFR": {
+            "granted": 523456,
+            "pending": 645123
+        },
+        "CR": {
+            "granted": 176544,
+            "pending": 344321
+        }
+    },
+    "monthly_trend": [
+        {
+            "month": "Jul",
+            "claims": 58000,
+            "grants": 42000
+        },
+        {
+            "month": "Aug",
+            "claims": 62000,
+            "grants": 48000
+        },
+        {
+            "month": "Sep",
+            "claims": 55000,
+            "grants": 45000
+        },
+        {
+            "month": "Oct",
+            "claims": 68000,
+            "grants": 52000
+        },
+        {
+            "month": "Nov",
+            "claims": 71000,
+            "grants": 58000
+        },
+        {
+            "month": "Dec",
+            "claims": 75000,
+            "grants": 61000
+        }
+    ],
+    "recent_events": [
+        {
+            "id": 1,
+            "type": "grant",
+            "title": "1,234 IFR titles granted in Odisha",
+            "state": "Odisha",
+            "date": "2025-11-28",
+            "count": 1234
+        },
+        {
+            "id": 2,
+            "type": "grant",
+            "title": "856 CFR titles approved in Madhya Pradesh",
+            "state": "Madhya Pradesh",
+            "date": "2025-11-27",
+            "count": 856
+        },
+        {
+            "id": 3,
+            "type": "reject",
+            "title": "234 claims rejected in Jharkhand",
+            "state": "Jharkhand",
+            "date": "2025-11-26",
+            "count": 234
+        },
+        {
+            "id": 4,
+            "type": "grant",
+            "title": "567 Community Rights granted in Telangana",
+            "state": "Telangana",
+            "date": "2025-11-25",
+            "count": 567
+        },
+        {
+            "id": 5,
+            "type": "grant",
+            "title": "423 IFR titles distributed in Tripura",
+            "state": "Tripura",
+            "date": "2025-11-24",
+            "count": 423
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "stateMapping": {
+        "Telangana": {
+            "code": "India_District_36_TG",
+            "districts": [
+                "Adilabad",
+                "Khammam",
+                "Warangal",
+                "Karimnagar",
+                "Nizamabad"
+            ]
+        },
+        "Odisha": {
+            "code": "India_District_21_OR",
+            "districts": [
+                "Koraput",
+                "Sundargarh",
+                "Mayurbhanj",
+                "Keonjhar",
+                "Kandhamal"
+            ]
+        },
+        "Madhya Pradesh": {
+            "code": "India_District_23_MP",
+            "districts": [
+                "Mandla",
+                "Betul",
+                "Dindori",
+                "Balaghat",
+                "Chhindwara"
+            ]
+        },
+        "Tripura": {
+            "code": "India_District_16_TR",
+            "districts": [
+                "Dhalai",
+                "West Tripura",
+                "North Tripura",
+                "South Tripura"
+            ]
+        },
+        "Jharkhand": {
+            "code": "India_District_20_JH",
+            "districts": [
+                "Ranchi",
+                "Gumla",
+                "Simdega",
+                "West Singhbhum",
+                "East Singhbhum"
+            ]
+        },
+        "Chhattisgarh": {
+            "code": "India_District_22_CT",
+            "districts": [
+                "Bastar",
+                "Dantewada",
+                "Kanker",
+                "Kondagaon",
+                "Narayanpur"
+            ]
+        }
+    },
+    "tribalGroups": [
+        "Gond",
+        "Bhil",
+        "Santhal",
+        "Oraon",
+        "Munda",
+        "Koya",
+        "Kondh",
+        "Baiga",
+        "Korku",
+        "Bhilala",
+        "Tripuri",
+        "Debbarma",
+        "Reang",
+        "Jamatia",
+        "Halam",
+        "Kolam",
+        "Pardhan",
+        "Lambada",
+        "Paroja",
+        "Gadaba",
+        "Kharia",
+        "Kisan",
+        "PVTG"
+    ]
+}

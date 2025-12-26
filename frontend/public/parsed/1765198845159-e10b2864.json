@@ -1,0 +1,85 @@
+{
+  "claims": [
+    {
+      "claim_id": "1765198845159-e10b2864-1-1",
+      "document": "/uploads/1765198845159-e10b2864-sample_claims_generated.pdf",
+      "page": 1,
+      "name": "",
+      "village": "",
+      "district": "",
+      "state": "",
+      "structured_json_found": false,
+      "raw_text": "",
+      "extraction_confidence": 0,
+      "validation": {
+        "missing_fields": [
+          "name",
+          "village",
+          "district",
+          "state"
+        ],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": true,
+        "explanations": [
+          "Claimant name is missing",
+          "Village name is missing",
+          "District is missing",
+          "State is missing",
+          "Low extraction confidence (0%)"
+        ]
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1765198845159-e10b2864-1",
+        "properties": {
+          "claim_id": "1765198845159-e10b2864-1",
+          "validation": {
+            "missing_fields": [
+              "name",
+              "village",
+              "district",
+              "state"
+            ],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": true,
+            "explanations": [
+              "Claimant name is missing",
+              "Village name is missing",
+              "District is missing",
+              "State is missing",
+              "Low extraction confidence (0%)"
+            ]
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0
+        },
+        "geometry": null
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 0,
+    "missingCoordinates": 1,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "sample_claims_generated.pdf",
+    "fileSize": 2055,
+    "checksum": "sha256:dc0477bb9255d287b50fadcd19ec594c58770a8954d75008485b3876da8e2b9a",
+    "processedAt": "2025-12-08T13:00:45.163Z"
+  }
+}

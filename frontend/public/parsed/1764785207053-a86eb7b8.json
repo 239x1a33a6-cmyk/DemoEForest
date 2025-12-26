@@ -1,0 +1,85 @@
+{
+  "claims": [
+    {
+      "claim_id": "1764785207053-a86eb7b8-1-1",
+      "document": "/uploads/1764785207053-a86eb7b8-Final Schedule for SIH 2025 Software_28_11.pdf",
+      "page": 1,
+      "name": "",
+      "village": "",
+      "district": "",
+      "state": "",
+      "structured_json_found": false,
+      "raw_text": "",
+      "extraction_confidence": 0,
+      "validation": {
+        "missing_fields": [
+          "name",
+          "village",
+          "district",
+          "state"
+        ],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": true,
+        "explanations": [
+          "Claimant name is missing",
+          "Village name is missing",
+          "District is missing",
+          "State is missing",
+          "Low extraction confidence (0%)"
+        ]
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1764785207053-a86eb7b8-1",
+        "properties": {
+          "claim_id": "1764785207053-a86eb7b8-1",
+          "validation": {
+            "missing_fields": [
+              "name",
+              "village",
+              "district",
+              "state"
+            ],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": true,
+            "explanations": [
+              "Claimant name is missing",
+              "Village name is missing",
+              "District is missing",
+              "State is missing",
+              "Low extraction confidence (0%)"
+            ]
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0
+        },
+        "geometry": null
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 0,
+    "missingCoordinates": 1,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "Final Schedule for SIH 2025 Software_28_11.pdf",
+    "fileSize": 621169,
+    "checksum": "sha256:6279a2c533c04ca118ba2fb54b6908442da4ee8b6e3c44107d6ebcd6cc9d5e2f",
+    "processedAt": "2025-12-03T18:06:47.060Z"
+  }
+}

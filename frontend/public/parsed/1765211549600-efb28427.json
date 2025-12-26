@@ -1,0 +1,85 @@
+{
+  "claims": [
+    {
+      "claim_id": "1765211549600-efb28427-1-1",
+      "document": "/uploads/1765211549600-efb28427-sample_claims_clustered_jharkhand.pdf",
+      "page": 1,
+      "name": "",
+      "village": "",
+      "district": "",
+      "state": "",
+      "structured_json_found": false,
+      "raw_text": "",
+      "extraction_confidence": 0,
+      "validation": {
+        "missing_fields": [
+          "name",
+          "village",
+          "district",
+          "state"
+        ],
+        "invalid_fields": [],
+        "duplicate": false,
+        "cluster_flag": false,
+        "out_of_state": false,
+        "low_confidence": true,
+        "explanations": [
+          "Claimant name is missing",
+          "Village name is missing",
+          "District is missing",
+          "State is missing",
+          "Low extraction confidence (0%)"
+        ]
+      }
+    }
+  ],
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "1765211549600-efb28427-1",
+        "properties": {
+          "claim_id": "1765211549600-efb28427-1",
+          "validation": {
+            "missing_fields": [
+              "name",
+              "village",
+              "district",
+              "state"
+            ],
+            "invalid_fields": [],
+            "duplicate": false,
+            "cluster_flag": false,
+            "out_of_state": false,
+            "low_confidence": true,
+            "explanations": [
+              "Claimant name is missing",
+              "Village name is missing",
+              "District is missing",
+              "State is missing",
+              "Low extraction confidence (0%)"
+            ]
+          },
+          "structured_json_found": false,
+          "extraction_confidence": 0
+        },
+        "geometry": null
+      }
+    ]
+  },
+  "validationSummary": {
+    "total": 1,
+    "valid": 0,
+    "invalid": 0,
+    "missingCoordinates": 1,
+    "duplicates": 0,
+    "clustered": 0
+  },
+  "metadata": {
+    "originalName": "sample_claims_clustered_jharkhand.pdf",
+    "fileSize": 3825,
+    "checksum": "sha256:44ee660ea9a7177d908cda99971348bc40897503e57dd68550e20eda9d574709",
+    "processedAt": "2025-12-08T16:32:29.604Z"
+  }
+}

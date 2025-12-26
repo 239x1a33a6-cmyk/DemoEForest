@@ -1,0 +1,271 @@
+/* Custom Leaflet Styles for FRA Coverage Map */
+
+/* Marker Clusters */
+.marker-cluster-small {
+    background-color: rgba(34, 197, 94, 0.6);
+}
+
+.marker-cluster-small div {
+    background-color: rgba(34, 197, 94, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+.marker-cluster-medium {
+    background-color: rgba(234, 179, 8, 0.6);
+}
+
+.marker-cluster-medium div {
+    background-color: rgba(234, 179, 8, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+.marker-cluster-large {
+    background-color: rgba(239, 68, 68, 0.6);
+}
+
+.marker-cluster-large div {
+    background-color: rgba(239, 68, 68, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+/* Custom Popup Styles */
+.leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.leaflet-popup-content {
+    margin: 12px 16px;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+.claim-popup-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #e5e7eb;
+}
+
+.claim-popup-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 12px;
+}
+
+.claim-popup-label {
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.claim-popup-value {
+    color: #111827;
+    font-weight: 600;
+}
+
+.claim-status-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.claim-status-approved {
+    background-color: #dcfce7;
+    color: #166534;
+}
+
+.claim-status-pending {
+    background-color: #fef9c3;
+    color: #854d0e;
+}
+
+.claim-status-rejected {
+    background-color: #fee2e2;
+    color: #991b1b;
+}
+
+/* Custom Tooltip */
+.leaflet-tooltip {
+    background-color: rgba(17, 24, 39, 0.95);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 6px 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+    border-top-color: rgba(17, 24, 39, 0.95);
+}
+
+/* Map Controls */
+.leaflet-control-layers {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.leaflet-control-zoom a {
+    border-radius: 4px;
+}
+
+/* Custom Marker Icons */
+/* Custom Leaflet Styles for FRA Coverage Map */
+
+/* Marker Clusters */
+.marker-cluster-small {
+    background-color: rgba(34, 197, 94, 0.6);
+}
+
+.marker-cluster-small div {
+    background-color: rgba(34, 197, 94, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+.marker-cluster-medium {
+    background-color: rgba(234, 179, 8, 0.6);
+}
+
+.marker-cluster-medium div {
+    background-color: rgba(234, 179, 8, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+.marker-cluster-large {
+    background-color: rgba(239, 68, 68, 0.6);
+}
+
+.marker-cluster-large div {
+    background-color: rgba(239, 68, 68, 0.8);
+    color: white;
+    font-weight: bold;
+}
+
+/* Custom Popup Styles */
+.leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.leaflet-popup-content {
+    margin: 12px 16px;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+.claim-popup-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #e5e7eb;
+}
+
+.claim-popup-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    font-size: 12px;
+}
+
+.claim-popup-label {
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.claim-popup-value {
+    color: #111827;
+    font-weight: 600;
+}
+
+.claim-status-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.claim-status-approved {
+    background-color: #dcfce7;
+    color: #166534;
+}
+
+.claim-status-pending {
+    background-color: #fef9c3;
+    color: #854d0e;
+}
+
+.claim-status-rejected {
+    background-color: #fee2e2;
+    color: #991b1b;
+}
+
+/* Custom Tooltip */
+.leaflet-tooltip {
+    background-color: rgba(17, 24, 39, 0.95);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 6px 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+    border-top-color: rgba(17, 24, 39, 0.95);
+}
+
+/* Map Controls */
+.leaflet-control-layers {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.leaflet-control-zoom a {
+    border-radius: 4px;
+}
+
+/* Custom Marker Icons */
+.custom-marker-icon {
+    border-radius: 50%;
+    border: 3px solid white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Highlighted Polygon Styles */
+.highlighted-polygon {
+    fill-opacity: 0.2 !important;
+    stroke-width: 3 !important;
+}
+
+/* District Tooltip on Hover */
+.district-tooltip {
+    background-color: rgba(17, 24, 39, 0.95) !important;
+    border: none !important;
+    border-radius: 6px !important;
+    color: white !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    padding: 8px 12px !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2) !important;
+}

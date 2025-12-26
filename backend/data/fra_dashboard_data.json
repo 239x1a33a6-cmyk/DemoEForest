@@ -1,0 +1,193 @@
+{
+    "national_summary": {
+        "total_claims": 4789234,
+        "claims_disposed": 2946023,
+        "titles_distributed": 2156789,
+        "pending_claims": 1843211,
+        "disposal_percentage": 61.5,
+        "titles_percentage": 45.0
+    },
+    "states": [
+        {
+            "state": "Odisha",
+            "total_claims": 892456,
+            "granted_claims": 645234,
+            "pending_claims": 147222,
+            "rejected_claims": 100000,
+            "community_claims": 12000,
+            "individual_claims": 880456,
+            "percent_disposed": 83.5,
+            "percent_titles_issued": 72.3
+        },
+        {
+            "state": "Madhya Pradesh",
+            "total_claims": 756234,
+            "granted_claims": 489456,
+            "pending_claims": 166778,
+            "rejected_claims": 100000,
+            "community_claims": 25000,
+            "individual_claims": 731234,
+            "percent_disposed": 77.9,
+            "percent_titles_issued": 64.7
+        },
+        {
+            "state": "Jharkhand",
+            "total_claims": 645123,
+            "granted_claims": 387890,
+            "pending_claims": 157233,
+            "rejected_claims": 100000,
+            "community_claims": 8000,
+            "individual_claims": 637123,
+            "percent_disposed": 75.6,
+            "percent_titles_issued": 60.1
+        },
+        {
+            "state": "Telangana",
+            "total_claims": 534567,
+            "granted_claims": 289234,
+            "pending_claims": 145333,
+            "rejected_claims": 100000,
+            "community_claims": 5000,
+            "individual_claims": 529567,
+            "percent_disposed": 72.8,
+            "percent_titles_issued": 54.1
+        },
+        {
+            "state": "Tripura",
+            "total_claims": 423789,
+            "granted_claims": 198765,
+            "pending_claims": 125024,
+            "rejected_claims": 100000,
+            "community_claims": 2000,
+            "individual_claims": 421789,
+            "percent_disposed": 70.5,
+            "percent_titles_issued": 46.9
+        },
+        {
+            "state": "Chhattisgarh",
+            "total_claims": 850000,
+            "granted_claims": 420000,
+            "pending_claims": 330000,
+            "rejected_claims": 100000,
+            "community_claims": 35000,
+            "individual_claims": 815000,
+            "percent_disposed": 61.2,
+            "percent_titles_issued": 49.4
+        },
+        {
+            "state": "Maharashtra",
+            "total_claims": 380000,
+            "granted_claims": 150000,
+            "pending_claims": 180000,
+            "rejected_claims": 50000,
+            "community_claims": 7000,
+            "individual_claims": 373000,
+            "percent_disposed": 52.6,
+            "percent_titles_issued": 39.5
+        }
+    ],
+    "monthly_trends": [
+        {
+            "month": "Jul",
+            "approved": 42000,
+            "pending": 16000
+        },
+        {
+            "month": "Aug",
+            "approved": 48000,
+            "pending": 14000
+        },
+        {
+            "month": "Sep",
+            "approved": 45000,
+            "pending": 10000
+        },
+        {
+            "month": "Oct",
+            "approved": 52000,
+            "pending": 16000
+        },
+        {
+            "month": "Nov",
+            "approved": 58000,
+            "pending": 13000
+        },
+        {
+            "month": "Dec",
+            "approved": 61000,
+            "pending": 14000
+        }
+    ],
+    "category_split": [
+        {
+            "name": "IFR (Individual)",
+            "value": 1456789,
+            "color": "#10b981"
+        },
+        {
+            "name": "CFR (Community)",
+            "value": 523456,
+            "color": "#3b82f6"
+        },
+        {
+            "name": "CR (Community Resource)",
+            "value": 176544,
+            "color": "#8b5cf6"
+        }
+    ],
+    "status_split": [
+        {
+            "name": "Granted",
+            "value": 2156789,
+            "color": "#10b981"
+        },
+        {
+            "name": "Pending",
+            "value": 1843211,
+            "color": "#f59e0b"
+        },
+        {
+            "name": "Rejected",
+            "value": 789234,
+            "color": "#ef4444"
+        }
+    ],
+    "recent_activity": [
+        {
+            "id": 1,
+            "type": "grant",
+            "text": "Odisha granted 1,234 new IFR titles",
+            "time": "2 hours ago"
+        },
+        {
+            "id": 2,
+            "type": "review",
+            "text": "Jharkhand DLC meeting scheduled",
+            "time": "5 hours ago"
+        },
+        {
+            "id": 3,
+            "type": "reject",
+            "text": "234 claims rejected in MP due to lack of evidence",
+            "time": "1 day ago"
+        },
+        {
+            "id": 4,
+            "type": "grant",
+            "text": "Tripura distributed 456 CFR titles",
+            "time": "1 day ago"
+        },
+        {
+            "id": 5,
+            "type": "upload",
+            "text": "Telangana uploaded new claim data",
+            "time": "2 days ago"
+        },
+        {
+            "id": 6,
+            "type": "system",
+            "text": "System maintenance completed",
+            "time": "3 days ago"
+        }
+    ]
+}
