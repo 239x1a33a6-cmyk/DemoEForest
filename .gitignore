@@ -1,2 +1,19 @@
-/backups/
-node_modules
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Backup folders
+backups/
+backup/
+
+# OS files
+.DS_Store
+
+# Build output
+dist/
+build/
