@@ -17,7 +17,7 @@
     "autoprefixer": "^10.4.21",
     "bcryptjs": "^3.0.3",
     "file-saver": "^2.0.5",
-    "firebase": "^10.14.1",
+    "firebase": "^12.7.0",
     "firebase-admin": "^11.11.1",
     "html2canvas": "^1.4.1",
     "i18next": "^25.7.1",
